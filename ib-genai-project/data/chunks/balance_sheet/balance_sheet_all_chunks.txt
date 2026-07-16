@@ -1,0 +1,2920 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 35,934,000,000
+- Short Term Investments: 18,763,000,000
+- Cash And Short Term Investments: 54,697,000,000
+- Net Receivables: 72,957,000,000
+- Accounts Receivables: 39,777,000,000
+- Other Receivables: 33,180,000,000
+- Inventory: 5,718,000,000
+- Prepaids: 0
+- Other Current Assets: 14,585,000,000
+- Total Current Assets: 147,957,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 49,834,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,723,000,000
+- Tax Assets: 20,777,000,000
+- Other Non Current Assets: 62,950,000,000
+- Total Non Current Assets: 211,284,000,000
+- Other Assets: 0
+- Total Assets: 359,241,000,000
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 82,876,000,000
+- Account Payables: 69,860,000,000
+- Other Payables: 13,016,000,000
+- Accrued Expenses: 8,919,000,000
+- Short Term Debt: 20,329,000,000
+- Capital Lease Obligations Current: 2,117,000,000
+- Tax Payables: 0
+- Deferred Revenue: 9,055,000,000
+- Other Current Liabilities: 42,335,000,000
+- Total Current Liabilities: 165,631,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 78,328,000,000
+- Capital Lease Obligations Non Current: 11,603,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 29,946,000,000
+- Total Non Current Liabilities: 119,877,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 13,720,000,000
+- Total Liabilities: 285,508,000,000
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 93,568,000,000
+- Retained Earnings: -14,264,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -5,571,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 73,733,000,000
+- Total Equity: 73,733,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 359,241,000,000
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 96,486,000,000
+- Short Term Debt: 20,329,000,000
+- Long Term Debt: 78,328,000,000
+- Capital Lease Obligations: 13,720,000,000
+- Total Debt: 112,377,000,000
+- Cash And Cash Equivalents: 35,934,000,000
+- Net Debt: 76,443,000,000
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 29,943,000,000
+- Short Term Investments: 35,228,000,000
+- Cash And Short Term Investments: 65,171,000,000
+- Net Receivables: 66,243,000,000
+- Accounts Receivables: 33,410,000,000
+- Other Receivables: 32,833,000,000
+- Inventory: 7,286,000,000
+- Prepaids: 0
+- Other Current Assets: 14,287,000,000
+- Total Current Assets: 152,987,000,000
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 45,680,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 91,479,000,000
+- Tax Assets: 19,499,000,000
+- Other Non Current Assets: 55,335,000,000
+- Total Non Current Assets: 211,993,000,000
+- Other Assets: 0
+- Total Assets: 364,980,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 95,561,000,000
+- Account Payables: 68,960,000,000
+- Other Payables: 26,601,000,000
+- Accrued Expenses: 0
+- Short Term Debt: 20,879,000,000
+- Capital Lease Obligations Current: 1,632,000,000
+- Tax Payables: 26,601,000,000
+- Deferred Revenue: 8,249,000,000
+- Other Current Liabilities: 50,071,000,000
+- Total Current Liabilities: 176,392,000,000
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 85,750,000,000
+- Capital Lease Obligations Non Current: 10,798,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 35,090,000,000
+- Total Non Current Liabilities: 131,638,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 12,430,000,000
+- Total Liabilities: 308,030,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 83,276,000,000
+- Retained Earnings: -19,154,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -7,172,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 56,950,000,000
+- Total Equity: 56,950,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 364,980,000,000
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 126,707,000,000
+- Short Term Debt: 20,879,000,000
+- Long Term Debt: 85,750,000,000
+- Capital Lease Obligations: 12,430,000,000
+- Total Debt: 119,059,000,000
+- Cash And Cash Equivalents: 29,943,000,000
+- Net Debt: 89,116,000,000
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 29,965,000,000
+- Short Term Investments: 31,590,000,000
+- Cash And Short Term Investments: 61,555,000,000
+- Net Receivables: 60,985,000,000
+- Accounts Receivables: 29,508,000,000
+- Other Receivables: 31,477,000,000
+- Inventory: 6,331,000,000
+- Prepaids: 0
+- Other Current Assets: 14,695,000,000
+- Total Current Assets: 143,566,000,000
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 54,376,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 100,544,000,000
+- Tax Assets: 17,852,000,000
+- Other Non Current Assets: 36,245,000,000
+- Total Non Current Assets: 209,017,000,000
+- Other Assets: 0
+- Total Assets: 352,583,000,000
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 71,430,000,000
+- Account Payables: 62,611,000,000
+- Other Payables: 8,819,000,000
+- Accrued Expenses: 0
+- Short Term Debt: 15,807,000,000
+- Capital Lease Obligations Current: 1,575,000,000
+- Tax Payables: 8,819,000,000
+- Deferred Revenue: 8,061,000,000
+- Other Current Liabilities: 48,435,000,000
+- Total Current Liabilities: 145,308,000,000
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 95,281,000,000
+- Capital Lease Obligations Non Current: 11,267,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 38,581,000,000
+- Total Non Current Liabilities: 145,129,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 12,842,000,000
+- Total Liabilities: 290,437,000,000
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 73,812,000,000
+- Retained Earnings: -214,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -11,452,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 62,146,000,000
+- Total Equity: 62,146,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 352,583,000,000
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 132,134,000,000
+- Short Term Debt: 15,807,000,000
+- Long Term Debt: 95,281,000,000
+- Capital Lease Obligations: 12,842,000,000
+- Total Debt: 123,930,000,000
+- Cash And Cash Equivalents: 29,965,000,000
+- Net Debt: 93,965,000,000
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 23,646,000,000
+- Short Term Investments: 24,658,000,000
+- Cash And Short Term Investments: 48,304,000,000
+- Net Receivables: 60,932,000,000
+- Accounts Receivables: 28,184,000,000
+- Other Receivables: 32,748,000,000
+- Inventory: 4,946,000,000
+- Prepaids: 0
+- Other Current Assets: 21,223,000,000
+- Total Current Assets: 135,405,000,000
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 52,534,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 120,805,000,000
+- Tax Assets: 15,375,000,000
+- Other Non Current Assets: 28,636,000,000
+- Total Non Current Assets: 217,350,000,000
+- Other Assets: 0
+- Total Assets: 352,755,000,000
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 70,667,000,000
+- Account Payables: 64,115,000,000
+- Other Payables: 6,552,000,000
+- Accrued Expenses: 0
+- Short Term Debt: 21,110,000,000
+- Capital Lease Obligations Current: 1,663,000,000
+- Tax Payables: 6,552,000,000
+- Deferred Revenue: 7,912,000,000
+- Other Current Liabilities: 52,630,000,000
+- Total Current Liabilities: 153,982,000,000
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 98,959,000,000
+- Capital Lease Obligations Non Current: 10,748,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 38,394,000,000
+- Total Non Current Liabilities: 148,101,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 12,411,000,000
+- Total Liabilities: 302,083,000,000
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 64,849,000,000
+- Retained Earnings: -3,068,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -11,109,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 50,672,000,000
+- Total Equity: 50,672,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 352,755,000,000
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 145,463,000,000
+- Short Term Debt: 21,110,000,000
+- Long Term Debt: 98,959,000,000
+- Capital Lease Obligations: 12,411,000,000
+- Total Debt: 132,480,000,000
+- Cash And Cash Equivalents: 23,646,000,000
+- Net Debt: 108,834,000,000
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 34,940,000,000
+- Short Term Investments: 27,699,000,000
+- Cash And Short Term Investments: 62,639,000,000
+- Net Receivables: 51,506,000,000
+- Accounts Receivables: 26,278,000,000
+- Other Receivables: 25,228,000,000
+- Inventory: 6,580,000,000
+- Prepaids: 0
+- Other Current Assets: 14,111,000,000
+- Total Current Assets: 134,836,000,000
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 49,527,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 127,877,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 38,762,000,000
+- Total Non Current Assets: 216,166,000,000
+- Other Assets: 0
+- Total Assets: 351,002,000,000
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 54,763,000,000
+- Account Payables: 54,763,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 15,613,000,000
+- Capital Lease Obligations Current: 1,528,000,000
+- Tax Payables: 0
+- Deferred Revenue: 7,612,000,000
+- Other Current Liabilities: 45,965,000,000
+- Total Current Liabilities: 125,481,000,000
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 109,106,000,000
+- Capital Lease Obligations Non Current: 10,275,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 43,050,000,000
+- Total Non Current Liabilities: 162,431,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 11,803,000,000
+- Total Liabilities: 287,912,000,000
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 57,365,000,000
+- Retained Earnings: 5,562,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: 163,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 63,090,000,000
+- Total Equity: 63,090,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 351,002,000,000
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: balance_sheet_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 155,576,000,000
+- Short Term Debt: 15,613,000,000
+- Long Term Debt: 109,106,000,000
+- Capital Lease Obligations: 11,803,000,000
+- Total Debt: 136,522,000,000
+- Cash And Cash Equivalents: 34,940,000,000
+- Net Debt: 101,582,000,000
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 45,317,000,000
+- Short Term Investments: 21,590,000,000
+- Cash And Short Term Investments: 66,907,000,000
+- Net Receivables: 70,320,000,000
+- Accounts Receivables: 39,921,000,000
+- Other Receivables: 30,399,000,000
+- Inventory: 5,875,000,000
+- Prepaids: 0
+- Other Current Assets: 15,002,000,000
+- Total Current Assets: 158,104,000,000
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 50,159,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,888,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 93,146,000,000
+- Total Non Current Assets: 221,193,000,000
+- Other Assets: 0
+- Total Assets: 379,297,000,000
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Current Liabilities Metrics:
+- Total Payables: 70,587,000,000
+- Account Payables: 70,587,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 13,824,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 9,413,000,000
+- Other Current Liabilities: 68,543,000,000
+- Total Current Liabilities: 162,367,000,000
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 76,685,000,000
+- Capital Lease Obligations Non Current: 0
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 52,055,000,000
+- Total Non Current Liabilities: 128,740,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 291,107,000,000
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 95,221,000,000
+- Retained Earnings: -2,177,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -4,854,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 88,190,000,000
+- Total Equity: 88,190,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 379,297,000,000
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Debt and Investment Summary Metrics:
+- Total Investments: 99,478,000,000
+- Short Term Debt: 13,824,000,000
+- Long Term Debt: 76,685,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 90,509,000,000
+- Cash And Cash Equivalents: 45,317,000,000
+- Net Debt: 45,192,000,000
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 35,934,000,000
+- Short Term Investments: 18,763,000,000
+- Cash And Short Term Investments: 54,697,000,000
+- Net Receivables: 72,957,000,000
+- Accounts Receivables: 39,777,000,000
+- Other Receivables: 33,180,000,000
+- Inventory: 5,718,000,000
+- Prepaids: 0
+- Other Current Assets: 14,585,000,000
+- Total Current Assets: 147,957,000,000
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 49,834,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,723,000,000
+- Tax Assets: 20,777,000,000
+- Other Non Current Assets: 62,950,000,000
+- Total Non Current Assets: 211,284,000,000
+- Other Assets: 0
+- Total Assets: 359,241,000,000
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Current Liabilities Metrics:
+- Total Payables: 82,876,000,000
+- Account Payables: 69,860,000,000
+- Other Payables: 13,016,000,000
+- Accrued Expenses: 8,919,000,000
+- Short Term Debt: 20,329,000,000
+- Capital Lease Obligations Current: 2,117,000,000
+- Tax Payables: 0
+- Deferred Revenue: 9,055,000,000
+- Other Current Liabilities: 42,335,000,000
+- Total Current Liabilities: 165,631,000,000
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 78,328,000,000
+- Capital Lease Obligations Non Current: 11,603,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 29,946,000,000
+- Total Non Current Liabilities: 119,877,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 13,720,000,000
+- Total Liabilities: 285,508,000,000
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 93,568,000,000
+- Retained Earnings: -14,264,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -5,571,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 73,733,000,000
+- Total Equity: 73,733,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 359,241,000,000
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Debt and Investment Summary Metrics:
+- Total Investments: 96,486,000,000
+- Short Term Debt: 20,329,000,000
+- Long Term Debt: 78,328,000,000
+- Capital Lease Obligations: 13,720,000,000
+- Total Debt: 112,377,000,000
+- Cash And Cash Equivalents: 35,934,000,000
+- Net Debt: 76,443,000,000
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 36,269,000,000
+- Short Term Investments: 19,103,000,000
+- Cash And Short Term Investments: 55,372,000,000
+- Net Receivables: 46,835,000,000
+- Accounts Receivables: 27,557,000,000
+- Other Receivables: 19,278,000,000
+- Inventory: 5,925,000,000
+- Prepaids: 0
+- Other Current Assets: 14,359,000,000
+- Total Current Assets: 122,491,000,000
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 48,508,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,614,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 82,882,000,000
+- Total Non Current Assets: 209,004,000,000
+- Other Assets: 0
+- Total Assets: 331,495,000,000
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Current Liabilities Metrics:
+- Total Payables: 50,374,000,000
+- Account Payables: 50,374,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 19,268,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 8,979,000,000
+- Other Current Liabilities: 62,499,000,000
+- Total Current Liabilities: 141,120,000,000
+
+CHUNK NUMBER: 46
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 82,430,000,000
+- Capital Lease Obligations Non Current: 0
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 42,115,000,000
+- Total Non Current Liabilities: 124,545,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 265,665,000,000
+
+CHUNK NUMBER: 47
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 89,806,000,000
+- Retained Earnings: -17,607,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -6,369,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 65,830,000,000
+- Total Equity: 65,830,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 331,495,000,000
+
+CHUNK NUMBER: 48
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Debt and Investment Summary Metrics:
+- Total Investments: 96,717,000,000
+- Short Term Debt: 19,268,000,000
+- Long Term Debt: 82,430,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 101,698,000,000
+- Cash And Cash Equivalents: 36,269,000,000
+- Net Debt: 65,429,000,000
+
+CHUNK NUMBER: 49
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 28,162,000,000
+- Short Term Investments: 20,336,000,000
+- Cash And Short Term Investments: 48,498,000,000
+- Net Receivables: 49,798,000,000
+- Accounts Receivables: 26,136,000,000
+- Other Receivables: 23,662,000,000
+- Inventory: 6,269,000,000
+- Prepaids: 0
+- Other Current Assets: 14,109,000,000
+- Total Current Assets: 118,674,000,000
+
+CHUNK NUMBER: 50
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 46,876,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 84,424,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 81,259,000,000
+- Total Non Current Assets: 212,559,000,000
+- Other Assets: 0
+- Total Assets: 331,233,000,000
+
+CHUNK NUMBER: 51
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Current Liabilities Metrics:
+- Total Payables: 54,126,000,000
+- Account Payables: 54,126,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 19,620,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 8,976,000,000
+- Other Current Liabilities: 61,849,000,000
+- Total Current Liabilities: 144,571,000,000
+
+CHUNK NUMBER: 52
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 78,566,000,000
+- Capital Lease Obligations Non Current: 0
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 41,300,000,000
+- Total Non Current Liabilities: 119,866,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 264,437,000,000
+
+CHUNK NUMBER: 53
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 88,711,000,000
+- Retained Earnings: -15,552,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -6,363,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 66,796,000,000
+- Total Equity: 66,796,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 331,233,000,000
+
+CHUNK NUMBER: 54
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Debt and Investment Summary Metrics:
+- Total Investments: 104,760,000,000
+- Short Term Debt: 19,620,000,000
+- Long Term Debt: 78,566,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 98,186,000,000
+- Cash And Cash Equivalents: 28,162,000,000
+- Net Debt: 70,024,000,000
+
+CHUNK NUMBER: 55
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 30,299,000,000
+- Short Term Investments: 23,476,000,000
+- Cash And Short Term Investments: 53,775,000,000
+- Net Receivables: 59,306,000,000
+- Accounts Receivables: 29,639,000,000
+- Other Receivables: 29,667,000,000
+- Inventory: 6,911,000,000
+- Prepaids: 0
+- Other Current Assets: 13,248,000,000
+- Total Current Assets: 133,240,000,000
+
+CHUNK NUMBER: 56
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 46,069,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 87,593,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 77,183,000,000
+- Total Non Current Assets: 210,845,000,000
+- Other Assets: 0
+- Total Assets: 344,085,000,000
+
+CHUNK NUMBER: 57
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Current Liabilities Metrics:
+- Total Payables: 61,910,000,000
+- Account Payables: 61,910,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 12,843,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 8,461,000,000
+- Other Current Liabilities: 61,151,000,000
+- Total Current Liabilities: 144,365,000,000
+
+CHUNK NUMBER: 58
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 83,956,000,000
+- Capital Lease Obligations Non Current: 0
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 49,006,000,000
+- Total Non Current Liabilities: 132,962,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 277,327,000,000
+
+CHUNK NUMBER: 59
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 84,768,000,000
+- Retained Earnings: -11,221,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -6,789,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 66,758,000,000
+- Total Equity: 66,758,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 344,085,000,000
+
+CHUNK NUMBER: 60
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Debt and Investment Summary Metrics:
+- Total Investments: 111,069,000,000
+- Short Term Debt: 12,843,000,000
+- Long Term Debt: 83,956,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 96,799,000,000
+- Cash And Cash Equivalents: 30,299,000,000
+- Net Debt: 66,500,000,000
+
+CHUNK NUMBER: 61
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 45,317,000,000
+- Short Term Investments: 21,590,000,000
+- Cash And Short Term Investments: 66,907,000,000
+- Net Receivables: 70,320,000,000
+- Accounts Receivables: 39,921,000,000
+- Other Receivables: 30,399,000,000
+- Inventory: 5,875,000,000
+- Prepaids: 0
+- Other Current Assets: 15,002,000,000
+- Total Current Assets: 158,104,000,000
+
+CHUNK NUMBER: 62
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 50,159,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,888,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 93,146,000,000
+- Total Non Current Assets: 221,193,000,000
+- Other Assets: 0
+- Total Assets: 379,297,000,000
+
+CHUNK NUMBER: 63
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Current Liabilities Metrics:
+- Total Payables: 70,587,000,000
+- Account Payables: 70,587,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 13,824,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 9,413,000,000
+- Other Current Liabilities: 68,543,000,000
+- Total Current Liabilities: 162,367,000,000
+
+CHUNK NUMBER: 64
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 76,685,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 52,055,000,000
+- Total Non Current Liabilities: 128,740,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 291,107,000,000
+
+CHUNK NUMBER: 65
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 95,221,000,000
+- Retained Earnings: -2,177,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -4,854,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 88,190,000,000
+- Total Equity: 88,190,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 379,297,000,000
+
+CHUNK NUMBER: 66
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Debt and Investment Summary Metrics:
+- Total Investments: 99,478,000,000
+- Short Term Debt: 13,824,000,000
+- Long Term Debt: 76,685,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 90,509,000,000
+- Cash And Cash Equivalents: 45,317,000,000
+- Net Debt: 45,192,000,000
+
+CHUNK NUMBER: 67
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 35,934,000,000
+- Short Term Investments: 18,763,000,000
+- Cash And Short Term Investments: 54,697,000,000
+- Net Receivables: 72,957,000,000
+- Accounts Receivables: 39,777,000,000
+- Other Receivables: 33,180,000,000
+- Inventory: 5,718,000,000
+- Prepaids: 0
+- Other Current Assets: 14,585,000,000
+- Total Current Assets: 147,957,000,000
+
+CHUNK NUMBER: 68
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 49,834,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,723,000,000
+- Tax Assets: 20,777,000,000
+- Other Non Current Assets: 62,950,000,000
+- Total Non Current Assets: 211,284,000,000
+- Other Assets: 0
+- Total Assets: 359,241,000,000
+
+CHUNK NUMBER: 69
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Current Liabilities Metrics:
+- Total Payables: 82,876,000,000
+- Account Payables: 69,860,000,000
+- Other Payables: 13,016,000,000
+- Accrued Expenses: 8,919,000,000
+- Short Term Debt: 20,329,000,000
+- Capital Lease Obligations Current: 2,117,000,000
+- Tax Payables: 0
+- Deferred Revenue: 9,055,000,000
+- Other Current Liabilities: 42,335,000,000
+- Total Current Liabilities: 165,631,000,000
+
+CHUNK NUMBER: 70
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 78,328,000,000
+- Deferred Revenue Non Current: 11,603,000,000
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 29,946,000,000
+- Total Non Current Liabilities: 119,877,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 13,720,000,000
+- Total Liabilities: 285,508,000,000
+
+CHUNK NUMBER: 71
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 93,568,000,000
+- Retained Earnings: -14,264,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -5,571,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 73,733,000,000
+- Total Equity: 73,733,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 359,241,000,000
+
+CHUNK NUMBER: 72
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Debt and Investment Summary Metrics:
+- Total Investments: 96,486,000,000
+- Short Term Debt: 20,329,000,000
+- Long Term Debt: 78,328,000,000
+- Capital Lease Obligations: 13,720,000,000
+- Total Debt: 112,377,000,000
+- Cash And Cash Equivalents: 35,934,000,000
+- Net Debt: 76,443,000,000
+
+CHUNK NUMBER: 73
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 36,269,000,000
+- Short Term Investments: 19,103,000,000
+- Cash And Short Term Investments: 55,372,000,000
+- Net Receivables: 46,835,000,000
+- Accounts Receivables: 27,557,000,000
+- Other Receivables: 19,278,000,000
+- Inventory: 5,925,000,000
+- Prepaids: 0
+- Other Current Assets: 14,359,000,000
+- Total Current Assets: 122,491,000,000
+
+CHUNK NUMBER: 74
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 48,508,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 77,614,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 82,882,000,000
+- Total Non Current Assets: 209,004,000,000
+- Other Assets: 0
+- Total Assets: 331,495,000,000
+
+CHUNK NUMBER: 75
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Current Liabilities Metrics:
+- Total Payables: 50,374,000,000
+- Account Payables: 50,374,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 19,268,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 8,979,000,000
+- Other Current Liabilities: 62,499,000,000
+- Total Current Liabilities: 141,120,000,000
+
+CHUNK NUMBER: 76
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 82,430,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 42,115,000,000
+- Total Non Current Liabilities: 124,545,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 265,665,000,000
+
+CHUNK NUMBER: 77
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 89,806,000,000
+- Retained Earnings: -17,607,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -6,369,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 65,830,000,000
+- Total Equity: 65,830,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 331,495,000,000
+
+CHUNK NUMBER: 78
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Debt and Investment Summary Metrics:
+- Total Investments: 96,717,000,000
+- Short Term Debt: 19,268,000,000
+- Long Term Debt: 82,430,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 101,698,000,000
+- Cash And Cash Equivalents: 36,269,000,000
+- Net Debt: 65,429,000,000
+
+CHUNK NUMBER: 79
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 28,162,000,000
+- Short Term Investments: 20,336,000,000
+- Cash And Short Term Investments: 48,498,000,000
+- Net Receivables: 49,798,000,000
+- Accounts Receivables: 26,136,000,000
+- Other Receivables: 23,662,000,000
+- Inventory: 6,269,000,000
+- Prepaids: 0
+- Other Current Assets: 14,109,000,000
+- Total Current Assets: 118,674,000,000
+
+CHUNK NUMBER: 80
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 46,876,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 84,424,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 81,259,000,000
+- Total Non Current Assets: 212,559,000,000
+- Other Assets: 0
+- Total Assets: 331,233,000,000
+
+CHUNK NUMBER: 81
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Current Liabilities Metrics:
+- Total Payables: 54,126,000,000
+- Account Payables: 54,126,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 19,620,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 8,976,000,000
+- Other Current Liabilities: 61,849,000,000
+- Total Current Liabilities: 144,571,000,000
+
+CHUNK NUMBER: 82
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 78,566,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 41,300,000,000
+- Total Non Current Liabilities: 119,866,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 264,437,000,000
+
+CHUNK NUMBER: 83
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 88,711,000,000
+- Retained Earnings: -15,552,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -6,363,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 66,796,000,000
+- Total Equity: 66,796,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 331,233,000,000
+
+CHUNK NUMBER: 84
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Debt and Investment Summary Metrics:
+- Total Investments: 104,760,000,000
+- Short Term Debt: 19,620,000,000
+- Long Term Debt: 78,566,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 98,186,000,000
+- Cash And Cash Equivalents: 28,162,000,000
+- Net Debt: 70,024,000,000
+
+CHUNK NUMBER: 85
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 30,299,000,000
+- Short Term Investments: 23,476,000,000
+- Cash And Short Term Investments: 53,775,000,000
+- Net Receivables: 59,306,000,000
+- Accounts Receivables: 29,639,000,000
+- Other Receivables: 29,667,000,000
+- Inventory: 6,911,000,000
+- Prepaids: 0
+- Other Current Assets: 13,248,000,000
+- Total Current Assets: 133,240,000,000
+
+CHUNK NUMBER: 86
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 46,069,000,000
+- Goodwill: 0
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 0
+- Long Term Investments: 87,593,000,000
+- Tax Assets: 0
+- Other Non Current Assets: 77,183,000,000
+- Total Non Current Assets: 210,845,000,000
+- Other Assets: 0
+- Total Assets: 344,085,000,000
+
+CHUNK NUMBER: 87
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Current Liabilities Metrics:
+- Total Payables: 61,910,000,000
+- Account Payables: 61,910,000,000
+- Other Payables: 0
+- Accrued Expenses: 0
+- Short Term Debt: 12,843,000,000
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 8,461,000,000
+- Other Current Liabilities: 61,151,000,000
+- Total Current Liabilities: 144,365,000,000
+
+CHUNK NUMBER: 88
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 83,956,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 49,006,000,000
+- Total Non Current Liabilities: 132,962,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 0
+- Total Liabilities: 277,327,000,000
+
+CHUNK NUMBER: 89
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Shareholders Equity Metrics:
+- Treasury Stock: 0
+- Preferred Stock: 0
+- Common Stock: 84,768,000,000
+- Retained Earnings: -11,221,000,000
+- Additional Paid In Capital: 0
+- Accumulated Other Comprehensive Income Loss: -6,789,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 66,758,000,000
+- Total Equity: 66,758,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 344,085,000,000
+
+CHUNK NUMBER: 90
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Debt and Investment Summary Metrics:
+- Total Investments: 111,069,000,000
+- Short Term Debt: 12,843,000,000
+- Long Term Debt: 83,956,000,000
+- Capital Lease Obligations: 0
+- Total Debt: 96,799,000,000
+- Cash And Cash Equivalents: 30,299,000,000
+- Net Debt: 66,500,000,000
+
