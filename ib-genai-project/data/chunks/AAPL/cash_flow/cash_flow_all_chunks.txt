@@ -1,0 +1,375 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_current_assets
+SOURCE FILE: cash_flow_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: cash_flow_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Current Assets Metrics:
+- Accounts Receivables: -6,682,000,000
+- Inventory: 1,400,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_current_assets
+SOURCE FILE: cash_flow_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: cash_flow_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Current Assets Metrics:
+- Accounts Receivables: -5,144,000,000
+- Inventory: -1,046,000,000
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_current_assets
+SOURCE FILE: cash_flow_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: cash_flow_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Current Assets Metrics:
+- Accounts Receivables: -417,000,000
+- Inventory: -1,618,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_current_assets
+SOURCE FILE: cash_flow_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: cash_flow_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Current Assets Metrics:
+- Accounts Receivables: -9,343,000,000
+- Inventory: 1,484,000,000
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_current_assets
+SOURCE FILE: cash_flow_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: cash_flow_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Current Assets Metrics:
+- Accounts Receivables: -14,028,000,000
+- Inventory: -2,642,000,000
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_current_assets
+SOURCE FILE: cash_flow_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: cash_flow_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Current Assets Metrics:
+- Accounts Receivables: 2,628,000,000
+- Inventory: -211,000,000
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_current_assets
+SOURCE FILE: cash_flow_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: cash_flow_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Current Assets Metrics:
+- Accounts Receivables: -26,269,000,000
+- Inventory: 177,000,000
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_current_assets
+SOURCE FILE: cash_flow_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: cash_flow_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Current Assets Metrics:
+- Accounts Receivables: 2,803,000,000
+- Inventory: 365,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_current_assets
+SOURCE FILE: cash_flow_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: cash_flow_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Current Assets Metrics:
+- Accounts Receivables: 9,674,000,000
+- Inventory: 643,000,000
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_current_assets
+SOURCE FILE: cash_flow_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: cash_flow_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Current Assets Metrics:
+- Accounts Receivables: 6,763,000,000
+- Inventory: 215,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_current_assets
+SOURCE FILE: cash_flow_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: cash_flow_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Current Assets Metrics:
+- Accounts Receivables: -11,164,000,000
+- Inventory: 974,000,000
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_current_assets
+SOURCE FILE: cash_flow_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: cash_flow_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Current Assets Metrics:
+- Accounts Receivables: -7,029,000,000
+- Inventory: 1,400,000,000
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_current_assets
+SOURCE FILE: cash_flow_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: cash_flow_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Current Assets Metrics:
+- Accounts Receivables: -3,701,000,000
+- Inventory: 136,000,000
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_current_assets
+SOURCE FILE: cash_flow_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: cash_flow_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Current Assets Metrics:
+- Accounts Receivables: -8,598,000,000
+- Inventory: -241,000,000
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_current_assets
+SOURCE FILE: cash_flow_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: cash_flow_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: cash_flow_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Current Assets Metrics:
+- Accounts Receivables: -9,505,000,000
+- Inventory: -694,000,000
+
