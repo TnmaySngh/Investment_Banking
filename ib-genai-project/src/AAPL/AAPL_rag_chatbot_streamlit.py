@@ -67,18 +67,11 @@ TOP_K_DEFAULT = 3
 MAX_RETRIES = 2
 MEMORY_WINDOW_DEFAULT = 5
 
-# Common Ollama models offered even if not yet pulled locally, so the
-# dropdown is useful before running `ollama pull <model>`.
-# Full Gemma family available on Ollama, kept separate so it can be
-# surfaced/filtered independently of the rest of the model catalog.
+# Gemma family recognized for the "Show Gemma models only" filter. This is
+# only used to filter the list of *installed* models below — it does not
+# add any uninstalled models to the dropdown.
 GEMMA_MODELS = [
     "gemma3",
-]
-
-COMMON_OLLAMA_MODELS = GEMMA_MODELS + [
-    "llama3.2",
-    "mistral",
-    "phi4",
 ]
 
 DB_CONFIG = {
@@ -406,18 +399,22 @@ with st.sidebar:
         st.error("Ollama not reachable at localhost:11434", icon="🔴")
         st.caption("Run `ollama serve` in a terminal, then refresh this page.")
         
-    # Merge locally-pulled models with the common catalog so the dropdown is
-    # useful even before a model has been pulled. Pulled models are marked.
+    # Only offer models that are actually pulled/installed locally, so the
+    # dropdown never lists something the user can't actually run yet.
     pulled_set = set(available_models)
 
     gemma_only = st.checkbox("Show Gemma models only", value=False)
-    base_catalog = GEMMA_MODELS if gemma_only else COMMON_OLLAMA_MODELS
-
-    catalog = list(dict.fromkeys(available_models + base_catalog))  # dedupe, preserve order
+    catalog = list(dict.fromkeys(available_models))  # dedupe, preserve order
     if gemma_only:
         catalog = [m for m in catalog if m in set(GEMMA_MODELS) or m.startswith("gemma")]
 
-    labeled_options = [f"{m}  {'✅ pulled' if m in pulled_set else '⬇️ not pulled'}" for m in catalog]
+    if not catalog:
+        st.warning(
+            "No installed Ollama models found. Run `ollama pull <model>` "
+            "(e.g. `ollama pull gemma3`) then refresh this page."
+        )
+
+    labeled_options = [f"{m}  ✅ pulled" for m in catalog]
     labeled_options.append("✏️ Custom model name...")
 
     default_label = next(
@@ -431,10 +428,10 @@ with st.sidebar:
     if selected_label == "✏️ Custom model name...":
         model_name = st.text_input("Enter Ollama model name", value=OLLAMA_MODEL_DEFAULT,
                                      help="Must already be pulled, e.g. via `ollama pull <name>`.")
-    else:
-        model_name = selected_label.split("  ")[0]
         if model_name not in pulled_set:
             st.caption(f"⬇️ `{model_name}` isn't pulled yet — run `ollama pull {model_name}` first.")
+    else:
+        model_name = selected_label.split("  ")[0]
 
     st.divider()
 
