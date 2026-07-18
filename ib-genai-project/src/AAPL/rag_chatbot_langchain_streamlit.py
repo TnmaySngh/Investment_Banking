@@ -69,16 +69,24 @@ MEMORY_WINDOW_DEFAULT = 5
 
 # Common Ollama models offered even if not yet pulled locally, so the
 # dropdown is useful before running `ollama pull <model>`.
-# Full Gemma family available on Ollama, kept separate so it can be
-# surfaced/filtered independently of the rest of the model catalog.
-GEMMA_MODELS = [
+COMMON_OLLAMA_MODELS = [
     "gemma3",
-]
-
-COMMON_OLLAMA_MODELS = GEMMA_MODELS + [
+    "gemma3:1b",
+    "gemma3:4b",
+    "gemma3:12b",
+    "gemma3:27b",
+    "llama3.3",
     "llama3.2",
+    "llama3.1",
     "mistral",
+    "mixtral",
     "phi4",
+    "phi3",
+    "qwen2.5",
+    "qwen2.5:14b",
+    "deepseek-r1",
+    "codellama",
+    "command-r",
 ]
 
 DB_CONFIG = {
@@ -405,18 +413,11 @@ with st.sidebar:
     else:
         st.error("Ollama not reachable at localhost:11434", icon="🔴")
         st.caption("Run `ollama serve` in a terminal, then refresh this page.")
-        
+
     # Merge locally-pulled models with the common catalog so the dropdown is
     # useful even before a model has been pulled. Pulled models are marked.
     pulled_set = set(available_models)
-
-    gemma_only = st.checkbox("Show Gemma models only", value=False)
-    base_catalog = GEMMA_MODELS if gemma_only else COMMON_OLLAMA_MODELS
-
-    catalog = list(dict.fromkeys(available_models + base_catalog))  # dedupe, preserve order
-    if gemma_only:
-        catalog = [m for m in catalog if m in set(GEMMA_MODELS) or m.startswith("gemma")]
-
+    catalog = list(dict.fromkeys(available_models + COMMON_OLLAMA_MODELS))  # dedupe, preserve order
     labeled_options = [f"{m}  {'✅ pulled' if m in pulled_set else '⬇️ not pulled'}" for m in catalog]
     labeled_options.append("✏️ Custom model name...")
 
