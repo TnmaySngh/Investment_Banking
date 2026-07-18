@@ -2,7 +2,7 @@
 AAPL_rag_chatbot.py
 
 RAG Chatbot using:
-- Two ChromaDB databases
+- Three ChromaDB databases
 - Sentence Transformers
 - Ollama (Gemma3)
 """
@@ -18,6 +18,8 @@ from sentence_transformers import SentenceTransformer
 BALANCE_DB = r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\vector_db\AAPL\chroma_balance_sheet_db"
 
 CASHFLOW_DB = r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\vector_db\AAPL\chroma_cash_flow_db"
+
+INCOMESTATEMENT_DB = r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\vector_db\AAPL\chroma_income_statement_db"
 
 OLLAMA_MODEL = "gemma3"
 OLLAMA_URL = "http://localhost:11434/api/generate"
@@ -42,6 +44,7 @@ print("Connecting to Chroma databases...")
 
 balance_client = chromadb.PersistentClient(path=BALANCE_DB)
 cashflow_client = chromadb.PersistentClient(path=CASHFLOW_DB)
+incomestatement_client = chromadb.PersistentClient(path=INCOMESTATEMENT_DB)
 
 # ==========================================================
 # Show Available Collections
@@ -49,6 +52,7 @@ cashflow_client = chromadb.PersistentClient(path=CASHFLOW_DB)
 
 balance_collections = balance_client.list_collections()
 cashflow_collections = cashflow_client.list_collections()
+incomestatement_collections = incomestatement_client.list_collections()
 
 print("\nBalance Sheet Collections:")
 for c in balance_collections:

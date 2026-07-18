@@ -1,0 +1,2535 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 416,161,000,000
+- Cost Of Revenue: 220,960,000,000
+- Gross Profit: 195,201,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 34,550,000,000
+- General And Administrative Expenses: 8,077,000,000
+- Selling And Marketing Expenses: 19,524,000,000
+- Selling General And Administrative Expenses: 27,601,000,000
+- Other Expenses: 0
+- Operating Expenses: 62,151,000,000
+- Cost And Expenses: 283,111,000,000
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,698,000,000
+- Ebitda: 144,427,000,000
+- Ebit: 132,729,000,000
+- Operating Income: 133,050,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 321,000,000
+- Total Other Income Expenses Net: -321,000,000
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 132,729,000,000
+- Income Tax Expense: 20,719,000,000
+- Net Income From Continuing Operations: 112,010,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 112,010,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 112,010,000,000
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_annual_2_025_fy_2025_09_27_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 7.49
+- Eps Diluted: 7.46
+- Weighted Average Shs Out: 14,948,500,000
+- Weighted Average Shs Out Dil: 15,004,697,000
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 391,035,000,000
+- Cost Of Revenue: 210,352,000,000
+- Gross Profit: 180,683,000,000
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 31,370,000,000
+- General And Administrative Expenses: 7,458,000,000
+- Selling And Marketing Expenses: 18,639,000,000
+- Selling General And Administrative Expenses: 26,097,000,000
+- Other Expenses: 0
+- Operating Expenses: 57,467,000,000
+- Cost And Expenses: 267,819,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,445,000,000
+- Ebitda: 134,930,000,000
+- Ebit: 123,485,000,000
+- Operating Income: 123,216,000,000
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: -269,000,000
+- Total Other Income Expenses Net: 269,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 123,485,000,000
+- Income Tax Expense: 29,749,000,000
+- Net Income From Continuing Operations: 93,736,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 93,736,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 93,736,000,000
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_annual_2_024_fy_2024_09_28_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2024-09-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2024-11-01
+Accepted Date: 2024-11-01 06:01:36
+Fiscal Year: 2,024
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 6.11
+- Eps Diluted: 6.08
+- Weighted Average Shs Out: 15,343,783,000
+- Weighted Average Shs Out Dil: 15,408,095,000
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 383,285,000,000
+- Cost Of Revenue: 214,137,000,000
+- Gross Profit: 169,148,000,000
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 29,915,000,000
+- General And Administrative Expenses: 0
+- Selling And Marketing Expenses: 0
+- Selling General And Administrative Expenses: 24,932,000,000
+- Other Expenses: 0
+- Operating Expenses: 54,847,000,000
+- Cost And Expenses: 268,984,000,000
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,519,000,000
+- Ebitda: 129,188,000,000
+- Ebit: 117,669,000,000
+- Operating Income: 114,301,000,000
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: -183,000,000
+- Interest Income: 3,750,000,000
+- Interest Expense: 3,933,000,000
+- Non Operating Income Excluding Interest: -3,368,000,000
+- Total Other Income Expenses Net: -565,000,000
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 113,736,000,000
+- Income Tax Expense: 16,741,000,000
+- Net Income From Continuing Operations: 96,995,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 96,995,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 96,995,000,000
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: aapl_annual_2_023_fy_2023_09_30_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2023-09-30
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2023-11-03
+Accepted Date: 2023-11-02 18:08:27
+Fiscal Year: 2,023
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 6.16
+- Eps Diluted: 6.13
+- Weighted Average Shs Out: 15,744,231,000
+- Weighted Average Shs Out Dil: 15,812,547,000
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 394,328,000,000
+- Cost Of Revenue: 223,546,000,000
+- Gross Profit: 170,782,000,000
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 26,251,000,000
+- General And Administrative Expenses: 0
+- Selling And Marketing Expenses: 0
+- Selling General And Administrative Expenses: 25,094,000,000
+- Other Expenses: 0
+- Operating Expenses: 51,345,000,000
+- Cost And Expenses: 274,891,000,000
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,104,000,000
+- Ebitda: 133,138,000,000
+- Ebit: 122,034,000,000
+- Operating Income: 119,437,000,000
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: -106,000,000
+- Interest Income: 2,825,000,000
+- Interest Expense: 2,931,000,000
+- Non Operating Income Excluding Interest: -2,597,000,000
+- Total Other Income Expenses Net: -334,000,000
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 119,103,000,000
+- Income Tax Expense: 19,300,000,000
+- Net Income From Continuing Operations: 99,803,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 99,803,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 99,803,000,000
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: aapl_annual_2_022_fy_2022_09_24_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2022-09-24
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2022-10-28
+Accepted Date: 2022-10-27 18:01:14
+Fiscal Year: 2,022
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 6.15
+- Eps Diluted: 6.11
+- Weighted Average Shs Out: 16,215,963,000
+- Weighted Average Shs Out Dil: 16,325,819,000
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 365,817,000,000
+- Cost Of Revenue: 212,981,000,000
+- Gross Profit: 152,836,000,000
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 21,914,000,000
+- General And Administrative Expenses: 0
+- Selling And Marketing Expenses: 0
+- Selling General And Administrative Expenses: 21,973,000,000
+- Other Expenses: 0
+- Operating Expenses: 43,887,000,000
+- Cost And Expenses: 256,868,000,000
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,284,000,000
+- Ebitda: 123,136,000,000
+- Ebit: 111,852,000,000
+- Operating Income: 108,949,000,000
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 198,000,000
+- Interest Income: 2,843,000,000
+- Interest Expense: 2,645,000,000
+- Non Operating Income Excluding Interest: -2,903,000,000
+- Total Other Income Expenses Net: 258,000,000
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 109,207,000,000
+- Income Tax Expense: 14,527,000,000
+- Net Income From Continuing Operations: 94,680,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 94,680,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 94,680,000,000
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: aapl_annual_2_021_fy_2021_09_25_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AAPL
+Financial Statement: income_statement_annual
+Report Date: 2021-09-25
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2021-10-29
+Accepted Date: 2021-10-28 18:04:28
+Fiscal Year: 2,021
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 5.67
+- Eps Diluted: 5.61
+- Weighted Average Shs Out: 16,701,272,000
+- Weighted Average Shs Out Dil: 16,864,919,000
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Revenue and Gross Profit Metrics:
+- Revenue: 143,756,000,000
+- Cost Of Revenue: 74,525,000,000
+- Gross Profit: 69,231,000,000
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 10,887,000,000
+- General And Administrative Expenses: 2,095,000,000
+- Selling And Marketing Expenses: 5,397,000,000
+- Selling General And Administrative Expenses: 7,492,000,000
+- Other Expenses: 0
+- Operating Expenses: 18,379,000,000
+- Cost And Expenses: 92,904,000,000
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 3,214,000,000
+- Ebitda: 54,216,000,000
+- Ebit: 51,002,000,000
+- Operating Income: 50,852,000,000
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: -150,000,000
+- Total Other Income Expenses Net: 150,000,000
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Tax and Net Income Metrics:
+- Income Before Tax: 51,002,000,000
+- Income Tax Expense: 8,905,000,000
+- Net Income From Continuing Operations: 42,097,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 42,097,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 42,097,000,000
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: aapl_quarterly_2_026_q1_2025_12_27_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Per Share Data Metrics:
+- Eps: 2.85
+- Eps Diluted: 2.84
+- Weighted Average Shs Out: 14,748,158,000
+- Weighted Average Shs Out Dil: 14,810,356,000
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Revenue and Gross Profit Metrics:
+- Revenue: 102,466,000,000
+- Cost Of Revenue: 54,125,000,000
+- Gross Profit: 48,341,000,000
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 8,866,000,000
+- General And Administrative Expenses: 0
+- Selling And Marketing Expenses: 0
+- Selling General And Administrative Expenses: 7,048,000,000
+- Other Expenses: 0
+- Operating Expenses: 15,914,000,000
+- Cost And Expenses: 70,039,000,000
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 3,127,000,000
+- Ebitda: 35,931,000,000
+- Ebit: 32,804,000,000
+- Operating Income: 32,427,000,000
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: -377,000,000
+- Total Other Income Expenses Net: 377,000,000
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Tax and Net Income Metrics:
+- Income Before Tax: 32,804,000,000
+- Income Tax Expense: 5,338,000,000
+- Net Income From Continuing Operations: 27,466,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 27,466,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 27,466,000,000
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q4_2025_09_27_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Per Share Data Metrics:
+- Eps: 1.85
+- Eps Diluted: 1.85
+- Weighted Average Shs Out: 14,948,500,000
+- Weighted Average Shs Out Dil: 15,004,697,000
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Revenue and Gross Profit Metrics:
+- Revenue: 94,036,000,000
+- Cost Of Revenue: 50,318,000,000
+- Gross Profit: 43,718,000,000
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 8,866,000,000
+- General And Administrative Expenses: 0
+- Selling And Marketing Expenses: 0
+- Selling General And Administrative Expenses: 6,650,000,000
+- Other Expenses: 0
+- Operating Expenses: 15,516,000,000
+- Cost And Expenses: 65,834,000,000
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 2,830,000,000
+- Ebitda: 30,861,000,000
+- Ebit: 28,031,000,000
+- Operating Income: 28,202,000,000
+
+CHUNK NUMBER: 46
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 171,000,000
+- Total Other Income Expenses Net: -171,000,000
+
+CHUNK NUMBER: 47
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Tax and Net Income Metrics:
+- Income Before Tax: 28,031,000,000
+- Income Tax Expense: 4,597,000,000
+- Net Income From Continuing Operations: 23,434,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 23,434,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 23,434,000,000
+
+CHUNK NUMBER: 48
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q3_2025_06_28_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Per Share Data Metrics:
+- Eps: 1.57
+- Eps Diluted: 1.57
+- Weighted Average Shs Out: 14,902,886,000
+- Weighted Average Shs Out Dil: 14,948,179,000
+
+CHUNK NUMBER: 49
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Revenue and Gross Profit Metrics:
+- Revenue: 95,359,000,000
+- Cost Of Revenue: 50,492,000,000
+- Gross Profit: 44,867,000,000
+
+CHUNK NUMBER: 50
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 8,550,000,000
+- General And Administrative Expenses: 0
+- Selling And Marketing Expenses: 0
+- Selling General And Administrative Expenses: 6,728,000,000
+- Other Expenses: 0
+- Operating Expenses: 15,278,000,000
+- Cost And Expenses: 65,770,000,000
+
+CHUNK NUMBER: 51
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 2,661,000,000
+- Ebitda: 31,971,000,000
+- Ebit: 29,310,000,000
+- Operating Income: 29,589,000,000
+
+CHUNK NUMBER: 52
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 279,000,000
+- Total Other Income Expenses Net: -279,000,000
+
+CHUNK NUMBER: 53
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Tax and Net Income Metrics:
+- Income Before Tax: 29,310,000,000
+- Income Tax Expense: 4,530,000,000
+- Net Income From Continuing Operations: 24,780,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 24,780,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 24,780,000,000
+
+CHUNK NUMBER: 54
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q2_2025_03_29_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Per Share Data Metrics:
+- Eps: 1.65
+- Eps Diluted: 1.65
+- Weighted Average Shs Out: 14,994,082,000
+- Weighted Average Shs Out Dil: 15,056,133,000
+
+CHUNK NUMBER: 55
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Revenue and Gross Profit Metrics:
+- Revenue: 124,300,000,000
+- Cost Of Revenue: 66,025,000,000
+- Gross Profit: 58,275,000,000
+
+CHUNK NUMBER: 56
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 8,268,000,000
+- General And Administrative Expenses: 2,074,000,000
+- Selling And Marketing Expenses: 5,101,000,000
+- Selling General And Administrative Expenses: 7,175,000,000
+- Other Expenses: 0
+- Operating Expenses: 15,443,000,000
+- Cost And Expenses: 81,468,000,000
+
+CHUNK NUMBER: 57
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 3,080,000,000
+- Ebitda: 45,664,000,000
+- Ebit: 42,584,000,000
+- Operating Income: 42,832,000,000
+
+CHUNK NUMBER: 58
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 248,000,000
+- Total Other Income Expenses Net: -248,000,000
+
+CHUNK NUMBER: 59
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Tax and Net Income Metrics:
+- Income Before Tax: 42,584,000,000
+- Income Tax Expense: 6,254,000,000
+- Net Income From Continuing Operations: 36,330,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 36,330,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 36,330,000,000
+
+CHUNK NUMBER: 60
+================================================================================
+CHUNK ID: aapl_quarterly_2_025_q1_2024_12_28_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AAPL
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Per Share Data Metrics:
+- Eps: 2.41
+- Eps Diluted: 2.40
+- Weighted Average Shs Out: 15,081,724,000
+- Weighted Average Shs Out Dil: 15,150,865,000
+
+CHUNK NUMBER: 61
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Revenue and Gross Profit Metrics:
+- Revenue: 435,617,000,000
+- Cost Of Revenue: 229,460,000,000
+- Gross Profit: 206,157,000,000
+
+CHUNK NUMBER: 62
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 37,169,000,000
+- General And Administrative Expenses: 2,095,000,000
+- Selling And Marketing Expenses: 5,397,000,000
+- Selling General And Administrative Expenses: 27,918,000,000
+- Other Expenses: 0
+- Operating Expenses: 65,087,000,000
+- Cost And Expenses: 294,547,000,000
+
+CHUNK NUMBER: 63
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,832,000,000
+- Ebitda: 152,979,000,000
+- Ebit: 141,147,000,000
+- Operating Income: 141,070,000,000
+
+CHUNK NUMBER: 64
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: -77,000,000
+- Total Other Income Expenses Net: 77,000,000
+
+CHUNK NUMBER: 65
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Tax and Net Income Metrics:
+- Income Before Tax: 141,147,000,000
+- Income Tax Expense: 23,370,000,000
+- Net Income From Continuing Operations: 117,777,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 117,777,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 117,777,000,000
+
+CHUNK NUMBER: 66
+================================================================================
+CHUNK ID: aapl_ttm_2_026_q1_2025_12_27_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2026-01-30
+Accepted Date: 2026-01-30 06:01:32
+Fiscal Year: 2,026
+Period: Q1
+
+Per Share Data Metrics:
+- Eps: 7.92
+- Eps Diluted: 7.91
+- Weighted Average Shs Out: 14,748,158,000
+- Weighted Average Shs Out Dil: 14,810,356,000
+
+CHUNK NUMBER: 67
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Revenue and Gross Profit Metrics:
+- Revenue: 416,161,000,000
+- Cost Of Revenue: 220,960,000,000
+- Gross Profit: 195,201,000,000
+
+CHUNK NUMBER: 68
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 34,550,000,000
+- General And Administrative Expenses: 2,074,000,000
+- Selling And Marketing Expenses: 5,101,000,000
+- Selling General And Administrative Expenses: 27,601,000,000
+- Other Expenses: 0
+- Operating Expenses: 62,151,000,000
+- Cost And Expenses: 283,111,000,000
+
+CHUNK NUMBER: 69
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,698,000,000
+- Ebitda: 144,427,000,000
+- Ebit: 132,729,000,000
+- Operating Income: 133,050,000,000
+
+CHUNK NUMBER: 70
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 321,000,000
+- Total Other Income Expenses Net: -321,000,000
+
+CHUNK NUMBER: 71
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Tax and Net Income Metrics:
+- Income Before Tax: 132,729,000,000
+- Income Tax Expense: 20,719,000,000
+- Net Income From Continuing Operations: 112,010,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 112,010,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 112,010,000,000
+
+CHUNK NUMBER: 72
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q4_2025_09_27_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-27
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-31 06:01:26
+Fiscal Year: 2,025
+Period: Q4
+
+Per Share Data Metrics:
+- Eps: 7.48
+- Eps Diluted: 7.47
+- Weighted Average Shs Out: 14,948,500,000
+- Weighted Average Shs Out Dil: 15,004,697,000
+
+CHUNK NUMBER: 73
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Revenue and Gross Profit Metrics:
+- Revenue: 408,625,000,000
+- Cost Of Revenue: 217,886,000,000
+- Gross Profit: 190,739,000,000
+
+CHUNK NUMBER: 74
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 33,449,000,000
+- General And Administrative Expenses: 2,074,000,000
+- Selling And Marketing Expenses: 5,101,000,000
+- Selling General And Administrative Expenses: 27,076,000,000
+- Other Expenses: 0
+- Operating Expenses: 60,525,000,000
+- Cost And Expenses: 278,411,000,000
+
+CHUNK NUMBER: 75
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,482,000,000
+- Ebitda: 141,017,000,000
+- Ebit: 129,535,000,000
+- Operating Income: 130,214,000,000
+
+CHUNK NUMBER: 76
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 679,000,000
+- Total Other Income Expenses Net: -679,000,000
+
+CHUNK NUMBER: 77
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Tax and Net Income Metrics:
+- Income Before Tax: 129,535,000,000
+- Income Tax Expense: 30,255,000,000
+- Net Income From Continuing Operations: 99,280,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 99,280,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 99,280,000,000
+
+CHUNK NUMBER: 78
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q3_2025_06_28_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-08-01
+Accepted Date: 2025-08-01 06:00:42
+Fiscal Year: 2,025
+Period: Q3
+
+Per Share Data Metrics:
+- Eps: 6.60
+- Eps Diluted: 6.59
+- Weighted Average Shs Out: 14,902,886,000
+- Weighted Average Shs Out Dil: 14,948,179,000
+
+CHUNK NUMBER: 79
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Revenue and Gross Profit Metrics:
+- Revenue: 400,366,000,000
+- Cost Of Revenue: 213,667,000,000
+- Gross Profit: 186,699,000,000
+
+CHUNK NUMBER: 80
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 32,589,000,000
+- General And Administrative Expenses: 2,074,000,000
+- Selling And Marketing Expenses: 5,101,000,000
+- Selling General And Administrative Expenses: 26,746,000,000
+- Other Expenses: 0
+- Operating Expenses: 59,335,000,000
+- Cost And Expenses: 273,002,000,000
+
+CHUNK NUMBER: 81
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,502,000,000
+- Ebitda: 138,500,000,000
+- Ebit: 126,998,000,000
+- Operating Income: 127,364,000,000
+
+CHUNK NUMBER: 82
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: 366,000,000
+- Total Other Income Expenses Net: -366,000,000
+
+CHUNK NUMBER: 83
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Tax and Net Income Metrics:
+- Income Before Tax: 126,998,000,000
+- Income Tax Expense: 29,704,000,000
+- Net Income From Continuing Operations: 97,294,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 97,294,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 97,294,000,000
+
+CHUNK NUMBER: 84
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q2_2025_03_29_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-29
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-02 06:00:46
+Fiscal Year: 2,025
+Period: Q2
+
+Per Share Data Metrics:
+- Eps: 6.43
+- Eps Diluted: 6.42
+- Weighted Average Shs Out: 14,994,082,000
+- Weighted Average Shs Out Dil: 15,056,133,000
+
+CHUNK NUMBER: 85
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Revenue and Gross Profit Metrics:
+- Revenue: 395,760,000,000
+- Cost Of Revenue: 211,657,000,000
+- Gross Profit: 184,103,000,000
+
+CHUNK NUMBER: 86
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 31,942,000,000
+- General And Administrative Expenses: 2,074,000,000
+- Selling And Marketing Expenses: 5,101,000,000
+- Selling General And Administrative Expenses: 26,486,000,000
+- Other Expenses: 0
+- Operating Expenses: 58,428,000,000
+- Cost And Expenses: 270,085,000,000
+
+CHUNK NUMBER: 87
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 11,677,000,000
+- Ebitda: 137,423,000,000
+- Ebit: 125,746,000,000
+- Operating Income: 125,675,000,000
+
+CHUNK NUMBER: 88
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 0
+- Interest Income: 0
+- Interest Expense: 0
+- Non Operating Income Excluding Interest: -71,000,000
+- Total Other Income Expenses Net: 71,000,000
+
+CHUNK NUMBER: 89
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Tax and Net Income Metrics:
+- Income Before Tax: 125,746,000,000
+- Income Tax Expense: 29,596,000,000
+- Net Income From Continuing Operations: 96,150,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 96,150,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 96,150,000,000
+
+CHUNK NUMBER: 90
+================================================================================
+CHUNK ID: aapl_ttm_2_025_q1_2024_12_28_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AAPL
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-28
+Reported Currency: USD
+CIK: 320,193
+Filing Date: 2025-01-31
+Accepted Date: 2025-01-31 06:01:27
+Fiscal Year: 2,025
+Period: Q1
+
+Per Share Data Metrics:
+- Eps: 6.31
+- Eps Diluted: 6.30
+- Weighted Average Shs Out: 15,081,724,000
+- Weighted Average Shs Out Dil: 15,150,865,000
+
