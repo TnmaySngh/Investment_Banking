@@ -6,3 +6,5 @@ requests
 streamlit
 torchvision
 langchain
+openai
+faiss-cpu

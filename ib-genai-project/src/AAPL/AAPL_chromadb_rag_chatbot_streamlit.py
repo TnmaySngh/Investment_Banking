@@ -6,15 +6,14 @@ Streamlit UI for the AAPL Investment Banking RAG Chatbot.
 Backed by:
 - Three ChromaDB databases (Balance Sheet, Cash Flow, Income Statement)
 - Sentence Transformers embeddings
-- Ollama (Gemma3) as the LLM
+- Ollama (Gemma3, Mistral, Phi, Llama) as the LLM
 
-Run with:
+Run with following command:
     streamlit run AAPL_rag_chatbot_streamlit.py
 """
 
 import time
 from datetime import datetime
-
 import chromadb
 import requests
 import streamlit as st

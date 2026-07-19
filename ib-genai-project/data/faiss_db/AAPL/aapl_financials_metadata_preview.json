@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "chunk_id": "aapl_annual_2_025_fy_2025_09_27_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Assets"
+  },
+  {
+    "index": 1,
+    "chunk_id": "aapl_annual_2_025_fy_2025_09_27_non_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Assets"
+  },
+  {
+    "index": 2,
+    "chunk_id": "aapl_annual_2_025_fy_2025_09_27_current_liabilities",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Liabilities"
+  },
+  {
+    "index": 3,
+    "chunk_id": "aapl_annual_2_025_fy_2025_09_27_non_current_liabilities",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Liabilities"
+  },
+  {
+    "index": 4,
+    "chunk_id": "aapl_annual_2_025_fy_2025_09_27_shareholders_equity",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Shareholders Equity"
+  },
+  {
+    "index": 5,
+    "chunk_id": "aapl_annual_2_025_fy_2025_09_27_debt_and_investment_summary",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Debt and Investment Summary"
+  },
+  {
+    "index": 6,
+    "chunk_id": "aapl_annual_2_024_fy_2024_09_28_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Assets"
+  },
+  {
+    "index": 7,
+    "chunk_id": "aapl_annual_2_024_fy_2024_09_28_non_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Assets"
+  },
+  {
+    "index": 8,
+    "chunk_id": "aapl_annual_2_024_fy_2024_09_28_current_liabilities",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Liabilities"
+  },
+  {
+    "index": 9,
+    "chunk_id": "aapl_annual_2_024_fy_2024_09_28_non_current_liabilities",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Liabilities"
+  },
+  {
+    "index": 10,
+    "chunk_id": "aapl_annual_2_024_fy_2024_09_28_shareholders_equity",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Shareholders Equity"
+  },
+  {
+    "index": 11,
+    "chunk_id": "aapl_annual_2_024_fy_2024_09_28_debt_and_investment_summary",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Debt and Investment Summary"
+  },
+  {
+    "index": 12,
+    "chunk_id": "aapl_annual_2_023_fy_2023_09_30_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Assets"
+  },
+  {
+    "index": 13,
+    "chunk_id": "aapl_annual_2_023_fy_2023_09_30_non_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Assets"
+  },
+  {
+    "index": 14,
+    "chunk_id": "aapl_annual_2_023_fy_2023_09_30_current_liabilities",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Liabilities"
+  },
+  {
+    "index": 15,
+    "chunk_id": "aapl_annual_2_023_fy_2023_09_30_non_current_liabilities",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Liabilities"
+  },
+  {
+    "index": 16,
+    "chunk_id": "aapl_annual_2_023_fy_2023_09_30_shareholders_equity",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Shareholders Equity"
+  },
+  {
+    "index": 17,
+    "chunk_id": "aapl_annual_2_023_fy_2023_09_30_debt_and_investment_summary",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Debt and Investment Summary"
+  },
+  {
+    "index": 18,
+    "chunk_id": "aapl_annual_2_022_fy_2022_09_24_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Current Assets"
+  },
+  {
+    "index": 19,
+    "chunk_id": "aapl_annual_2_022_fy_2022_09_24_non_current_assets",
+    "source_file": "balance_sheet_annual_clean.xlsx",
+    "statement_type": "annual",
+    "statement_type_source": "balance_sheet",
+    "financial_section": "Non-Current Assets"
+  }
+]
