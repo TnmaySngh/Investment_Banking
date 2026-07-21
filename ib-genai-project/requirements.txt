@@ -3,8 +3,12 @@ openpyxl
 sentence-transformers
 chromadb
 requests
-streamlit
 torchvision
-langchain
-openai
-faiss-cpu
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-community==0.3.27
+langchain-openai==0.3.28
+openai>=1.50.0
+streamlit>=1.40.0
+python-dotenv>=1.0.1
+faiss-cpu>=1.8.0
