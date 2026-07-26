@@ -1,0 +1,1075 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.06
+- Gross Profit Growth: 0.08
+- EBIT Growth: 0.07
+- Ebitda Growth: 0.07
+- Operating Income Growth: 0.08
+- Net Income Growth: 0.19
+- EPS Growth: 0.23
+- EPS Diluted Growth: 0.23
+- Weighted Average Shares Growth: -0.03
+- Weighted Average Shares Diluted Growth: -0.03
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: -0.06
+- Free Cash Flow Growth: -0.09
+- Growth Capital Expenditure: -0.35
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.10
+- Inventory Growth: -0.22
+- Asset Growth: -0.02
+- Debt Growth: -0.06
+- Book Value Per Share Growth: 0.33
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.10
+- SG&A Expenses Growth: 0.06
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0.04
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 1.74
+- 5Y Revenue Growth Per Share: 0.76
+- 3Y Revenue Growth Per Share: 0.14
+- 10Y Operating Cash Flow Growth Per Share: 1.11
+- 5Y Operating Cash Flow Growth Per Share: 0.60
+- 3Y Operating Cash Flow Growth Per Share: -0.01
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 2.23
+- 5Y Net Income Growth Per Share: 1.26
+- 3Y Net Income Growth Per Share: 0.22
+- 10Y Bottom Line Net Income Growth Per Share: 2.23
+- 5Y Bottom Line Net Income Growth Per Share: 1.26
+- 3Y Bottom Line Net Income Growth Per Share: 0.22
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_growth_annual_2025_fy_2025_09_27_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: -0.05
+- 5Y Shareholders Equity Growth Per Share: 0.31
+- 3Y Shareholders Equity Growth Per Share: 0.58
+- 10Y Dividend Per Share Growth Per Share: 1.05
+- 5Y Dividend Per Share Growth Per Share: 0.27
+- 3Y Dividend Per Share Growth Per Share: 0.13
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.02
+- Gross Profit Growth: 0.07
+- EBIT Growth: 0.05
+- Ebitda Growth: 0.04
+- Operating Income Growth: 0.08
+- Net Income Growth: -0.03
+- EPS Growth: -0.01
+- EPS Diluted Growth: -0.01
+- Weighted Average Shares Growth: -0.03
+- Weighted Average Shares Diluted Growth: -0.03
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.07
+- Free Cash Flow Growth: 0.09
+- Growth Capital Expenditure: 0.14
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.09
+- Inventory Growth: 0.15
+- Asset Growth: 0.04
+- Debt Growth: -0.04
+- Book Value Per Share Growth: -0.06
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.05
+- SG&A Expenses Growth: 0.05
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0.04
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 2.39
+- 5Y Revenue Growth Per Share: 0.81
+- 3Y Revenue Growth Per Share: 0.16
+- 10Y Operating Cash Flow Growth Per Share: 2.14
+- 5Y Operating Cash Flow Growth Per Share: 1.05
+- 3Y Operating Cash Flow Growth Per Share: 0.24
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 2.76
+- 5Y Net Income Growth Per Share: 1.04
+- 3Y Net Income Growth Per Share: 0.08
+- 10Y Bottom Line Net Income Growth Per Share: 2.76
+- 5Y Bottom Line Net Income Growth Per Share: 1.04
+- 3Y Bottom Line Net Income Growth Per Share: 0.08
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: aapl_growth_annual_2024_fy_2024_09_28_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: -0.19
+- 5Y Shareholders Equity Growth Per Share: -0.24
+- 3Y Shareholders Equity Growth Per Share: -0.02
+- 10Y Dividend Per Share Growth Per Share: 1.17
+- 5Y Dividend Per Share Growth Per Share: 0.30
+- 3Y Dividend Per Share Growth Per Share: 0.15
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: -0.03
+- Gross Profit Growth: -0.01
+- EBIT Growth: -0.04
+- Ebitda Growth: -0.03
+- Operating Income Growth: -0.04
+- Net Income Growth: -0.03
+- EPS Growth: 0.00
+- EPS Diluted Growth: 0.00
+- Weighted Average Shares Growth: -0.03
+- Weighted Average Shares Diluted Growth: -0.03
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: -0.10
+- Free Cash Flow Growth: -0.11
+- Growth Capital Expenditure: -0.02
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.00
+- Inventory Growth: 0.28
+- Asset Growth: -0.00
+- Debt Growth: -0.06
+- Book Value Per Share Growth: 0.26
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.14
+- SG&A Expenses Growth: -0.01
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0.04
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 2.69
+- 5Y Revenue Growth Per Share: 0.82
+- 3Y Revenue Growth Per Share: 0.54
+- 10Y Operating Cash Flow Growth Per Share: 2.39
+- 5Y Operating Cash Flow Growth Per Share: 0.80
+- 3Y Operating Cash Flow Growth Per Share: 0.51
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 3.31
+- 5Y Net Income Growth Per Share: 1.05
+- 3Y Net Income Growth Per Share: 0.86
+- 10Y Bottom Line Net Income Growth Per Share: 3.31
+- 5Y Bottom Line Net Income Growth Per Share: 1.05
+- 3Y Bottom Line Net Income Growth Per Share: 0.86
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: aapl_growth_annual_2023_fy_2023_09_30_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: -0.17
+- 5Y Shareholders Equity Growth Per Share: -0.27
+- 3Y Shareholders Equity Growth Per Share: 0.05
+- 10Y Dividend Per Share Growth Per Share: 1.34
+- 5Y Dividend Per Share Growth Per Share: 0.38
+- 3Y Dividend Per Share Growth Per Share: 0.18
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.08
+- Gross Profit Growth: 0.12
+- EBIT Growth: 0.09
+- Ebitda Growth: 0.08
+- Operating Income Growth: 0.10
+- Net Income Growth: 0.05
+- EPS Growth: 0.08
+- EPS Diluted Growth: 0.09
+- Weighted Average Shares Growth: -0.03
+- Weighted Average Shares Diluted Growth: -0.03
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.17
+- Free Cash Flow Growth: 0.20
+- Growth Capital Expenditure: 0.03
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.18
+- Inventory Growth: -0.25
+- Asset Growth: 0.00
+- Debt Growth: -0.03
+- Book Value Per Share Growth: -0.17
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.20
+- SG&A Expenses Growth: 0.14
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0.06
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 3.07
+- 5Y Revenue Growth Per Share: 1.21
+- 3Y Revenue Growth Per Share: 0.73
+- 10Y Operating Cash Flow Growth Per Share: 2.88
+- 5Y Operating Cash Flow Growth Per Share: 1.45
+- 3Y Operating Cash Flow Growth Per Share: 1.01
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 2.86
+- 5Y Net Income Growth Per Share: 1.66
+- 3Y Net Income Growth Per Share: 1.06
+- 10Y Bottom Line Net Income Growth Per Share: 2.86
+- 5Y Bottom Line Net Income Growth Per Share: 1.66
+- 3Y Bottom Line Net Income Growth Per Share: 1.06
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: aapl_growth_annual_2022_fy_2022_09_24_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: -0.31
+- 5Y Shareholders Equity Growth Per Share: -0.51
+- 3Y Shareholders Equity Growth Per Share: -0.36
+- 10Y Dividend Per Share Growth Per Share: 8.63
+- 5Y Dividend Per Share Growth Per Share: 0.50
+- 3Y Dividend Per Share Growth Per Share: 0.20
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.33
+- Gross Profit Growth: 0.46
+- EBIT Growth: 0.60
+- Ebitda Growth: 0.52
+- Operating Income Growth: 0.64
+- Net Income Growth: 0.65
+- EPS Growth: 0.71
+- EPS Diluted Growth: 0.71
+- Weighted Average Shares Growth: -0.04
+- Weighted Average Shares Diluted Growth: -0.04
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.29
+- Free Cash Flow Growth: 0.27
+- Growth Capital Expenditure: -0.52
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.38
+- Inventory Growth: 0.62
+- Asset Growth: 0.08
+- Debt Growth: 0.12
+- Book Value Per Share Growth: 0.00
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.17
+- SG&A Expenses Growth: 0.10
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0.07
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 4.24
+- 5Y Revenue Growth Per Share: 1.22
+- 3Y Revenue Growth Per Share: 0.63
+- 10Y Operating Cash Flow Growth Per Share: 3.30
+- 5Y Operating Cash Flow Growth Per Share: 1.06
+- 3Y Operating Cash Flow Growth Per Share: 0.59
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 4.66
+- 5Y Net Income Growth Per Share: 1.72
+- 3Y Net Income Growth Per Share: 0.89
+- 10Y Bottom Line Net Income Growth Per Share: 4.66
+- 5Y Bottom Line Net Income Growth Per Share: 1.72
+- 3Y Bottom Line Net Income Growth Per Share: 0.89
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: aapl_growth_annual_2021_fy_2021_09_25_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: growth
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: 0.28
+- 5Y Shareholders Equity Growth Per Share: -0.36
+- 3Y Shareholders Equity Growth Per Share: -0.30
+- 10Y Dividend Per Share Growth Per Share: 0
+- 5Y Dividend Per Share Growth Per Share: 0.56
+- 3Y Dividend Per Share Growth Per Share: 0.25
+

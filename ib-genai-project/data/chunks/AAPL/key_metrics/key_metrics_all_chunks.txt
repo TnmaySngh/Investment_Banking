@@ -1,0 +1,980 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 3,818,743,810,000
+- Enterprise Value: 3,895,186,810,000
+- EV To Sales: 9.36
+- EV To Operating Cash Flow: 34.94
+- EV To Free Cash Flow: 39.44
+- EV To EBITDA: 26.97
+- Net Debt To EBITDA: 0.53
+- Graham Number: 28.84
+- Graham Net Net: -11.59
+- Earnings Yield: 0.03
+- Free Cash Flow Yield: 0.03
+- Tangible Asset Value: 73,733,000,000
+- Net Current Asset Value: -137,551,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.00
+- Tax Burden: 0.84
+- Interest Burden: 1
+- Return On Assets: 0.31
+- Operating Return On Assets: 0.37
+- Return On Tangible Assets: 0.31
+- Return On Equity: 1.52
+- Return On Invested Capital: 0.52
+- Return On Capital Employed: 0.69
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 0.89
+- Working Capital: -17,674,000,000
+- Invested Capital: 32,160,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.11
+- Capex To Depreciation: 1.09
+- Capex To Revenue: 0.03
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.07
+- Research And Development To Revenue: 0.08
+- Stock Based Compensation To Revenue: 0.03
+- Intangibles To Total Assets: 0
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 69,600,000,000
+- Average Payables: 69,410,000,000
+- Average Inventory: 6,502,000,000
+- Days Of Sales Outstanding: 63.99
+- Days Of Payables Outstanding: 115.40
+- Days Of Inventory Outstanding: 9.45
+- Operating Cycle: 73.43
+- Cash Conversion Cycle: -41.97
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2025_fy_2025_09_27_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: 22,324,000,000
+- Free Cash Flow To Firm: 105,262,000,000
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 3,495,160,329,570
+- Enterprise Value: 3,584,276,329,570
+- EV To Sales: 9.17
+- EV To Operating Cash Flow: 30.31
+- EV To Free Cash Flow: 32.94
+- EV To EBITDA: 26.56
+- Net Debt To EBITDA: 0.66
+- Graham Number: 22.59
+- Graham Net Net: -12.35
+- Earnings Yield: 0.03
+- Free Cash Flow Yield: 0.03
+- Tangible Asset Value: 56,950,000,000
+- Net Current Asset Value: -155,043,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.26
+- Tax Burden: 0.76
+- Interest Burden: 1
+- Return On Assets: 0.26
+- Operating Return On Assets: 0.34
+- Return On Tangible Assets: 0.26
+- Return On Equity: 1.65
+- Return On Invested Capital: 0.44
+- Return On Capital Employed: 0.65
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 0.87
+- Working Capital: -23,405,000,000
+- Invested Capital: 22,275,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.08
+- Capex To Depreciation: 0.83
+- Capex To Revenue: 0.02
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.07
+- Research And Development To Revenue: 0.08
+- Stock Based Compensation To Revenue: 0.03
+- Intangibles To Total Assets: 0
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 63,614,000,000
+- Average Payables: 65,785,500,000
+- Average Inventory: 6,808,500,000
+- Days Of Sales Outstanding: 61.83
+- Days Of Payables Outstanding: 119.66
+- Days Of Inventory Outstanding: 12.64
+- Operating Cycle: 74.48
+- Cash Conversion Cycle: -45.18
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2024_fy_2024_09_28_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: 19,691,000,000
+- Free Cash Flow To Firm: 117,397,000,000
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 2,695,569,789,510
+- Enterprise Value: 2,789,534,789,510
+- EV To Sales: 7.28
+- EV To Operating Cash Flow: 25.23
+- EV To Free Cash Flow: 28.01
+- EV To EBITDA: 21.59
+- Net Debt To EBITDA: 0.73
+- Graham Number: 23.39
+- Graham Net Net: -11.43
+- Earnings Yield: 0.04
+- Free Cash Flow Yield: 0.04
+- Tangible Asset Value: 62,146,000,000
+- Net Current Asset Value: -146,871,000,000
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.14
+- Tax Burden: 0.85
+- Interest Burden: 0.97
+- Return On Assets: 0.28
+- Operating Return On Assets: 0.32
+- Return On Tangible Assets: 0.28
+- Return On Equity: 1.56
+- Return On Invested Capital: 0.43
+- Return On Capital Employed: 0.55
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 0.99
+- Working Capital: -1,742,000,000
+- Invested Capital: 52,634,000,000
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.10
+- Capex To Depreciation: 0.95
+- Capex To Revenue: 0.03
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.07
+- Research And Development To Revenue: 0.08
+- Stock Based Compensation To Revenue: 0.03
+- Intangibles To Total Assets: 0
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 60,958,500,000
+- Average Payables: 63,363,000,000
+- Average Inventory: 5,638,500,000
+- Days Of Sales Outstanding: 58.08
+- Days Of Payables Outstanding: 106.72
+- Days Of Inventory Outstanding: 10.79
+- Operating Cycle: 68.87
+- Cash Conversion Cycle: -37.85
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2023_fy_2023_09_30_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: 5,619,000,000
+- Free Cash Flow To Firm: 84,074,094,877.61
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 2,439,367,314,090
+- Enterprise Value: 2,548,201,314,090
+- EV To Sales: 6.46
+- EV To Operating Cash Flow: 20.86
+- EV To Free Cash Flow: 22.87
+- EV To EBITDA: 19.14
+- Net Debt To EBITDA: 0.82
+- Graham Number: 20.80
+- Graham Net Net: -12.68
+- Earnings Yield: 0.04
+- Free Cash Flow Yield: 0.05
+- Tangible Asset Value: 50,672,000,000
+- Net Current Asset Value: -166,678,000,000
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.22
+- Tax Burden: 0.84
+- Interest Burden: 0.98
+- Return On Assets: 0.28
+- Operating Return On Assets: 0.34
+- Return On Tangible Assets: 0.28
+- Return On Equity: 1.97
+- Return On Invested Capital: 0.45
+- Return On Capital Employed: 0.60
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 0.88
+- Working Capital: -18,577,000,000
+- Invested Capital: 33,957,000,000
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.09
+- Capex To Depreciation: 0.96
+- Capex To Revenue: 0.03
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.06
+- Research And Development To Revenue: 0.07
+- Stock Based Compensation To Revenue: 0.02
+- Intangibles To Total Assets: 0
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 56,219,000,000
+- Average Payables: 59,439,000,000
+- Average Inventory: 5,763,000,000
+- Days Of Sales Outstanding: 56.40
+- Days Of Payables Outstanding: 104.69
+- Days Of Inventory Outstanding: 8.08
+- Operating Cycle: 64.48
+- Cash Conversion Cycle: -40.21
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2022_fy_2022_09_24_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: 2,609,000,000
+- Free Cash Flow To Firm: 130,587,047,228.03
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 2,453,750,882,240
+- Enterprise Value: 2,555,332,882,240
+- EV To Sales: 6.99
+- EV To Operating Cash Flow: 24.56
+- EV To Free Cash Flow: 27.49
+- EV To EBITDA: 20.75
+- Net Debt To EBITDA: 0.82
+- Graham Number: 21.95
+- Graham Net Net: -10.98
+- Earnings Yield: 0.04
+- Free Cash Flow Yield: 0.04
+- Tangible Asset Value: 63,090,000,000
+- Net Current Asset Value: -153,076,000,000
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.10
+- Tax Burden: 0.87
+- Interest Burden: 0.98
+- Return On Assets: 0.27
+- Operating Return On Assets: 0.32
+- Return On Tangible Assets: 0.27
+- Return On Equity: 1.50
+- Return On Invested Capital: 0.39
+- Return On Capital Employed: 0.48
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 1.07
+- Working Capital: 9,355,000,000
+- Invested Capital: 58,882,000,000
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.11
+- Capex To Depreciation: 0.98
+- Capex To Revenue: 0.03
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.06
+- Research And Development To Revenue: 0.06
+- Stock Based Compensation To Revenue: 0.02
+- Intangibles To Total Assets: 0
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 44,475,500,000
+- Average Payables: 48,529,500,000
+- Average Inventory: 5,320,500,000
+- Days Of Sales Outstanding: 51.39
+- Days Of Payables Outstanding: 93.85
+- Days Of Inventory Outstanding: 11.28
+- Operating Cycle: 62.67
+- Cash Conversion Cycle: -31.18
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: aapl_key_metrics_annual_2021_fy_2021_09_25_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: key_metrics
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: -8,629,000,000
+- Free Cash Flow To Firm: 126,138,155,200.67
+

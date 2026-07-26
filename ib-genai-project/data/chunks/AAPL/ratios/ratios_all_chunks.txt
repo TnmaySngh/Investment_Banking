@@ -1,0 +1,1285 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.47
+- Ebit Margin: 0.32
+- Ebitda Margin: 0.35
+- Operating Profit Margin: 0.32
+- Pretax Profit Margin: 0.32
+- Continuous Operations Profit Margin: 0.27
+- Net Profit Margin: 0.27
+- Bottom Line Profit Margin: 0.27
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 5.70
+- Payables Turnover: 3.16
+- Inventory Turnover: 38.64
+- Fixed Asset Turnover: 8.35
+- Asset Turnover: 1.16
+- Working Capital Turnover Ratio: -20.26
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 0.89
+- Quick Ratio: 0.86
+- Solvency Ratio: 0.43
+- Cash Ratio: 0.22
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 34.09
+- Price To Earnings Growth Ratio: 1.51
+- Forward Price To Earnings Growth Ratio: 1.51
+- Price To Book Ratio: 51.79
+- Price To Sales Ratio: 9.18
+- Price To Free Cash Flow Ratio: 38.66
+- Price To Operating Cash Flow Ratio: 34.25
+- Price To Fair Value: 51.79
+- Enterprise Value Multiple: 26.97
+- Debt To Market Cap: 0.03
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.31
+- Debt To Equity Ratio: 1.52
+- Debt To Capital Ratio: 0.60
+- Long Term Debt To Capital Ratio: 0.52
+- Financial Leverage Ratio: 4.87
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.67
+- Operating Cash Flow Sales Ratio: 0.27
+- Free Cash Flow Operating Cash Flow Ratio: 0.89
+- Debt Service Coverage Ratio: 6.09
+- Interest Coverage Ratio: 0
+- Short Term Operating Cash Flow Coverage Ratio: 5.48
+- Operating Cash Flow Coverage Ratio: 0.99
+- Capital Expenditure Coverage Ratio: 8.77
+- Dividend Paid And Capex Coverage Ratio: 3.96
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0.14
+- Dividend Yield: 0.00
+- Dividend Yield Percentage: 0.40
+- Dividend Per Share: 1.03
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 27.84
+- Net Income Per Share: 7.49
+- Interest Debt Per Share: 7.52
+- Cash Per Share: 3.66
+- Book Value Per Share: 4.93
+- Tangible Book Value Per Share: 4.93
+- Shareholders Equity Per Share: 4.93
+- Operating Cash Flow Per Share: 7.46
+- Capex Per Share: 0.85
+- Free Cash Flow Per Share: 6.61
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_ratios_annual_2025_fy_2025_09_27_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2025-09-27
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.84
+- EBT Per EBIT: 1.00
+- Effective Tax Rate: 0.16
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.46
+- Ebit Margin: 0.32
+- Ebitda Margin: 0.35
+- Operating Profit Margin: 0.32
+- Pretax Profit Margin: 0.32
+- Continuous Operations Profit Margin: 0.24
+- Net Profit Margin: 0.24
+- Bottom Line Profit Margin: 0.24
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 5.90
+- Payables Turnover: 3.05
+- Inventory Turnover: 28.87
+- Fixed Asset Turnover: 8.56
+- Asset Turnover: 1.07
+- Working Capital Turnover Ratio: -31.10
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 0.87
+- Quick Ratio: 0.83
+- Solvency Ratio: 0.34
+- Cash Ratio: 0.17
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 37.29
+- Price To Earnings Growth Ratio: -45.94
+- Forward Price To Earnings Growth Ratio: -45.94
+- Price To Book Ratio: 61.37
+- Price To Sales Ratio: 8.94
+- Price To Free Cash Flow Ratio: 32.12
+- Price To Operating Cash Flow Ratio: 29.56
+- Price To Fair Value: 61.37
+- Enterprise Value Multiple: 26.56
+- Debt To Market Cap: 0.03
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.33
+- Debt To Equity Ratio: 2.09
+- Debt To Capital Ratio: 0.68
+- Long Term Debt To Capital Ratio: 0.60
+- Financial Leverage Ratio: 6.41
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.67
+- Operating Cash Flow Sales Ratio: 0.30
+- Free Cash Flow Operating Cash Flow Ratio: 0.92
+- Debt Service Coverage Ratio: 5.04
+- Interest Coverage Ratio: 0
+- Short Term Operating Cash Flow Coverage Ratio: 5.66
+- Operating Cash Flow Coverage Ratio: 0.99
+- Capital Expenditure Coverage Ratio: 12.52
+- Dividend Paid And Capex Coverage Ratio: 4.79
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0.16
+- Dividend Yield: 0.00
+- Dividend Yield Percentage: 0.44
+- Dividend Per Share: 0.99
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 25.48
+- Net Income Per Share: 6.11
+- Interest Debt Per Share: 7.76
+- Cash Per Share: 4.25
+- Book Value Per Share: 3.71
+- Tangible Book Value Per Share: 3.71
+- Shareholders Equity Per Share: 3.71
+- Operating Cash Flow Per Share: 7.71
+- Capex Per Share: 0.62
+- Free Cash Flow Per Share: 7.09
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: aapl_ratios_annual_2024_fy_2024_09_28_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2024-09-28
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.76
+- EBT Per EBIT: 1.00
+- Effective Tax Rate: 0.24
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.44
+- Ebit Margin: 0.31
+- Ebitda Margin: 0.34
+- Operating Profit Margin: 0.30
+- Pretax Profit Margin: 0.30
+- Continuous Operations Profit Margin: 0.25
+- Net Profit Margin: 0.25
+- Bottom Line Profit Margin: 0.25
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 6.28
+- Payables Turnover: 3.42
+- Inventory Turnover: 33.82
+- Fixed Asset Turnover: 7.05
+- Asset Turnover: 1.09
+- Working Capital Turnover Ratio: -37.73
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 0.99
+- Quick Ratio: 0.94
+- Solvency Ratio: 0.37
+- Cash Ratio: 0.21
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 27.79
+- Price To Earnings Growth Ratio: 170.91
+- Forward Price To Earnings Growth Ratio: 170.91
+- Price To Book Ratio: 43.37
+- Price To Sales Ratio: 7.03
+- Price To Free Cash Flow Ratio: 27.07
+- Price To Operating Cash Flow Ratio: 24.38
+- Price To Fair Value: 43.37
+- Enterprise Value Multiple: 21.59
+- Debt To Market Cap: 0.04
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.35
+- Debt To Equity Ratio: 1.99
+- Debt To Capital Ratio: 0.67
+- Long Term Debt To Capital Ratio: 0.61
+- Financial Leverage Ratio: 5.67
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.76
+- Operating Cash Flow Sales Ratio: 0.29
+- Free Cash Flow Operating Cash Flow Ratio: 0.90
+- Debt Service Coverage Ratio: 5.70
+- Interest Coverage Ratio: 29.06
+- Short Term Operating Cash Flow Coverage Ratio: 6.99
+- Operating Cash Flow Coverage Ratio: 0.89
+- Capital Expenditure Coverage Ratio: 10.09
+- Dividend Paid And Capex Coverage Ratio: 4.25
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0.15
+- Dividend Yield: 0.01
+- Dividend Yield Percentage: 0.56
+- Dividend Per Share: 0.95
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 24.34
+- Net Income Per Share: 6.16
+- Interest Debt Per Share: 8.12
+- Cash Per Share: 3.91
+- Book Value Per Share: 3.95
+- Tangible Book Value Per Share: 3.95
+- Shareholders Equity Per Share: 3.95
+- Operating Cash Flow Per Share: 7.02
+- Capex Per Share: 0.70
+- Free Cash Flow Per Share: 6.33
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: aapl_ratios_annual_2023_fy_2023_09_30_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2023-09-30
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.85
+- EBT Per EBIT: 1.00
+- Effective Tax Rate: 0.15
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.43
+- Ebit Margin: 0.31
+- Ebitda Margin: 0.34
+- Operating Profit Margin: 0.30
+- Pretax Profit Margin: 0.30
+- Continuous Operations Profit Margin: 0.25
+- Net Profit Margin: 0.25
+- Bottom Line Profit Margin: 0.25
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 6.47
+- Payables Turnover: 3.49
+- Inventory Turnover: 45.20
+- Fixed Asset Turnover: 7.51
+- Asset Turnover: 1.12
+- Working Capital Turnover Ratio: -85.52
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 0.88
+- Quick Ratio: 0.85
+- Solvency Ratio: 0.37
+- Cash Ratio: 0.15
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 24.44
+- Price To Earnings Growth Ratio: 2.89
+- Forward Price To Earnings Growth Ratio: 2.89
+- Price To Book Ratio: 48.14
+- Price To Sales Ratio: 6.19
+- Price To Free Cash Flow Ratio: 21.89
+- Price To Operating Cash Flow Ratio: 19.97
+- Price To Fair Value: 48.14
+- Enterprise Value Multiple: 19.14
+- Debt To Market Cap: 0.05
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.38
+- Debt To Equity Ratio: 2.61
+- Debt To Capital Ratio: 0.72
+- Long Term Debt To Capital Ratio: 0.66
+- Financial Leverage Ratio: 6.96
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.79
+- Operating Cash Flow Sales Ratio: 0.31
+- Free Cash Flow Operating Cash Flow Ratio: 0.91
+- Debt Service Coverage Ratio: 4.74
+- Interest Coverage Ratio: 40.75
+- Short Term Operating Cash Flow Coverage Ratio: 5.79
+- Operating Cash Flow Coverage Ratio: 0.92
+- Capital Expenditure Coverage Ratio: 11.41
+- Dividend Paid And Capex Coverage Ratio: 4.78
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0.15
+- Dividend Yield: 0.01
+- Dividend Yield Percentage: 0.61
+- Dividend Per Share: 0.92
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 24.32
+- Net Income Per Share: 6.15
+- Interest Debt Per Share: 8.35
+- Cash Per Share: 2.98
+- Book Value Per Share: 3.12
+- Tangible Book Value Per Share: 3.12
+- Shareholders Equity Per Share: 3.12
+- Operating Cash Flow Per Share: 7.53
+- Capex Per Share: 0.66
+- Free Cash Flow Per Share: 6.87
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: aapl_ratios_annual_2022_fy_2022_09_24_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2022-09-24
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.84
+- EBT Per EBIT: 1.00
+- Effective Tax Rate: 0.16
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.42
+- Ebit Margin: 0.31
+- Ebitda Margin: 0.34
+- Operating Profit Margin: 0.30
+- Pretax Profit Margin: 0.30
+- Continuous Operations Profit Margin: 0.26
+- Net Profit Margin: 0.26
+- Bottom Line Profit Margin: 0.26
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 7.10
+- Payables Turnover: 3.89
+- Inventory Turnover: 32.37
+- Fixed Asset Turnover: 7.39
+- Asset Turnover: 1.04
+- Working Capital Turnover Ratio: 15.35
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 1.07
+- Quick Ratio: 1.02
+- Solvency Ratio: 0.37
+- Cash Ratio: 0.28
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 25.92
+- Price To Earnings Growth Ratio: 0.36
+- Forward Price To Earnings Growth Ratio: 0.36
+- Price To Book Ratio: 38.89
+- Price To Sales Ratio: 6.71
+- Price To Free Cash Flow Ratio: 26.40
+- Price To Operating Cash Flow Ratio: 23.59
+- Price To Fair Value: 38.89
+- Enterprise Value Multiple: 20.75
+- Debt To Market Cap: 0.05
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.39
+- Debt To Equity Ratio: 2.16
+- Debt To Capital Ratio: 0.68
+- Long Term Debt To Capital Ratio: 0.63
+- Financial Leverage Ratio: 5.56
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.83
+- Operating Cash Flow Sales Ratio: 0.28
+- Free Cash Flow Operating Cash Flow Ratio: 0.89
+- Debt Service Coverage Ratio: 5.95
+- Interest Coverage Ratio: 41.19
+- Short Term Operating Cash Flow Coverage Ratio: 6.66
+- Operating Cash Flow Coverage Ratio: 0.76
+- Capital Expenditure Coverage Ratio: 9.39
+- Dividend Paid And Capex Coverage Ratio: 4.07
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0.15
+- Dividend Yield: 0.01
+- Dividend Yield Percentage: 0.59
+- Dividend Per Share: 0.87
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 21.90
+- Net Income Per Share: 5.67
+- Interest Debt Per Share: 8.33
+- Cash Per Share: 3.75
+- Book Value Per Share: 3.78
+- Tangible Book Value Per Share: 3.78
+- Shareholders Equity Per Share: 3.78
+- Operating Cash Flow Per Share: 6.23
+- Capex Per Share: 0.66
+- Free Cash Flow Per Share: 5.57
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: aapl_ratios_annual_2021_fy_2021_09_25_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AAPL
+Financial Statement: ratios
+Report Date: 2021-09-25
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.87
+- EBT Per EBIT: 1.00
+- Effective Tax Rate: 0.13
+

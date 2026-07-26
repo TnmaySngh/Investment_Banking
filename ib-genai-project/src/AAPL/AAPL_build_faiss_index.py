@@ -35,6 +35,22 @@ CHUNK_SOURCES: dict[str, Path] = {
         r"\ib-genai-project\data\chunks\AAPL\income_statement"
         r"\income_statement_all_chunks.txt"
     ),
+    "growth": Path(
+            r"C:\AZ_DEVOPS_PYTHON\Investment_Banking"
+            r"\ib-genai-project\data\chunks\AAPL\growth"
+            r"\growth_all_chunks.txt"
+        ),
+    "key_metrics": Path(
+                r"C:\AZ_DEVOPS_PYTHON\Investment_Banking"
+                r"\ib-genai-project\data\chunks\AAPL\key_metrics"
+                r"\key_metrics_all_chunks.txt"
+            ),
+     "ratios": Path(
+                    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking"
+                    r"\ib-genai-project\data\chunks\AAPL\ratios"
+                    r"\ratio_all_chunks.txt"
+                ),
+    
 }
 
 OUTPUT_FOLDER = Path(
