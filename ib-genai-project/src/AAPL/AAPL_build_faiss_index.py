@@ -1,5 +1,4 @@
 from __future__ import annotations
-
 import json
 import os
 import pickle
@@ -50,6 +49,11 @@ CHUNK_SOURCES: dict[str, Path] = {
                     r"\ib-genai-project\data\chunks\AAPL\ratios"
                     r"\ratio_all_chunks.txt"
                 ),
+     "relationships": Path(
+                         r"C:\AZ_DEVOPS_PYTHON\Investment_Banking"
+                         r"\ib-genai-project\data\chunks\AAPL\ratios"
+                         r"\relationships_all_chunks.txt"
+                     ),
     
 }
 

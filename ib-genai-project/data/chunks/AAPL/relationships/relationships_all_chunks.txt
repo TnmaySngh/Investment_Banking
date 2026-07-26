@@ -1,0 +1,1258 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 134,836,000,000 + 216,166,000,000 = 351,002,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 351,002,000,000.0000
+Computed value: 351,002,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 287,912,000,000 + 63,090,000,000 = 351,002,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 351,002,000,000.0000
+Computed value: 351,002,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 134,836,000,000 / 125,481,000,000 = 1.0746
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 1.0700
+Computed value: 1.0746
+Difference: 0.43%
+Verdict: CLOSE
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 287,912,000,000 / 63,090,000,000 = 4.5635
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 2.1600
+Computed value: 4.5635
+Difference: 111.27%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 152,836,000,000 / 365,817,000,000 = 0.4178
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4200
+Computed value: 0.4178
+Difference: 0.53%
+Verdict: CLOSE
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 94,680,000,000 / 365,817,000,000 = 0.2588
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.2600
+Computed value: 0.2588
+Difference: 0.45%
+Verdict: CLOSE
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 94,680,000,000 / 63,090,000,000 = 1.5007
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 1.5000
+Computed value: 1.5007
+Difference: 0.05%
+Verdict: MATCH
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 2,453,750,882,240 + 101,582,000,000 = 2,555,332,882,240
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 2,555,332,882,240.0000
+Computed value: 2,555,332,882,240.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 101,582,000,000 / 123,136,000,000 = 0.8250
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.8200
+Computed value: 0.8250
+Difference: 0.60%
+Verdict: CLOSE
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: aapl_relationship_annual_2021_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 63,090,000,000 - 0 - 0 = 63,090,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 63,090,000,000.0000
+Computed value: 63,090,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 135,405,000,000 + 217,350,000,000 = 352,755,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 352,755,000,000.0000
+Computed value: 352,755,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 302,083,000,000 + 50,672,000,000 = 352,755,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 352,755,000,000.0000
+Computed value: 352,755,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 135,405,000,000 / 153,982,000,000 = 0.8794
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 0.8800
+Computed value: 0.8794
+Difference: 0.07%
+Verdict: MATCH
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 302,083,000,000 / 50,672,000,000 = 5.9615
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 2.6100
+Computed value: 5.9615
+Difference: 128.41%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 170,782,000,000 / 394,328,000,000 = 0.4331
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4300
+Computed value: 0.4331
+Difference: 0.72%
+Verdict: CLOSE
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 99,803,000,000 / 394,328,000,000 = 0.2531
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.2500
+Computed value: 0.2531
+Difference: 1.24%
+Verdict: CLOSE
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 99,803,000,000 / 50,672,000,000 = 1.9696
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 1.9700
+Computed value: 1.9696
+Difference: 0.02%
+Verdict: MATCH
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 2,439,367,314,090 + 108,834,000,000 = 2,548,201,314,090
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 2,548,201,314,090.0000
+Computed value: 2,548,201,314,090.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 108,834,000,000 / 133,138,000,000 = 0.8175
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.8200
+Computed value: 0.8175
+Difference: 0.31%
+Verdict: CLOSE
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 50,672,000,000 - 0 - 0 = 50,672,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 50,672,000,000.0000
+Computed value: 50,672,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: aapl_relationship_annual_2022_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (394,328,000,000 - 365,817,000,000) / 365,817,000,000 = 0.0779
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.0800
+Computed value: 0.0779
+Difference: 2.58%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 143,566,000,000 + 209,017,000,000 = 352,583,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 352,583,000,000.0000
+Computed value: 352,583,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 290,437,000,000 + 62,146,000,000 = 352,583,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 352,583,000,000.0000
+Computed value: 352,583,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 143,566,000,000 / 145,308,000,000 = 0.9880
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 0.9900
+Computed value: 0.9880
+Difference: 0.20%
+Verdict: CLOSE
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 290,437,000,000 / 62,146,000,000 = 4.6735
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 1.9900
+Computed value: 4.6735
+Difference: 134.85%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 169,148,000,000 / 383,285,000,000 = 0.4413
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4400
+Computed value: 0.4413
+Difference: 0.30%
+Verdict: CLOSE
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 96,995,000,000 / 383,285,000,000 = 0.2531
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.2500
+Computed value: 0.2531
+Difference: 1.22%
+Verdict: CLOSE
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 96,995,000,000 / 62,146,000,000 = 1.5608
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 1.5600
+Computed value: 1.5608
+Difference: 0.05%
+Verdict: MATCH
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 2,695,569,789,510 + 93,965,000,000 = 2,789,534,789,510
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 2,789,534,789,510.0000
+Computed value: 2,789,534,789,510.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 93,965,000,000 / 129,188,000,000 = 0.7274
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.7300
+Computed value: 0.7274
+Difference: 0.36%
+Verdict: CLOSE
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 62,146,000,000 - 0 - 0 = 62,146,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 62,146,000,000.0000
+Computed value: 62,146,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: aapl_relationship_annual_2023_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (383,285,000,000 - 394,328,000,000) / 394,328,000,000 = -0.0280
+Reported value (source: growth / Income Statement Growth / Revenue Growth): -0.0300
+Computed value: -0.0280
+Difference: 6.65%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 152,987,000,000 + 211,993,000,000 = 364,980,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 364,980,000,000.0000
+Computed value: 364,980,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 308,030,000,000 + 56,950,000,000 = 364,980,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 364,980,000,000.0000
+Computed value: 364,980,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 152,987,000,000 / 176,392,000,000 = 0.8673
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 0.8700
+Computed value: 0.8673
+Difference: 0.31%
+Verdict: CLOSE
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 308,030,000,000 / 56,950,000,000 = 5.4088
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 2.0900
+Computed value: 5.4088
+Difference: 158.79%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 180,683,000,000 / 391,035,000,000 = 0.4621
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4600
+Computed value: 0.4621
+Difference: 0.45%
+Verdict: CLOSE
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 93,736,000,000 / 391,035,000,000 = 0.2397
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.2400
+Computed value: 0.2397
+Difference: 0.12%
+Verdict: CLOSE
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 93,736,000,000 / 56,950,000,000 = 1.6459
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 1.6500
+Computed value: 1.6459
+Difference: 0.25%
+Verdict: CLOSE
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 3,495,160,329,570 + 89,116,000,000 = 3,584,276,329,570
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 3,584,276,329,570.0000
+Computed value: 3,584,276,329,570.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 89,116,000,000 / 134,930,000,000 = 0.6605
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.6600
+Computed value: 0.6605
+Difference: 0.07%
+Verdict: MATCH
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 56,950,000,000 - 0 - 0 = 56,950,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 56,950,000,000.0000
+Computed value: 56,950,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: aapl_relationship_annual_2024_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (391,035,000,000 - 383,285,000,000) / 383,285,000,000 = 0.0202
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.0200
+Computed value: 0.0202
+Difference: 1.10%
+Verdict: CLOSE
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 147,957,000,000 + 211,284,000,000 = 359,241,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 359,241,000,000.0000
+Computed value: 359,241,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 285,508,000,000 + 73,733,000,000 = 359,241,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 359,241,000,000.0000
+Computed value: 359,241,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 46
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 147,957,000,000 / 165,631,000,000 = 0.8933
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 0.8900
+Computed value: 0.8933
+Difference: 0.37%
+Verdict: CLOSE
+
+CHUNK NUMBER: 47
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 285,508,000,000 / 73,733,000,000 = 3.8722
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 1.5200
+Computed value: 3.8722
+Difference: 154.75%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 48
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 195,201,000,000 / 416,161,000,000 = 0.4691
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4700
+Computed value: 0.4691
+Difference: 0.20%
+Verdict: CLOSE
+
+CHUNK NUMBER: 49
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 112,010,000,000 / 416,161,000,000 = 0.2692
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.2700
+Computed value: 0.2692
+Difference: 0.31%
+Verdict: CLOSE
+
+CHUNK NUMBER: 50
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 112,010,000,000 / 73,733,000,000 = 1.5191
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 1.5200
+Computed value: 1.5191
+Difference: 0.06%
+Verdict: MATCH
+
+CHUNK NUMBER: 51
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 3,818,743,810,000 + 76,443,000,000 = 3,895,186,810,000
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 3,895,186,810,000.0000
+Computed value: 3,895,186,810,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 52
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 76,443,000,000 / 144,427,000,000 = 0.5293
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.5300
+Computed value: 0.5293
+Difference: 0.13%
+Verdict: CLOSE
+
+CHUNK NUMBER: 53
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 73,733,000,000 - 0 - 0 = 73,733,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 73,733,000,000.0000
+Computed value: 73,733,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 54
+================================================================================
+CHUNK ID: aapl_relationship_annual_2025_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (416,161,000,000 - 391,035,000,000) / 391,035,000,000 = 0.0643
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.0600
+Computed value: 0.0643
+Difference: 7.09%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 55
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q1_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 133,240,000,000 + 210,845,000,000 = 344,085,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 344,085,000,000.0000
+Computed value: 344,085,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 56
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q1_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 277,327,000,000 + 66,758,000,000 = 344,085,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 344,085,000,000.0000
+Computed value: 344,085,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 57
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q1_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 133,240,000,000 + 210,845,000,000 = 344,085,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 344,085,000,000.0000
+Computed value: 344,085,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 58
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q1_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 277,327,000,000 + 66,758,000,000 = 344,085,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 344,085,000,000.0000
+Computed value: 344,085,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 59
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q2_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 118,674,000,000 + 212,559,000,000 = 331,233,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,233,000,000.0000
+Computed value: 331,233,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 60
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q2_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 264,437,000,000 + 66,796,000,000 = 331,233,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,233,000,000.0000
+Computed value: 331,233,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 61
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q2_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 118,674,000,000 + 212,559,000,000 = 331,233,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,233,000,000.0000
+Computed value: 331,233,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 62
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q2_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 264,437,000,000 + 66,796,000,000 = 331,233,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,233,000,000.0000
+Computed value: 331,233,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 63
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q3_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 122,491,000,000 + 209,004,000,000 = 331,495,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,495,000,000.0000
+Computed value: 331,495,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 64
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q3_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 265,665,000,000 + 65,830,000,000 = 331,495,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,495,000,000.0000
+Computed value: 331,495,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 65
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q3_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 122,491,000,000 + 209,004,000,000 = 331,495,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,495,000,000.0000
+Computed value: 331,495,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 66
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q3_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 265,665,000,000 + 65,830,000,000 = 331,495,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 331,495,000,000.0000
+Computed value: 331,495,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 67
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q4_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 147,957,000,000 + 211,284,000,000 = 359,241,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 359,241,000,000.0000
+Computed value: 359,241,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 68
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2025_q4_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 285,508,000,000 + 73,733,000,000 = 359,241,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 359,241,000,000.0000
+Computed value: 359,241,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 69
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q4_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 147,957,000,000 + 211,284,000,000 = 359,241,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 359,241,000,000.0000
+Computed value: 359,241,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 70
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2025_q4_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 285,508,000,000 + 73,733,000,000 = 359,241,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 359,241,000,000.0000
+Computed value: 359,241,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 71
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2026_q1_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2026
+PERIOD: Q1
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 158,104,000,000 + 221,193,000,000 = 379,297,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 379,297,000,000.0000
+Computed value: 379,297,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 72
+================================================================================
+CHUNK ID: aapl_relationship_quarterly_2026_q1_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2026
+PERIOD: Q1
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 291,107,000,000 + 88,190,000,000 = 379,297,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 379,297,000,000.0000
+Computed value: 379,297,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 73
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2026_q1_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2026
+PERIOD: Q1
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 158,104,000,000 + 221,193,000,000 = 379,297,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 379,297,000,000.0000
+Computed value: 379,297,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 74
+================================================================================
+CHUNK ID: aapl_relationship_ttm_2026_q1_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AAPL
+FISCAL YEAR: 2026
+PERIOD: Q1
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 291,107,000,000 + 88,190,000,000 = 379,297,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 379,297,000,000.0000
+Computed value: 379,297,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
