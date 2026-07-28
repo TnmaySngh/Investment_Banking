@@ -1,0 +1,54 @@
+# =========================================================
+# config.txt
+# Configuration for json_to_excel_converter.py
+# INI-style: sections in [brackets], key = value pairs.
+# Lines starting with # are comments and are ignored.
+# =========================================================
+
+[paths]
+# Root folders. The script appends /<company>/<statement_type>
+# to these automatically for every combination listed below.
+base_json_dir  = C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\json
+base_excel_dir = C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\excel
+
+[settings]
+# Name of the JSON column that holds nested dict records to expand
+target_column_name = records
+
+# Whether to also write a "<file>_raw.xlsx" with the unprocessed data
+save_raw = false
+
+# Suffix appended to overlapping column names when the expanded
+# columns are joined back onto the original dataframe
+rsuffix = _nested
+
+# Excel writer engine used by pandas.to_excel
+excel_engine = openpyxl
+
+# Glob pattern used to find input files inside each json folder
+json_glob_pattern = *.json
+
+[companies]
+# One line per company. Value is a comma-separated list of
+# statement-type subfolders to process for that company.
+# Add a new line here to onboard a new company/statement -
+# no code changes needed.
+AAPL = balance_sheet, cash_flow, income_statement, metrics_ratio_growth
+
+##########################################################################################
+
+[cleaning]
+
+# Settings for excel_data_cleaner.py (cleans the .xlsx files produced
+# by json_to_excel_converter.py). Uses the same [paths] base_excel_dir
+# and the same [companies] list above - no separate folder list needed.
+
+# Subfolder created inside each company/statement_type folder to hold
+# cleaned output files
+output_subfolder = cleaned
+
+# Glob pattern used to find input Excel files inside each folder
+excel_glob_pattern = *.xlsx
+
+# Suffix appended to the cleaned output filename (before .xlsx)
+cleaned_suffix = _clean
