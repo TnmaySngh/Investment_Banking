@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import configparser
 import re
 from pathlib import Path
 from typing import Any
@@ -10,18 +11,36 @@ import pandas as pd
 # =========================================================
 # CONFIGURATION
 # =========================================================
+# Input/output base folders and the company symbol come from config.txt
+# (same file used by json_to_excel_converter.py / excel_data_cleaner.py),
+# so this script never needs code changes to point at a new machine or
+# company - just update config.txt.
 
-INPUT_EXCEL_FOLDER = Path(
-    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking"
-    r"\ib-genai-project\data\excel\AAPL\income_statement\cleaned"
+STATEMENT_TYPE = "income_statement"
+CONFIG_FILE = Path(
+    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\config\config.txt"
 )
 
-OUTPUT_CHUNK_FOLDER = Path(
-    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking"
-    r"\ib-genai-project\data\chunks\AAPL\income_statement"
-)
 
-COMBINED_OUTPUT_FILE = OUTPUT_CHUNK_FOLDER / "income_statement_all_chunks.txt"
+def load_config(config_file: Path) -> configparser.ConfigParser:
+    if not config_file.exists():
+        raise FileNotFoundError(f"Config file not found:\n{config_file}")
+
+    parser = configparser.ConfigParser()
+    parser.read(config_file, encoding="utf-8")
+    return parser
+
+
+_config = load_config(CONFIG_FILE)
+
+BASE_EXCEL_DIR = Path(_config.get("paths", "base_excel_dir"))
+BASE_CHUNK_DIR = Path(_config.get("paths", "base_chunk_dir"))
+COMPANY = _config.get("settings", "default_company", fallback="AAPL")
+
+INPUT_EXCEL_FOLDER = BASE_EXCEL_DIR / COMPANY / STATEMENT_TYPE / "cleaned"
+OUTPUT_CHUNK_FOLDER = BASE_CHUNK_DIR / COMPANY / STATEMENT_TYPE
+
+COMBINED_OUTPUT_FILE = OUTPUT_CHUNK_FOLDER / f"{STATEMENT_TYPE}_all_chunks.txt"
 
 # =========================================================
 # FINANCIAL COLUMN GROUPS

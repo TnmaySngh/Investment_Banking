@@ -11,7 +11,18 @@
 base_json_dir  = C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\json
 base_excel_dir = C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\excel
 
+# Root folder for chunk .txt output. The chunking scripts append
+# /<company>/<statement_type> to this automatically, the same pattern
+# used for base_excel_dir above.
+base_chunk_dir = C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\chunks
+
 [settings]
+# Company symbol used by the AAPL_*.py chunking / relationship-building
+# scripts to build their input/output folder paths (base_excel_dir and
+# base_chunk_dir above get /<default_company>/<statement_type> appended
+# to them automatically).
+default_company = AAPL
+
 # Name of the JSON column that holds nested dict records to expand
 target_column_name = records
 

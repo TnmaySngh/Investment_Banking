@@ -9,11 +9,30 @@ Backed by:
 - Existing project embedding client (AAPL_build_faiss_index)
 - LangChain (PromptTemplate + ConversationBufferMemory) with ChatOpenAI as the LLM
 
+Enhancements in this version:
+- Token-by-token streaming answers (st.write_stream) instead of one big
+  block appearing after the full response finishes
+- Best-effort token usage / estimated cost tracking per answer and per
+  session (via langchain's get_openai_callback, with a no-op fallback)
+- A confidence badge (High/Medium/Low) derived from the top retrieval
+  similarity score, so users can see at a glance how well-grounded an
+  answer is
+- Thumbs up/down feedback buttons on every assistant answer
+- Redesigned source cards (colored statement-type chips + highlighted
+  query terms) instead of a plain markdown table
+- Sidebar reorganized into tabs (Retrieval / Model / Memory / Session)
+  so it doesn't read as one long scroll
+- Fixed a pre-existing bug where "Regenerate last answer" duplicated the
+  user's question as a second chat bubble
+- Toast notifications for housekeeping actions (clear chat)
+- A "view system prompt" expander for transparency/debugging
+
 Run with the following command:
     streamlit run AAPL_faissdb_rag_chatbot__streamlit.py
 """
 
 import os
+import re
 import time
 from datetime import datetime
 from dataclasses import dataclass
@@ -54,6 +73,28 @@ except ImportError:
 
         def clear(self):
             self._turns = []
+
+
+# Token usage / cost tracking, with a no-op fallback if the installed
+# LangChain version doesn't ship the community callback helper.
+try:
+    from langchain_community.callbacks import get_openai_callback
+
+    COST_TRACKING_AVAILABLE = True
+except ImportError:
+    COST_TRACKING_AVAILABLE = False
+
+    from contextlib import contextmanager
+
+    @contextmanager
+    def get_openai_callback():
+        class _NullCallback:
+            total_tokens = 0
+            prompt_tokens = 0
+            completion_tokens = 0
+            total_cost = 0.0
+
+        yield _NullCallback()
 
 
 @dataclass
@@ -98,6 +139,20 @@ STATEMENT_ICONS = {
     "Income Statement": "\U0001F4C8",
 }
 
+STATEMENT_COLORS = {
+    "Balance Sheet": "#2f6fed",
+    "Cash Flow": "#1f9e6d",
+    "Income Statement": "#e08a2b",
+}
+
+# Similarity thresholds used for the confidence badge. These assume a
+# 0-1 cosine-similarity-style score; retune them if your embedding
+# client reports similarity on a different scale.
+CONFIDENCE_THRESHOLDS = {"high": 0.60, "medium": 0.35}
+
+USER_AVATAR = "\U0001F9D1\u200D\U0001F4BC"
+ASSISTANT_AVATAR = "\U0001F4CA"
+
 # ==========================================================
 # Page Setup
 # ==========================================================
@@ -109,8 +164,18 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-if "dark_mode" not in st.session_state:
-    st.session_state.dark_mode = False
+# Centralize all session-state defaults in one place so it's obvious
+# what persists across reruns.
+_SESSION_DEFAULTS = {
+    "dark_mode": False,
+    "messages": [],
+    "query_count": 0,
+    "total_cost": 0.0,
+    "total_tokens": 0,
+}
+for _key, _default in _SESSION_DEFAULTS.items():
+    if _key not in st.session_state:
+        st.session_state[_key] = _default
 
 
 def inject_theme(dark: bool) -> None:
@@ -234,6 +299,30 @@ Content:
     return context, sources
 
 
+def confidence_badge(sources):
+    """Best-effort High/Medium/Low badge from the top retrieval similarity
+    score, so a user can see at a glance how well-grounded an answer is."""
+    if not sources:
+        return None
+    top_score = sources[0].get("similarity")
+    if top_score is None:
+        return None
+    if top_score >= CONFIDENCE_THRESHOLDS["high"]:
+        return "🟢 High confidence"
+    if top_score >= CONFIDENCE_THRESHOLDS["medium"]:
+        return "🟡 Medium confidence"
+    return "🔴 Low confidence — consider rephrasing"
+
+
+def highlight_terms(text, query, limit=8):
+    """Bold the query's keywords inside a source preview so the user can
+    quickly see why a chunk was retrieved."""
+    terms = sorted({t for t in re.findall(r"[A-Za-z]{3,}", query or "")}, key=len, reverse=True)[:limit]
+    for term in terms:
+        text = re.sub(rf"(?i)\b({re.escape(term)})\b", r"**\1**", text)
+    return text
+
+
 PROMPT = PromptTemplate(
     input_variables=["chat_history", "context", "question"],
     template="""
@@ -261,26 +350,75 @@ Answer:
 )
 
 
-def ask_llm(question, context, chat_history, model_name, temperature, max_tokens, retries=MAX_RETRIES):
-    llm = ChatOpenAI(model=model_name, temperature=temperature, max_tokens=max_tokens)
-    chain = PROMPT | llm | StrOutputParser()
+def build_llm_chain(model_name, temperature, max_tokens, streaming=True):
+    """Construct the PromptTemplate | ChatOpenAI | StrOutputParser chain.
 
+    stream_usage=True asks OpenAI to include token counts in the final
+    streamed chunk so get_openai_callback can report cost even though
+    we're streaming. Older langchain-openai versions may not accept the
+    kwarg, so we fall back gracefully.
+    """
+    try:
+        llm = ChatOpenAI(
+            model=model_name,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            streaming=streaming,
+            stream_usage=True,
+        )
+    except TypeError:
+        llm = ChatOpenAI(
+            model=model_name,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            streaming=streaming,
+        )
+    return PROMPT | llm | StrOutputParser()
+
+
+def stream_llm(question, context, chat_history, model_name, temperature, max_tokens):
+    """Yield the answer token-by-token (for st.write_stream) and stash
+    best-effort token usage / cost in session state once exhausted."""
+    chain = build_llm_chain(model_name, temperature, max_tokens, streaming=True)
+    with get_openai_callback() as cb:
+        for chunk in chain.stream(
+            {"chat_history": chat_history, "context": context, "question": question}
+        ):
+            yield chunk
+
+        st.session_state["_last_usage"] = {
+            "total_tokens": getattr(cb, "total_tokens", 0),
+            "prompt_tokens": getattr(cb, "prompt_tokens", 0),
+            "completion_tokens": getattr(cb, "completion_tokens", 0),
+            "total_cost": getattr(cb, "total_cost", 0.0),
+        }
+
+
+def stream_with_retry(question, context, chat_history, model_name, temperature, max_tokens, retries=MAX_RETRIES):
+    """Wrap stream_llm with a retry that only fires if the *first* token
+    fails to arrive, so a transient error never duplicates partially
+    streamed text on screen."""
     last_error = None
     for attempt in range(retries + 1):
+        generator = stream_llm(question, context, chat_history, model_name, temperature, max_tokens)
         try:
-            return chain.invoke(
-                {
-                    "chat_history": chat_history,
-                    "context": context,
-                    "question": question,
-                }
-            )
+            first_chunk = next(generator)
+        except StopIteration:
+            return iter(())
         except Exception as error:
             last_error = error
             if attempt < retries:
                 time.sleep(1.5 * (attempt + 1))
+                continue
+            raise RuntimeError(f"OpenAI request failed after {retries + 1} attempt(s): {last_error}") from last_error
 
-    raise RuntimeError(f"OpenAI request failed after {retries + 1} attempt(s): {last_error}")
+        def _chained(first=first_chunk, rest=generator):
+            yield first
+            yield from rest
+
+        return _chained()
+
+    return iter(())
 
 
 def pop_last_memory_turn(memory):
@@ -331,111 +469,116 @@ with st.sidebar:
         st.error(f"\U0001F4C8 **FAISS Index**  \n{index_error or 'Unavailable'}", icon="⚠️")
 
     st.caption(f"Total indexed chunks: **{len(records)}**")
+    if not COST_TRACKING_AVAILABLE:
+        st.caption("⚠️ `langchain_community.callbacks` not importable — token/cost tracking disabled.")
 
     st.divider()
 
-    st.markdown("### Retrieval Settings")
-    st.caption("Statement types to search")
-    available_types = sorted({getattr(r, "statement_type_source", "") for r in records if getattr(r, "statement_type_source", "")}) or STATEMENT_TYPES
-
-    selected_types = []
-    for label in available_types:
-        icon = STATEMENT_ICONS.get(label, "\U0001F4C4")
-        checked = st.checkbox(f"{icon} {label}", value=True, key=f"chk_{label}")
-        if checked:
-            selected_types.append(label)
-
-    # If every available type is selected, no filter is needed (search all).
-    statement_type_filter = None if set(selected_types) == set(available_types) else (selected_types or None)
-
-    top_k = st.slider("Chunks to retrieve (Top K)", min_value=1, max_value=15, value=TOP_K_DEFAULT)
-
-    with st.expander("Advanced generation settings"):
-        temperature = st.slider("Temperature", min_value=0.0, max_value=1.0, value=0.0, step=0.05,
-                                 help="Lower = more precise and deterministic. Recommended for financial data.")
-        max_tokens = st.slider("Max response length (tokens)", min_value=128, max_value=2048, value=512, step=128)
-
-    st.divider()
-
-    st.markdown("### Model")
-    openai_key_present = get_openai_status()
-    if openai_key_present:
-        st.success("OpenAI API key detected", icon="🟢")
-    else:
-        st.error("OPENAI_API_KEY not found in environment", icon="🔴")
-        st.caption("Set `OPENAI_API_KEY` in your `.env` file, then refresh this page.")
-
-    model_labeled_options = MODEL_OPTIONS + ["\u270F\uFE0F Custom model name..."]
-    default_index = MODEL_OPTIONS.index(MODEL_DEFAULT) if MODEL_DEFAULT in MODEL_OPTIONS else 0
-    selected_label = st.selectbox("Model", options=model_labeled_options, index=default_index)
-
-    if selected_label == "\u270F\uFE0F Custom model name...":
-        model_name = st.text_input("Enter OpenAI model name", value=MODEL_DEFAULT)
-    else:
-        model_name = selected_label
-
-    st.divider()
-
-    st.markdown("### Conversation Memory")
-    if not LANGCHAIN_MEMORY_AVAILABLE:
-        st.caption("⚠️ `langchain.memory` not importable — using a built-in fallback buffer with the same behavior.")
-
-    use_memory = st.checkbox(
-        "Remember conversation context",
-        value=True,
-        help="Feeds prior Q&A turns to the model so follow-up questions "
-             "(e.g. 'what about the year before?') resolve correctly.",
+    tab_retrieval, tab_model, tab_memory, tab_session = st.tabs(
+        ["🔎 Retrieval", "🤖 Model", "🧠 Memory", "📁 Session"]
     )
 
-    memory_window = st.slider(
-        "Memory window (turns to remember)",
-        min_value=1,
-        max_value=15,
-        value=MEMORY_WINDOW_DEFAULT,
-        disabled=not use_memory,
-        help="Number of most recent question/answer pairs kept in the buffer. "
-             "Older turns are chained out automatically (sliding window).",
-    )
+    with tab_retrieval:
+        st.caption("Statement types to search")
+        available_types = sorted({getattr(r, "statement_type_source", "") for r in records if getattr(r, "statement_type_source", "")}) or STATEMENT_TYPES
 
-    # (Re)initialize the LangChain buffer if window size changes or on first run.
-    if "memory" not in st.session_state or st.session_state.get("memory_window") != memory_window:
-        st.session_state.memory = ConversationBufferWindowMemory(k=memory_window, memory_key="chat_history")
-        st.session_state.memory_window = memory_window
+        selected_types = []
+        for label in available_types:
+            icon = STATEMENT_ICONS.get(label, "\U0001F4C4")
+            checked = st.checkbox(f"{icon} {label}", value=True, key=f"chk_{label}")
+            if checked:
+                selected_types.append(label)
 
-    turns_in_buffer = len(getattr(st.session_state.memory, "_turns", getattr(st.session_state.memory, "buffer", [])) or [])
-    st.caption(f"🧠 Buffer holds up to **{memory_window}** turn(s) · chaining {'enabled' if use_memory else 'disabled'}")
+        # If every available type is selected, no filter is needed (search all).
+        statement_type_filter = None if set(selected_types) == set(available_types) else (selected_types or None)
 
-    st.divider()
+        top_k = st.slider("Chunks to retrieve (Top K)", min_value=1, max_value=15, value=TOP_K_DEFAULT)
 
-    st.markdown("### Session")
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
-    if "query_count" not in st.session_state:
-        st.session_state.query_count = 0
+        with st.expander("Advanced generation settings"):
+            temperature = st.slider("Temperature", min_value=0.0, max_value=1.0, value=0.0, step=0.05,
+                                     help="Lower = more precise and deterministic. Recommended for financial data.")
+            max_tokens = st.slider("Max response length (tokens)", min_value=128, max_value=2048, value=512, step=128)
 
-    m1, m2 = st.columns(2)
-    m1.markdown(f"<div class='metric-card'><b>{st.session_state.query_count}</b><br><span class='muted-text'>Questions asked</span></div>", unsafe_allow_html=True)
-    m2.markdown(f"<div class='metric-card'><b>{len(st.session_state.messages)}</b><br><span class='muted-text'>Messages</span></div>", unsafe_allow_html=True)
+    with tab_model:
+        st.markdown("#### Model")
+        openai_key_present = get_openai_status()
+        if openai_key_present:
+            st.success("OpenAI API key detected", icon="🟢")
+        else:
+            st.error("OPENAI_API_KEY not found in environment", icon="🔴")
+            st.caption("Set `OPENAI_API_KEY` in your `.env` file, then refresh this page.")
 
-    st.write("")
+        model_labeled_options = MODEL_OPTIONS + ["\u270F\uFE0F Custom model name..."]
+        default_index = MODEL_OPTIONS.index(MODEL_DEFAULT) if MODEL_DEFAULT in MODEL_OPTIONS else 0
+        selected_label = st.selectbox("Model", options=model_labeled_options, index=default_index)
 
-    col_clear, col_export = st.columns(2)
-    with col_clear:
-        if st.button("🗑️ Clear chat", use_container_width=True):
-            st.session_state.messages = []
-            st.session_state.query_count = 0
-            st.session_state.memory.clear()
-            st.rerun()
-    with col_export:
-        transcript = format_transcript(st.session_state.messages) if st.session_state.messages else "No conversation yet."
-        st.download_button(
-            "📥 Export",
-            data=transcript,
-            file_name=f"aapl_chat_{datetime.now().strftime('%Y%m%d_%H%M')}.md",
-            mime="text/markdown",
-            use_container_width=True,
-            disabled=not st.session_state.messages,
+        if selected_label == "\u270F\uFE0F Custom model name...":
+            model_name = st.text_input("Enter OpenAI model name", value=MODEL_DEFAULT)
+        else:
+            model_name = selected_label
+
+    with tab_memory:
+        st.markdown("#### Conversation Memory")
+        if not LANGCHAIN_MEMORY_AVAILABLE:
+            st.caption("⚠️ `langchain.memory` not importable — using a built-in fallback buffer with the same behavior.")
+
+        use_memory = st.checkbox(
+            "Remember conversation context",
+            value=True,
+            help="Feeds prior Q&A turns to the model so follow-up questions "
+                 "(e.g. 'what about the year before?') resolve correctly.",
         )
+
+        memory_window = st.slider(
+            "Memory window (turns to remember)",
+            min_value=1,
+            max_value=15,
+            value=MEMORY_WINDOW_DEFAULT,
+            disabled=not use_memory,
+            help="Number of most recent question/answer pairs kept in the buffer. "
+                 "Older turns are chained out automatically (sliding window).",
+        )
+
+        # (Re)initialize the LangChain buffer if window size changes or on first run.
+        if "memory" not in st.session_state or st.session_state.get("memory_window") != memory_window:
+            st.session_state.memory = ConversationBufferWindowMemory(k=memory_window, memory_key="chat_history")
+            st.session_state.memory_window = memory_window
+
+        turns_in_buffer = len(getattr(st.session_state.memory, "_turns", getattr(st.session_state.memory, "buffer", [])) or [])
+        st.caption(f"🧠 Buffer holds up to **{memory_window}** turn(s) · chaining {'enabled' if use_memory else 'disabled'}")
+
+    with tab_session:
+        st.markdown("#### Session")
+        m1, m2, m3 = st.columns(3)
+        m1.markdown(f"<div class='metric-card'><b>{st.session_state.query_count}</b><br><span class='muted-text'>Questions</span></div>", unsafe_allow_html=True)
+        m2.markdown(f"<div class='metric-card'><b>{len(st.session_state.messages)}</b><br><span class='muted-text'>Messages</span></div>", unsafe_allow_html=True)
+        m3.markdown(f"<div class='metric-card'><b>${st.session_state.total_cost:.3f}</b><br><span class='muted-text'>Est. cost</span></div>", unsafe_allow_html=True)
+
+        st.write("")
+
+        col_clear, col_export = st.columns(2)
+        with col_clear:
+            if st.button("🗑️ Clear chat", use_container_width=True):
+                st.session_state.messages = []
+                st.session_state.query_count = 0
+                st.session_state.total_cost = 0.0
+                st.session_state.total_tokens = 0
+                st.session_state.memory.clear()
+                st.toast("Chat cleared", icon="🗑️")
+                st.rerun()
+        with col_export:
+            transcript = format_transcript(st.session_state.messages) if st.session_state.messages else "No conversation yet."
+            st.download_button(
+                "📥 Export",
+                data=transcript,
+                file_name=f"aapl_chat_{datetime.now().strftime('%Y%m%d_%H%M')}.md",
+                mime="text/markdown",
+                use_container_width=True,
+                disabled=not st.session_state.messages,
+            )
+
+        with st.expander("🧾 View system prompt template"):
+            st.code(PROMPT.template, language="markdown")
 
 # ==========================================================
 # Main Chat Area
@@ -458,37 +601,66 @@ if not st.session_state.messages:
             st.session_state.pending_question = example
 
 
-def render_sources(sources, key_prefix=""):
-    with st.expander(f"📎 {len(sources)} sources used"):
-        st.markdown(
-            "| Statement | Section | Chunk ID | Similarity |\n"
-            "|---|---|---|---|"
-        )
-        for src in sources:
-            st.markdown(
-                f"| {STATEMENT_ICONS.get(src['statement'], '')} {src['statement']} "
-                f"| {src['section']} | {src['chunk_id']} | {src['similarity']} |"
-            )
-        st.write("")
+def render_sources(sources, key_prefix="", query=""):
+    with st.expander(f"📎 {len(sources)} source{'s' if len(sources) != 1 else ''} used"):
         for i, src in enumerate(sources):
+            color = STATEMENT_COLORS.get(src["statement"], "#7a7f8c")
+            icon = STATEMENT_ICONS.get(src["statement"], "\U0001F4C4")
             st.markdown(
-                f"<span class='source-chip'>{src['statement']}</span>"
+                f"<span class='source-chip' style='border-color:{color};color:{color};'>"
+                f"{icon} {src['statement']}</span>"
+                f"<span class='source-chip'>{src['section']}</span>"
+                f"<span class='source-chip'>Chunk: {src['chunk_id']}</span>"
                 f"<span class='source-chip'>Similarity: {src['similarity']}</span>",
                 unsafe_allow_html=True,
             )
-            st.caption(src["preview"])
+            preview = highlight_terms(src["preview"], query) if query else src["preview"]
+            st.caption(preview)
             if i < len(sources) - 1:
                 st.divider()
 
 
+def render_feedback(idx):
+    """Thumbs up/down on an assistant message, recorded in session state."""
+    feedback = st.session_state.messages[idx].get("feedback")
+    cols = st.columns([1, 1, 10])
+    if cols[0].button("👍", key=f"fb_up_{idx}", disabled=feedback is not None):
+        st.session_state.messages[idx]["feedback"] = "up"
+        st.toast("Thanks for the feedback!", icon="👍")
+        st.rerun()
+    if cols[1].button("👎", key=f"fb_down_{idx}", disabled=feedback is not None):
+        st.session_state.messages[idx]["feedback"] = "down"
+        st.toast("Got it — thanks for flagging this.", icon="👎")
+        st.rerun()
+    if feedback:
+        cols[2].caption("Feedback recorded ✅" if feedback == "up" else "Feedback recorded — flagged ⚠️")
+
+
 # Render chat history
 for idx, message in enumerate(st.session_state.messages):
-    with st.chat_message(message["role"]):
+    avatar = USER_AVATAR if message["role"] == "user" else ASSISTANT_AVATAR
+    with st.chat_message(message["role"], avatar=avatar):
         st.markdown(message["content"])
+
+        footer_bits = []
         if message.get("latency"):
-            st.caption(f"⏱️ {message['latency']:.1f}s")
+            footer_bits.append(f"⏱️ {message['latency']:.1f}s")
+        usage = message.get("usage")
+        if usage and usage.get("total_tokens"):
+            footer_bits.append(
+                f"${usage['total_cost']:.4f}" if usage.get("total_cost") else f"{usage['total_tokens']} tok"
+            )
+        badge = message.get("confidence")
+        if badge:
+            footer_bits.append(badge)
+        if footer_bits:
+            st.caption(" · ".join(footer_bits))
+
         if message.get("sources"):
-            render_sources(message["sources"], key_prefix=f"hist_{idx}")
+            render_sources(message["sources"], key_prefix=f"hist_{idx}", query=message.get("query", ""))
+
+        if message["role"] == "assistant":
+            render_feedback(idx)
 
 # Chat input
 question = st.chat_input("Ask about AAPL's financials...")
@@ -497,15 +669,19 @@ if "pending_question" in st.session_state:
     question = st.session_state.pop("pending_question")
 
 
-def run_query(question_text):
-    st.session_state.messages.append({"role": "user", "content": question_text, "sources": None})
-    st.session_state.query_count += 1
+def run_query(question_text, is_regenerate=False):
+    # On regenerate, the user bubble is already in history — don't duplicate it.
+    if not is_regenerate:
+        st.session_state.messages.append({"role": "user", "content": question_text, "sources": None})
+        st.session_state.query_count += 1
 
-    with st.chat_message("user"):
-        st.markdown(question_text)
+        with st.chat_message("user", avatar=USER_AVATAR):
+            st.markdown(question_text)
 
-    with st.chat_message("assistant"):
+    with st.chat_message("assistant", avatar=ASSISTANT_AVATAR):
         start_time = time.time()
+        usage = None
+        badge = None
 
         if index is None:
             answer = "The FAISS index is unavailable. Please check the sidebar for details."
@@ -526,12 +702,11 @@ def run_query(question_text):
                 if use_memory:
                     chat_history = st.session_state.memory.load_memory_variables({}).get("chat_history", "")
 
-                with st.spinner(f"Asking {model_name}..."):
-                    answer = ask_llm(
-                        question_text, context, chat_history, model_name, temperature, max_tokens,
-                    )
-
-                st.markdown(answer)
+                answer = st.write_stream(
+                    stream_with_retry(question_text, context, chat_history, model_name, temperature, max_tokens)
+                )
+                usage = st.session_state.pop("_last_usage", None)
+                badge = confidence_badge(sources)
 
                 if use_memory:
                     st.session_state.memory.save_context({"input": question_text}, {"output": answer})
@@ -542,14 +717,32 @@ def run_query(question_text):
                 st.error(answer)
 
         latency = time.time() - start_time
-        st.caption(f"⏱️ {latency:.1f}s · {model_name} · {len(sources)} chunks retrieved")
+
+        footer_bits = [f"⏱️ {latency:.1f}s", model_name, f"{len(sources)} chunks retrieved"]
+        if usage and usage.get("total_tokens"):
+            footer_bits.append(f"${usage['total_cost']:.4f}" if usage.get("total_cost") else f"{usage['total_tokens']} tok")
+            st.session_state.total_cost += usage.get("total_cost", 0.0)
+            st.session_state.total_tokens += usage.get("total_tokens", 0)
+        if badge:
+            footer_bits.append(badge)
+        st.caption(" · ".join(footer_bits))
 
         if sources:
-            render_sources(sources, key_prefix="live")
+            render_sources(sources, key_prefix="live", query=question_text)
 
-    st.session_state.messages.append(
-        {"role": "assistant", "content": answer, "sources": sources, "latency": latency}
-    )
+        st.session_state.messages.append(
+            {
+                "role": "assistant",
+                "content": answer,
+                "sources": sources,
+                "latency": latency,
+                "usage": usage,
+                "confidence": badge,
+                "query": question_text,
+                "feedback": None,
+            }
+        )
+        render_feedback(len(st.session_state.messages) - 1)
 
 
 if question:
@@ -565,4 +758,4 @@ if st.session_state.messages and st.session_state.messages[-1]["role"] == "assis
             st.session_state.messages = st.session_state.messages[:-1]
             if use_memory:
                 pop_last_memory_turn(st.session_state.memory)
-            run_query(last_user_msg)
+            run_query(last_user_msg, is_regenerate=True)

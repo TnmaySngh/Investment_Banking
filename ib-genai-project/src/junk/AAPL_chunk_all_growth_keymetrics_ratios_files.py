@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import configparser
 import re
 from pathlib import Path
 from typing import Any
@@ -15,40 +14,21 @@ import pandas as pd
 # input folder (where the cleaned .xlsx files live), its own output
 # folder/file, and its own column groupings (since growth / key metrics /
 # ratios each expose a completely different set of columns).
-#
-# The base input/output folders and the company symbol come from
-# config.txt (same file used by json_to_excel_converter.py /
-# excel_data_cleaner.py), so this script never needs code changes to
-# point at a new machine or company - just update config.txt.
 
-CONFIG_FILE = Path(
-    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\config\config.txt"
+BASE_DATA_FOLDER = Path(
+    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data"
+    r"\excel\AAPL\metrics_ratio_growth\cleaned"
 )
-
-
-def load_config(config_file: Path) -> configparser.ConfigParser:
-    if not config_file.exists():
-        raise FileNotFoundError(f"Config file not found:\n{config_file}")
-
-    parser = configparser.ConfigParser()
-    parser.read(config_file, encoding="utf-8")
-    return parser
-
-
-_config = load_config(CONFIG_FILE)
-
-BASE_EXCEL_DIR = Path(_config.get("paths", "base_excel_dir"))
-BASE_CHUNK_DIR = Path(_config.get("paths", "base_chunk_dir"))
-COMPANY = _config.get("settings", "default_company", fallback="AAPL")
-
-BASE_DATA_FOLDER = BASE_EXCEL_DIR / COMPANY / "metrics_ratio_growth" / "cleaned"
 
 # growth_clean.xlsx, key_metrics_clean.xlsx, and ratios_clean.xlsx all live
 # together in BASE_DATA_FOLDER, so every statement type below reads from
 # this same input folder and instead filters by filename pattern to pick
 # out only the file(s) that belong to it (see "file_pattern" in
 # STATEMENT_TYPE_CONFIGS further down).
-OUTPUT_BASE_FOLDER = BASE_CHUNK_DIR / COMPANY
+OUTPUT_BASE_FOLDER = Path(
+    r"C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data"
+    r"\chunks\AAPL"
+)
 
 # =========================================================
 # FINANCIAL COLUMN GROUPS — per statement type
