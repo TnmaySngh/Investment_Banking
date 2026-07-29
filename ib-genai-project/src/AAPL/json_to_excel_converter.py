@@ -1,4 +1,4 @@
-r"""
+"""
 json_to_excel_converter.py
 ============================
 Converts JSON files into Excel files, expanding a nested dict column
