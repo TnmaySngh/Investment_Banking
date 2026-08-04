@@ -1,0 +1,2920 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 86,810,000,000
+- Short Term Investments: 36,219,000,000
+- Cash And Short Term Investments: 123,029,000,000
+- Net Receivables: 67,729,000,000
+- Accounts Receivables: 67,729,000,000
+- Other Receivables: 0
+- Inventory: 38,325,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 229,083,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 443,079,000,000
+- Goodwill: 23,273,000,000
+- Intangible Assets: 9,197,000,000
+- Goodwill And Intangible Assets: 32,470,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 113,410,000,000
+- Total Non Current Assets: 588,959,000,000
+- Other Assets: 0
+- Total Assets: 818,042,000,000
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 121,909,000,000
+- Account Payables: 121,909,000,000
+- Other Payables: 0
+- Accrued Expenses: 75,520,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 20,576,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 218,005,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 65,648,000,000
+- Capital Lease Obligations Non Current: 87,339,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 35,985,000,000
+- Total Non Current Liabilities: 188,972,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 87,339,000,000
+- Total Liabilities: 406,977,000,000
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 250,536,000,000
+- Additional Paid In Capital: 140,024,000,000
+- Accumulated Other Comprehensive Income Loss: 28,230,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 411,065,000,000
+- Total Equity: 411,065,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 818,042,000,000
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 36,219,000,000
+- Short Term Debt: 0
+- Long Term Debt: 65,648,000,000
+- Capital Lease Obligations: 87,339,000,000
+- Total Debt: 152,987,000,000
+- Cash And Cash Equivalents: 86,810,000,000
+- Net Debt: 66,177,000,000
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 78,779,000,000
+- Short Term Investments: 22,423,000,000
+- Cash And Short Term Investments: 101,202,000,000
+- Net Receivables: 55,451,000,000
+- Accounts Receivables: 55,451,000,000
+- Other Receivables: 0
+- Inventory: 34,214,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 190,867,000,000
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 328,806,000,000
+- Goodwill: 23,074,000,000
+- Intangible Assets: 8,602,000,000
+- Goodwill And Intangible Assets: 31,676,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 73,545,000,000
+- Total Non Current Assets: 434,027,000,000
+- Other Assets: 0
+- Total Assets: 624,894,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 94,363,000,000
+- Account Payables: 94,363,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,965,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 18,103,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 179,431,000,000
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 52,623,000,000
+- Capital Lease Obligations Non Current: 78,277,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 28,593,000,000
+- Total Non Current Liabilities: 159,493,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 78,277,000,000
+- Total Liabilities: 338,924,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 111,000,000
+- Retained Earnings: 172,866,000,000
+- Additional Paid In Capital: 120,864,000,000
+- Accumulated Other Comprehensive Income Loss: -34,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 285,970,000,000
+- Total Equity: 285,970,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 624,894,000,000
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 22,423,000,000
+- Short Term Debt: 0
+- Long Term Debt: 52,623,000,000
+- Capital Lease Obligations: 78,277,000,000
+- Total Debt: 130,900,000,000
+- Cash And Cash Equivalents: 78,779,000,000
+- Net Debt: 52,121,000,000
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 73,387,000,000
+- Short Term Investments: 13,393,000,000
+- Cash And Short Term Investments: 86,780,000,000
+- Net Receivables: 52,253,000,000
+- Accounts Receivables: 52,253,000,000
+- Other Receivables: 0
+- Inventory: 33,318,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 172,351,000,000
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 276,690,000,000
+- Goodwill: 22,789,000,000
+- Intangible Assets: 7,687,000,000
+- Goodwill And Intangible Assets: 30,476,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 48,337,000,000
+- Total Non Current Assets: 355,503,000,000
+- Other Assets: 0
+- Total Assets: 527,854,000,000
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 84,981,000,000
+- Account Payables: 84,981,000,000
+- Other Payables: 0
+- Accrued Expenses: 64,709,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 15,227,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 164,917,000,000
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 58,314,000,000
+- Capital Lease Obligations Non Current: 77,297,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 25,451,000,000
+- Total Non Current Liabilities: 161,062,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 77,297,000,000
+- Total Liabilities: 325,979,000,000
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 109,000,000
+- Retained Earnings: 113,618,000,000
+- Additional Paid In Capital: 99,025,000,000
+- Accumulated Other Comprehensive Income Loss: -3,040,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 201,875,000,000
+- Total Equity: 201,875,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 527,854,000,000
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 13,393,000,000
+- Short Term Debt: 0
+- Long Term Debt: 58,314,000,000
+- Capital Lease Obligations: 77,297,000,000
+- Total Debt: 135,611,000,000
+- Cash And Cash Equivalents: 73,387,000,000
+- Net Debt: 62,224,000,000
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 53,888,000,000
+- Short Term Investments: 16,138,000,000
+- Cash And Short Term Investments: 70,026,000,000
+- Net Receivables: 42,360,000,000
+- Accounts Receivables: 42,360,000,000
+- Other Receivables: 0
+- Inventory: 34,405,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 146,791,000,000
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 252,838,000,000
+- Goodwill: 20,288,000,000
+- Intangible Assets: 6,097,000,000
+- Goodwill And Intangible Assets: 26,385,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 36,661,000,000
+- Total Non Current Assets: 315,884,000,000
+- Other Assets: 0
+- Total Assets: 462,675,000,000
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 79,600,000,000
+- Account Payables: 79,600,000,000
+- Other Payables: 0
+- Accrued Expenses: 62,566,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 13,227,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 155,393,000,000
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 67,150,000,000
+- Capital Lease Obligations Non Current: 72,968,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 21,121,000,000
+- Total Non Current Liabilities: 161,239,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 72,968,000,000
+- Total Liabilities: 316,632,000,000
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 108,000,000
+- Retained Earnings: 83,193,000,000
+- Additional Paid In Capital: 75,066,000,000
+- Accumulated Other Comprehensive Income Loss: -4,487,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 146,043,000,000
+- Total Equity: 146,043,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 462,675,000,000
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 16,138,000,000
+- Short Term Debt: 0
+- Long Term Debt: 67,150,000,000
+- Capital Lease Obligations: 72,968,000,000
+- Total Debt: 140,118,000,000
+- Cash And Cash Equivalents: 53,888,000,000
+- Net Debt: 86,230,000,000
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 36,220,000,000
+- Short Term Investments: 59,829,000,000
+- Cash And Short Term Investments: 96,049,000,000
+- Net Receivables: 32,891,000,000
+- Accounts Receivables: 32,891,000,000
+- Other Receivables: 0
+- Inventory: 32,640,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 161,580,000,000
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_non_current_assets
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 216,363,000,000
+- Goodwill: 15,371,000,000
+- Intangible Assets: 5,107,000,000
+- Goodwill And Intangible Assets: 20,478,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 22,128,000,000
+- Total Non Current Assets: 258,969,000,000
+- Other Assets: 0
+- Total Assets: 420,549,000,000
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Current Liabilities Metrics:
+- Total Payables: 78,664,000,000
+- Account Payables: 78,664,000,000
+- Other Payables: 0
+- Accrued Expenses: 51,775,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 11,827,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 142,266,000,000
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 48,744,000,000
+- Capital Lease Obligations Non Current: 67,651,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 23,643,000,000
+- Total Non Current Liabilities: 140,038,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 67,651,000,000
+- Total Liabilities: 282,304,000,000
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Shareholders Equity Metrics:
+- Treasury Stock: -1,837,000,000
+- Preferred Stock: 0
+- Common Stock: 106,000,000
+- Retained Earnings: 85,915,000,000
+- Additional Paid In Capital: 55,437,000,000
+- Accumulated Other Comprehensive Income Loss: -1,376,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 138,245,000,000
+- Total Equity: 138,245,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 420,549,000,000
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: balance_sheet_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Debt and Investment Summary Metrics:
+- Total Investments: 59,829,000,000
+- Short Term Debt: 0
+- Long Term Debt: 48,744,000,000
+- Capital Lease Obligations: 67,651,000,000
+- Total Debt: 116,395,000,000
+- Cash And Cash Equivalents: 36,220,000,000
+- Net Debt: 80,175,000,000
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 86,810,000,000
+- Short Term Investments: 36,219,000,000
+- Cash And Short Term Investments: 123,029,000,000
+- Net Receivables: 67,729,000,000
+- Accounts Receivables: 67,729,000,000
+- Other Receivables: 0
+- Inventory: 38,325,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 229,083,000,000
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 443,079,000,000
+- Goodwill: 23,273,000,000
+- Intangible Assets: 9,197,000,000
+- Goodwill And Intangible Assets: 32,470,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 113,410,000,000
+- Total Non Current Assets: 588,959,000,000
+- Other Assets: 0
+- Total Assets: 818,042,000,000
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Current Liabilities Metrics:
+- Total Payables: 121,909,000,000
+- Account Payables: 121,909,000,000
+- Other Payables: 0
+- Accrued Expenses: 75,520,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 20,576,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 218,005,000,000
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 65,648,000,000
+- Capital Lease Obligations Non Current: 87,339,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 35,985,000,000
+- Total Non Current Liabilities: 188,972,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 87,339,000,000
+- Total Liabilities: 406,977,000,000
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 250,536,000,000
+- Additional Paid In Capital: 140,024,000,000
+- Accumulated Other Comprehensive Income Loss: 28,230,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 411,065,000,000
+- Total Equity: 411,065,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 818,042,000,000
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Debt and Investment Summary Metrics:
+- Total Investments: 36,219,000,000
+- Short Term Debt: 0
+- Long Term Debt: 65,648,000,000
+- Capital Lease Obligations: 87,339,000,000
+- Total Debt: 152,987,000,000
+- Cash And Cash Equivalents: 86,810,000,000
+- Net Debt: 66,177,000,000
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 66,922,000,000
+- Short Term Investments: 27,275,000,000
+- Cash And Short Term Investments: 94,197,000,000
+- Net Receivables: 61,175,000,000
+- Accounts Receivables: 61,175,000,000
+- Other Receivables: 0
+- Inventory: 41,494,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 196,866,000,000
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 407,891,000,000
+- Goodwill: 23,260,000,000
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 23,260,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 99,904,000,000
+- Total Non Current Assets: 531,055,000,000
+- Other Assets: 0
+- Total Assets: 727,921,000,000
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Current Liabilities Metrics:
+- Total Payables: 106,032,000,000
+- Account Payables: 106,032,000,000
+- Other Payables: 0
+- Accrued Expenses: 68,051,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 21,113,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 195,196,000,000
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 50,742,000,000
+- Capital Lease Obligations Non Current: 84,677,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 27,675,000,000
+- Total Non Current Liabilities: 163,094,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 84,677,000,000
+- Total Liabilities: 358,290,000,000
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 229,344,000,000
+- Additional Paid In Capital: 135,679,000,000
+- Accumulated Other Comprehensive Income Loss: 12,333,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 369,631,000,000
+- Total Equity: 369,631,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 727,921,000,000
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Debt and Investment Summary Metrics:
+- Total Investments: 27,275,000,000
+- Short Term Debt: 0
+- Long Term Debt: 50,742,000,000
+- Capital Lease Obligations: 84,677,000,000
+- Total Debt: 135,419,000,000
+- Cash And Cash Equivalents: 66,922,000,000
+- Net Debt: 68,497,000,000
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 57,741,000,000
+- Short Term Investments: 35,439,000,000
+- Cash And Short Term Investments: 93,180,000,000
+- Net Receivables: 57,415,000,000
+- Accounts Receivables: 57,415,000,000
+- Other Receivables: 0
+- Inventory: 40,825,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 191,420,000,000
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 379,741,000,000
+- Goodwill: 23,155,000,000
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 23,155,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 87,854,000,000
+- Total Non Current Assets: 490,750,000,000
+- Other Assets: 0
+- Total Assets: 682,170,000,000
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Current Liabilities Metrics:
+- Total Payables: 98,285,000,000
+- Account Payables: 98,285,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,974,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 21,662,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 186,921,000,000
+
+CHUNK NUMBER: 46
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 50,718,000,000
+- Capital Lease Obligations Non Current: 83,221,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 27,535,000,000
+- Total Non Current Liabilities: 161,474,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 83,221,000,000
+- Total Liabilities: 348,395,000,000
+
+CHUNK NUMBER: 47
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 208,157,000,000
+- Additional Paid In Capital: 130,923,000,000
+- Accumulated Other Comprehensive Income Loss: 2,420,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 333,775,000,000
+- Total Equity: 333,775,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 682,170,000,000
+
+CHUNK NUMBER: 48
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Debt and Investment Summary Metrics:
+- Total Investments: 35,439,000,000
+- Short Term Debt: 0
+- Long Term Debt: 50,718,000,000
+- Capital Lease Obligations: 83,221,000,000
+- Total Debt: 133,939,000,000
+- Cash And Cash Equivalents: 57,741,000,000
+- Net Debt: 76,198,000,000
+
+CHUNK NUMBER: 49
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 66,207,000,000
+- Short Term Investments: 28,358,000,000
+- Cash And Short Term Investments: 94,565,000,000
+- Net Receivables: 54,216,000,000
+- Accounts Receivables: 54,216,000,000
+- Other Receivables: 0
+- Inventory: 35,864,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 184,645,000,000
+
+CHUNK NUMBER: 50
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 351,276,000,000
+- Goodwill: 23,089,000,000
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 23,089,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 84,246,000,000
+- Total Non Current Assets: 458,611,000,000
+- Other Assets: 0
+- Total Assets: 643,256,000,000
+
+CHUNK NUMBER: 51
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Current Liabilities Metrics:
+- Total Payables: 89,241,000,000
+- Account Payables: 89,241,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,331,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 20,599,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 176,171,000,000
+
+CHUNK NUMBER: 52
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 53,374,000,000
+- Capital Lease Obligations Non Current: 79,871,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 27,973,000,000
+- Total Non Current Liabilities: 161,218,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 79,871,000,000
+- Total Liabilities: 337,389,000,000
+
+CHUNK NUMBER: 53
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 111,000,000
+- Retained Earnings: 189,993,000,000
+- Additional Paid In Capital: 124,514,000,000
+- Accumulated Other Comprehensive Income Loss: -914,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 305,867,000,000
+- Total Equity: 305,867,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 643,256,000,000
+
+CHUNK NUMBER: 54
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Debt and Investment Summary Metrics:
+- Total Investments: 28,358,000,000
+- Short Term Debt: 0
+- Long Term Debt: 53,374,000,000
+- Capital Lease Obligations: 79,871,000,000
+- Total Debt: 133,245,000,000
+- Cash And Cash Equivalents: 66,207,000,000
+- Net Debt: 67,038,000,000
+
+CHUNK NUMBER: 55
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 78,779,000,000
+- Short Term Investments: 22,423,000,000
+- Cash And Short Term Investments: 101,202,000,000
+- Net Receivables: 55,451,000,000
+- Accounts Receivables: 55,451,000,000
+- Other Receivables: 0
+- Inventory: 34,214,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 190,867,000,000
+
+CHUNK NUMBER: 56
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_non_current_assets
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 328,806,000,000
+- Goodwill: 23,074,000,000
+- Intangible Assets: 8,602,000,000
+- Goodwill And Intangible Assets: 31,676,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 73,545,000,000
+- Total Non Current Assets: 434,027,000,000
+- Other Assets: 0
+- Total Assets: 624,894,000,000
+
+CHUNK NUMBER: 57
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Current Liabilities Metrics:
+- Total Payables: 94,363,000,000
+- Account Payables: 94,363,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,965,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 18,103,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 179,431,000,000
+
+CHUNK NUMBER: 58
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 52,623,000,000
+- Capital Lease Obligations Non Current: 78,277,000,000
+- Deferred Revenue Non Current: 0
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 28,593,000,000
+- Total Non Current Liabilities: 159,493,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 78,277,000,000
+- Total Liabilities: 338,924,000,000
+
+CHUNK NUMBER: 59
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 111,000,000
+- Retained Earnings: 172,866,000,000
+- Additional Paid In Capital: 120,864,000,000
+- Accumulated Other Comprehensive Income Loss: -34,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 285,970,000,000
+- Total Equity: 285,970,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 624,894,000,000
+
+CHUNK NUMBER: 60
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: balance_sheet_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Debt and Investment Summary Metrics:
+- Total Investments: 22,423,000,000
+- Short Term Debt: 0
+- Long Term Debt: 52,623,000,000
+- Capital Lease Obligations: 78,277,000,000
+- Total Debt: 130,900,000,000
+- Cash And Cash Equivalents: 78,779,000,000
+- Net Debt: 52,121,000,000
+
+CHUNK NUMBER: 61
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 86,810,000,000
+- Short Term Investments: 36,219,000,000
+- Cash And Short Term Investments: 123,029,000,000
+- Net Receivables: 67,729,000,000
+- Accounts Receivables: 67,729,000,000
+- Other Receivables: 0
+- Inventory: 38,325,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 229,083,000,000
+
+CHUNK NUMBER: 62
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 443,079,000,000
+- Goodwill: 23,273,000,000
+- Intangible Assets: 9,197,000,000
+- Goodwill And Intangible Assets: 32,470,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 113,410,000,000
+- Total Non Current Assets: 588,959,000,000
+- Other Assets: 0
+- Total Assets: 818,042,000,000
+
+CHUNK NUMBER: 63
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Current Liabilities Metrics:
+- Total Payables: 121,909,000,000
+- Account Payables: 121,909,000,000
+- Other Payables: 0
+- Accrued Expenses: 75,520,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 20,576,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 218,005,000,000
+
+CHUNK NUMBER: 64
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 65,648,000,000
+- Deferred Revenue Non Current: 87,339,000,000
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 35,985,000,000
+- Total Non Current Liabilities: 188,972,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 87,339,000,000
+- Total Liabilities: 406,977,000,000
+
+CHUNK NUMBER: 65
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 250,536,000,000
+- Additional Paid In Capital: 140,024,000,000
+- Accumulated Other Comprehensive Income Loss: 28,230,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 411,065,000,000
+- Total Equity: 411,065,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 818,042,000,000
+
+CHUNK NUMBER: 66
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Debt and Investment Summary Metrics:
+- Total Investments: 36,219,000,000
+- Short Term Debt: 0
+- Long Term Debt: 65,648,000,000
+- Capital Lease Obligations: 87,339,000,000
+- Total Debt: 152,987,000,000
+- Cash And Cash Equivalents: 86,810,000,000
+- Net Debt: 66,177,000,000
+
+CHUNK NUMBER: 67
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 66,922,000,000
+- Short Term Investments: 27,275,000,000
+- Cash And Short Term Investments: 94,197,000,000
+- Net Receivables: 61,175,000,000
+- Accounts Receivables: 61,175,000,000
+- Other Receivables: 0
+- Inventory: 41,494,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 196,866,000,000
+
+CHUNK NUMBER: 68
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 407,891,000,000
+- Goodwill: 23,260,000,000
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 23,260,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 99,904,000,000
+- Total Non Current Assets: 531,055,000,000
+- Other Assets: 0
+- Total Assets: 727,921,000,000
+
+CHUNK NUMBER: 69
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Current Liabilities Metrics:
+- Total Payables: 106,032,000,000
+- Account Payables: 106,032,000,000
+- Other Payables: 0
+- Accrued Expenses: 68,051,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 21,113,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 195,196,000,000
+
+CHUNK NUMBER: 70
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 50,742,000,000
+- Deferred Revenue Non Current: 84,677,000,000
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 27,675,000,000
+- Total Non Current Liabilities: 163,094,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 84,677,000,000
+- Total Liabilities: 358,290,000,000
+
+CHUNK NUMBER: 71
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 229,344,000,000
+- Additional Paid In Capital: 135,679,000,000
+- Accumulated Other Comprehensive Income Loss: 12,333,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 369,631,000,000
+- Total Equity: 369,631,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 727,921,000,000
+
+CHUNK NUMBER: 72
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Debt and Investment Summary Metrics:
+- Total Investments: 27,275,000,000
+- Short Term Debt: 0
+- Long Term Debt: 50,742,000,000
+- Capital Lease Obligations: 84,677,000,000
+- Total Debt: 135,419,000,000
+- Cash And Cash Equivalents: 66,922,000,000
+- Net Debt: 68,497,000,000
+
+CHUNK NUMBER: 73
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 57,741,000,000
+- Short Term Investments: 35,439,000,000
+- Cash And Short Term Investments: 93,180,000,000
+- Net Receivables: 57,415,000,000
+- Accounts Receivables: 57,415,000,000
+- Other Receivables: 0
+- Inventory: 40,825,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 191,420,000,000
+
+CHUNK NUMBER: 74
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 379,741,000,000
+- Goodwill: 23,155,000,000
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 23,155,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 87,854,000,000
+- Total Non Current Assets: 490,750,000,000
+- Other Assets: 0
+- Total Assets: 682,170,000,000
+
+CHUNK NUMBER: 75
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Current Liabilities Metrics:
+- Total Payables: 98,285,000,000
+- Account Payables: 98,285,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,974,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 21,662,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 186,921,000,000
+
+CHUNK NUMBER: 76
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 50,718,000,000
+- Deferred Revenue Non Current: 83,221,000,000
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 27,535,000,000
+- Total Non Current Liabilities: 161,474,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 83,221,000,000
+- Total Liabilities: 348,395,000,000
+
+CHUNK NUMBER: 77
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 112,000,000
+- Retained Earnings: 208,157,000,000
+- Additional Paid In Capital: 130,923,000,000
+- Accumulated Other Comprehensive Income Loss: 2,420,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 333,775,000,000
+- Total Equity: 333,775,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 682,170,000,000
+
+CHUNK NUMBER: 78
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Debt and Investment Summary Metrics:
+- Total Investments: 35,439,000,000
+- Short Term Debt: 0
+- Long Term Debt: 50,718,000,000
+- Capital Lease Obligations: 83,221,000,000
+- Total Debt: 133,939,000,000
+- Cash And Cash Equivalents: 57,741,000,000
+- Net Debt: 76,198,000,000
+
+CHUNK NUMBER: 79
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 66,207,000,000
+- Short Term Investments: 28,358,000,000
+- Cash And Short Term Investments: 94,565,000,000
+- Net Receivables: 54,216,000,000
+- Accounts Receivables: 54,216,000,000
+- Other Receivables: 0
+- Inventory: 35,864,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 184,645,000,000
+
+CHUNK NUMBER: 80
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 351,276,000,000
+- Goodwill: 23,089,000,000
+- Intangible Assets: 0
+- Goodwill And Intangible Assets: 23,089,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 84,246,000,000
+- Total Non Current Assets: 458,611,000,000
+- Other Assets: 0
+- Total Assets: 643,256,000,000
+
+CHUNK NUMBER: 81
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Current Liabilities Metrics:
+- Total Payables: 89,241,000,000
+- Account Payables: 89,241,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,331,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 20,599,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 176,171,000,000
+
+CHUNK NUMBER: 82
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 53,374,000,000
+- Deferred Revenue Non Current: 79,871,000,000
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 27,973,000,000
+- Total Non Current Liabilities: 161,218,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 79,871,000,000
+- Total Liabilities: 337,389,000,000
+
+CHUNK NUMBER: 83
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 111,000,000
+- Retained Earnings: 189,993,000,000
+- Additional Paid In Capital: 124,514,000,000
+- Accumulated Other Comprehensive Income Loss: -914,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 305,867,000,000
+- Total Equity: 305,867,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 643,256,000,000
+
+CHUNK NUMBER: 84
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Debt and Investment Summary Metrics:
+- Total Investments: 28,358,000,000
+- Short Term Debt: 0
+- Long Term Debt: 53,374,000,000
+- Capital Lease Obligations: 79,871,000,000
+- Total Debt: 133,245,000,000
+- Cash And Cash Equivalents: 66,207,000,000
+- Net Debt: 67,038,000,000
+
+CHUNK NUMBER: 85
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Current Assets Metrics:
+- Cash And Cash Equivalents: 78,779,000,000
+- Short Term Investments: 22,423,000,000
+- Cash And Short Term Investments: 101,202,000,000
+- Net Receivables: 55,451,000,000
+- Accounts Receivables: 55,451,000,000
+- Other Receivables: 0
+- Inventory: 34,214,000,000
+- Prepaids: 0
+- Other Current Assets: 0
+- Total Current Assets: 190,867,000,000
+
+CHUNK NUMBER: 86
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_non_current_assets
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Assets
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Non-Current Assets Metrics:
+- Property Plant Equipment Net: 328,806,000,000
+- Goodwill: 23,074,000,000
+- Intangible Assets: 8,602,000,000
+- Goodwill And Intangible Assets: 31,676,000,000
+- Long Term Investments: 0
+- Tax Assets: 0
+- Other Non Current Assets: 73,545,000,000
+- Total Non Current Assets: 434,027,000,000
+- Other Assets: 0
+- Total Assets: 624,894,000,000
+
+CHUNK NUMBER: 87
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Current Liabilities Metrics:
+- Total Payables: 94,363,000,000
+- Account Payables: 94,363,000,000
+- Other Payables: 0
+- Accrued Expenses: 66,965,000,000
+- Short Term Debt: 0
+- Capital Lease Obligations Current: 0
+- Tax Payables: 0
+- Deferred Revenue: 18,103,000,000
+- Other Current Liabilities: 0
+- Total Current Liabilities: 179,431,000,000
+
+CHUNK NUMBER: 88
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_non_current_liabilities
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Current Liabilities
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Non-Current Liabilities Metrics:
+- Long Term Debt: 52,623,000,000
+- Deferred Revenue Non Current: 78,277,000,000
+- Deferred Tax Liabilities Non Current: 0
+- Other Non Current Liabilities: 28,593,000,000
+- Total Non Current Liabilities: 159,493,000,000
+- Other Liabilities: 0
+- Capital Lease Obligations: 78,277,000,000
+- Total Liabilities: 338,924,000,000
+
+CHUNK NUMBER: 89
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_shareholders_equity
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Shareholders Equity
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Shareholders Equity Metrics:
+- Treasury Stock: -7,837,000,000
+- Preferred Stock: 0
+- Common Stock: 111,000,000
+- Retained Earnings: 172,866,000,000
+- Additional Paid In Capital: 120,864,000,000
+- Accumulated Other Comprehensive Income Loss: -34,000,000
+- Other Total Stockholders Equity: 0
+- Total Stockholders Equity: 285,970,000,000
+- Total Equity: 285,970,000,000
+- Minority Interest: 0
+- Total Liabilities And Total Equity: 624,894,000,000
+
+CHUNK NUMBER: 90
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_debt_and_investment_summary
+SOURCE FILE: balance_sheet_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Debt and Investment Summary
+================================================================================
+
+Source File: balance_sheet_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: balance_sheet_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Debt and Investment Summary Metrics:
+- Total Investments: 22,423,000,000
+- Short Term Debt: 0
+- Long Term Debt: 52,623,000,000
+- Capital Lease Obligations: 78,277,000,000
+- Total Debt: 130,900,000,000
+- Cash And Cash Equivalents: 78,779,000,000
+- Net Debt: 52,121,000,000
+

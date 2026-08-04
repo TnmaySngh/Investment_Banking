@@ -21,6 +21,14 @@ base_chunk_dir = C:\AZ_DEVOPS_PYTHON\Investment_Banking\ib-genai-project\data\ch
 # scripts to build their input/output folder paths (base_excel_dir and
 # base_chunk_dir above get /<default_company>/<statement_type> appended
 # to them automatically).
+#
+# NOTE: the AMZN_*.py chunking / relationship-building scripts (added
+# alongside the AAPL_*.py ones) hardcode COMPANY = "AMZN" in each script
+# rather than reading it from here, so that this default_company value
+# always stays dedicated to the AAPL_*.py scripts and switching it will
+# never accidentally affect the AMZN_*.py scripts (or vice versa). Both
+# sets of scripts still read base_excel_dir / base_chunk_dir from
+# [paths] above.
 default_company = AAPL
 
 # Name of the JSON column that holds nested dict records to expand
@@ -44,7 +52,13 @@ json_glob_pattern = *.json
 # statement-type subfolders to process for that company.
 # Add a new line here to onboard a new company/statement -
 # no code changes needed.
+#
+# Used by json_to_excel_converter.py / excel_data_cleaner.py for BOTH
+# companies below. Downstream of those, AAPL_*.py scripts chunk/relate
+# the AAPL data and AMZN_*.py scripts chunk/relate the AMZN data (see
+# the default_company note under [settings] above).
 AAPL = balance_sheet, cash_flow, income_statement, metrics_ratio_growth
+AMZN = balance_sheet, cash_flow, income_statement, metrics_ratio_growth
 
 ##########################################################################################
 

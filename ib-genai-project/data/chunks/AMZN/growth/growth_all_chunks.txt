@@ -1,0 +1,1075 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.12
+- Gross Profit Growth: 0.16
+- EBIT Growth: 0.40
+- Ebitda Growth: 0.34
+- Operating Income Growth: 0.17
+- Net Income Growth: 0.31
+- EPS Growth: 0.29
+- EPS Diluted Growth: 0.30
+- Weighted Average Shares Growth: 0.02
+- Weighted Average Shares Diluted Growth: 0.01
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.20
+- Free Cash Flow Growth: -0.77
+- Growth Capital Expenditure: -0.59
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.22
+- Inventory Growth: 0.12
+- Asset Growth: 0.31
+- Debt Growth: 0.17
+- Book Value Per Share Growth: 0.41
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.23
+- SG&A Expenses Growth: 0.05
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 4.87
+- 5Y Revenue Growth Per Share: 0.74
+- 3Y Revenue Growth Per Share: 0.33
+- 10Y Operating Cash Flow Growth Per Share: 9.16
+- 5Y Operating Cash Flow Growth Per Share: 0.98
+- 3Y Operating Cash Flow Growth Per Share: 1.85
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 113.22
+- 5Y Net Income Growth Per Share: 2.42
+- 3Y Net Income Growth Per Share: 28.28
+- 10Y Bottom Line Net Income Growth Per Share: 113.22
+- 5Y Bottom Line Net Income Growth Per Share: 2.42
+- 3Y Bottom Line Net Income Growth Per Share: 28.28
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: amzn_growth_annual_2025_fy_2025_12_31_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: 25.92
+- 5Y Shareholders Equity Growth Per Share: 3.13
+- 3Y Shareholders Equity Growth Per Share: 1.69
+- 10Y Dividend Per Share Growth Per Share: 0
+- 5Y Dividend Per Share Growth Per Share: 0
+- 3Y Dividend Per Share Growth Per Share: 0
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.11
+- Gross Profit Growth: 0.15
+- EBIT Growth: 0.74
+- Ebitda Growth: 0.38
+- Operating Income Growth: 0.86
+- Net Income Growth: 0.95
+- EPS Growth: 0.92
+- EPS Diluted Growth: 0.91
+- Weighted Average Shares Growth: 0.02
+- Weighted Average Shares Diluted Growth: 0.02
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.36
+- Free Cash Flow Growth: 0.02
+- Growth Capital Expenditure: -0.57
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.06
+- Inventory Growth: 0.03
+- Asset Growth: 0.18
+- Debt Growth: -0.03
+- Book Value Per Share Growth: 0.39
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.03
+- SG&A Expenses Growth: -0.02
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 5.33
+- 5Y Revenue Growth Per Share: 1.15
+- 3Y Revenue Growth Per Share: 0.31
+- 10Y Operating Cash Flow Growth Per Share: 13.94
+- 5Y Operating Cash Flow Growth Per Share: 1.84
+- 3Y Operating Cash Flow Growth Per Share: 1.42
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 217.90
+- 5Y Net Income Growth Per Share: 3.82
+- 3Y Net Income Growth Per Share: 0.72
+- 10Y Bottom Line Net Income Growth Per Share: 217.90
+- 5Y Bottom Line Net Income Growth Per Share: 3.82
+- 3Y Bottom Line Net Income Growth Per Share: 0.72
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: amzn_growth_annual_2024_fy_2024_12_31_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: 22.49
+- 5Y Shareholders Equity Growth Per Share: 3.35
+- 3Y Shareholders Equity Growth Per Share: 1.00
+- 10Y Dividend Per Share Growth Per Share: 0
+- 5Y Dividend Per Share Growth Per Share: 0
+- 3Y Dividend Per Share Growth Per Share: 0
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.12
+- Gross Profit Growth: 0.20
+- EBIT Growth: 12.41
+- Ebitda Growth: 1.33
+- Operating Income Growth: 2.01
+- Net Income Growth: 12.18
+- EPS Growth: 11.93
+- EPS Diluted Growth: 11.74
+- Weighted Average Shares Growth: 0.01
+- Weighted Average Shares Diluted Growth: 0.03
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.82
+- Free Cash Flow Growth: 2.91
+- Growth Capital Expenditure: 0.17
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.23
+- Inventory Growth: -0.03
+- Asset Growth: 0.14
+- Debt Growth: -0.03
+- Book Value Per Share Growth: 0.37
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.17
+- SG&A Expenses Growth: 0.04
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 5.85
+- 5Y Revenue Growth Per Share: 1.33
+- 3Y Revenue Growth Per Share: 0.44
+- 10Y Operating Cash Flow Growth Per Share: 12.76
+- 5Y Operating Cash Flow Growth Per Share: 1.61
+- 3Y Operating Cash Flow Growth Per Share: 0.25
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 97.50
+- 5Y Net Income Growth Per Share: 1.86
+- 3Y Net Income Growth Per Share: 0.38
+- 10Y Bottom Line Net Income Growth Per Share: 97.50
+- 5Y Bottom Line Net Income Growth Per Share: 1.86
+- 3Y Bottom Line Net Income Growth Per Share: 0.38
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: amzn_growth_annual_2023_fy_2023_12_31_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: 17.37
+- 5Y Shareholders Equity Growth Per Share: 3.38
+- 3Y Shareholders Equity Growth Per Share: 1.10
+- 10Y Dividend Per Share Growth Per Share: 0
+- 5Y Dividend Per Share Growth Per Share: 0
+- 3Y Dividend Per Share Growth Per Share: 0
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.09
+- Gross Profit Growth: 0.14
+- EBIT Growth: -1.09
+- Ebitda Growth: -0.48
+- Operating Income Growth: -0.51
+- Net Income Growth: -1.08
+- EPS Growth: -1.08
+- EPS Diluted Growth: -1.08
+- Weighted Average Shares Growth: 0.01
+- Weighted Average Shares Diluted Growth: -0.01
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: 0.01
+- Free Cash Flow Growth: -0.15
+- Growth Capital Expenditure: -0.04
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.29
+- Inventory Growth: 0.05
+- Asset Growth: 0.10
+- Debt Growth: 0.20
+- Book Value Per Share Growth: 0.05
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.31
+- SG&A Expenses Growth: 0.31
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 6.16
+- 5Y Revenue Growth Per Share: 1.72
+- 3Y Revenue Growth Per Share: 0.78
+- 10Y Operating Cash Flow Growth Per Share: 8.51
+- 5Y Operating Cash Flow Growth Per Share: 1.40
+- 3Y Operating Cash Flow Growth Per Share: 0.18
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: -58.37
+- 5Y Net Income Growth Per Share: -1.85
+- 3Y Net Income Growth Per Share: -1.23
+- 10Y Bottom Line Net Income Growth Per Share: -58.37
+- 5Y Bottom Line Net Income Growth Per Share: -1.85
+- 3Y Bottom Line Net Income Growth Per Share: -1.23
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: amzn_growth_annual_2022_fy_2022_12_31_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: 14.16
+- 5Y Shareholders Equity Growth Per Share: 3.97
+- 3Y Shareholders Equity Growth Per Share: 1.28
+- 10Y Dividend Per Share Growth Per Share: 0
+- 5Y Dividend Per Share Growth Per Share: 0
+- 3Y Dividend Per Share Growth Per Share: 0
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_income_statement_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Income Statement Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Income Statement Growth Metrics:
+- Revenue Growth: 0.22
+- Gross Profit Growth: 0.29
+- EBIT Growth: 0.55
+- Ebitda Growth: 0.46
+- Operating Income Growth: 0.09
+- Net Income Growth: 0.56
+- EPS Growth: 0.55
+- EPS Diluted Growth: 0.55
+- Weighted Average Shares Growth: 0.01
+- Weighted Average Shares Diluted Growth: 0.01
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_cash_flow_capex_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow & Capex Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Cash Flow & Capex Growth Metrics:
+- Operating Cash Flow Growth: -0.30
+- Free Cash Flow Growth: -1.57
+- Growth Capital Expenditure: -0.52
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_balance_sheet_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Balance Sheet Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Balance Sheet Growth Metrics:
+- Receivables Growth: 0.34
+- Inventory Growth: 0.37
+- Asset Growth: 0.31
+- Debt Growth: 0.38
+- Book Value Per Share Growth: 0.46
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_expense_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Expense Growth Metrics:
+- R&D Expense Growth: 0.31
+- SG&A Expenses Growth: 0.44
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_dividend_growth
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Growth
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Dividend Growth Metrics:
+- Dividends Per Share Growth: 0
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_long_term_revenue_cash_flow_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Revenue & Cash Flow Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Long-Term Revenue & Cash Flow Growth (Per Share) Metrics:
+- 10Y Revenue Growth Per Share: 7.75
+- 5Y Revenue Growth Per Share: 2.24
+- 3Y Revenue Growth Per Share: 0.94
+- 10Y Operating Cash Flow Growth Per Share: 9.63
+- 5Y Operating Cash Flow Growth Per Share: 1.52
+- 3Y Operating Cash Flow Growth Per Share: 0.45
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_long_term_net_income_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Net Income Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Long-Term Net Income Growth (Per Share) Metrics:
+- 10Y Net Income Growth Per Share: 46.34
+- 5Y Net Income Growth Per Share: 12.18
+- 3Y Net Income Growth Per Share: 2.19
+- 10Y Bottom Line Net Income Growth Per Share: 46.34
+- 5Y Bottom Line Net Income Growth Per Share: 12.18
+- 3Y Bottom Line Net Income Growth Per Share: 2.19
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: amzn_growth_annual_2021_fy_2021_12_31_long_term_equity_dividend_growth_per_share
+SOURCE FILE: growth_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: growth
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Long-Term Equity & Dividend Growth (Per Share)
+================================================================================
+
+Source File: growth_clean.xlsx
+Statement Type: growth
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: growth
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Long-Term Equity & Dividend Growth (Per Share) Metrics:
+- 10Y Shareholders Equity Growth Per Share: 14.96
+- 5Y Shareholders Equity Growth Per Share: 5.72
+- 3Y Shareholders Equity Growth Per Share: 2.06
+- 10Y Dividend Per Share Growth Per Share: 0
+- 5Y Dividend Per Share Growth Per Share: 0
+- 3Y Dividend Per Share Growth Per Share: 0
+

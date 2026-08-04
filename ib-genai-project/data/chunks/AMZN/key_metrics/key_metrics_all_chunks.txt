@@ -1,0 +1,979 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 2,459,617,920,000
+- Enterprise Value: 2,525,794,920,000
+- EV To Sales: 3.52
+- EV To Operating Cash Flow: 18.10
+- EV To Free Cash Flow: 328.24
+- EV To EBITDA: 15.28
+- Net Debt To EBITDA: 0.40
+- Graham Number: 79.54
+- Graham Net Net: -20.08
+- Earnings Yield: 0.03
+- Free Cash Flow Yield: 0.00
+- Tangible Asset Value: 378,595,000,000
+- Net Current Asset Value: -177,894,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.80
+- Tax Burden: 0.80
+- Interest Burden: 0.97
+- Return On Assets: 0.09
+- Operating Return On Assets: 0.11
+- Return On Tangible Assets: 0.10
+- Return On Equity: 0.19
+- Return On Invested Capital: 0.11
+- Return On Capital Employed: 0.13
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 1.05
+- Working Capital: 11,078,000,000
+- Invested Capital: 486,627,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.94
+- Capex To Depreciation: 2.00
+- Capex To Revenue: 0.18
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.08
+- Research And Development To Revenue: 0.15
+- Stock Based Compensation To Revenue: 0.03
+- Intangibles To Total Assets: 0.04
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 61,590,000,000
+- Average Payables: 108,136,000,000
+- Average Inventory: 36,269,500,000
+- Days Of Sales Outstanding: 34.48
+- Days Of Payables Outstanding: 124.85
+- Days Of Inventory Outstanding: 39.25
+- Operating Cycle: 73.73
+- Cash Conversion Cycle: -51.12
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2025_fy_2025_12_31_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: -58,482,000,000
+- Free Cash Flow To Firm: 14,235,127,846.05
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 2,297,671,470,000
+- Enterprise Value: 2,349,792,470,000
+- EV To Sales: 3.68
+- EV To Operating Cash Flow: 20.28
+- EV To Free Cash Flow: 71.47
+- EV To EBITDA: 18.98
+- Net Debt To EBITDA: 0.42
+- Graham Number: 58.95
+- Graham Net Net: -17.09
+- Earnings Yield: 0.03
+- Free Cash Flow Yield: 0.01
+- Tangible Asset Value: 254,294,000,000
+- Net Current Asset Value: -148,057,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.96
+- Tax Burden: 0.86
+- Interest Burden: 0.96
+- Return On Assets: 0.09
+- Operating Return On Assets: 0.12
+- Return On Tangible Assets: 0.10
+- Return On Equity: 0.21
+- Return On Invested Capital: 0.13
+- Return On Capital Employed: 0.15
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 1.06
+- Working Capital: 11,436,000,000
+- Invested Capital: 371,918,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.72
+- Capex To Depreciation: 1.57
+- Capex To Revenue: 0.13
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.09
+- Research And Development To Revenue: 0.14
+- Stock Based Compensation To Revenue: 0.03
+- Intangibles To Total Assets: 0.05
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 53,852,000,000
+- Average Payables: 89,672,000,000
+- Average Inventory: 33,766,000,000
+- Days Of Sales Outstanding: 31.73
+- Days Of Payables Outstanding: 105.56
+- Days Of Inventory Outstanding: 38.27
+- Operating Cycle: 70.00
+- Cash Conversion Cycle: -35.56
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2024_fy_2024_12_31_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: -19,243,000,000
+- Free Cash Flow To Firm: 27,209,978,865.32
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 1,565,589,760,000
+- Enterprise Value: 1,627,813,760,000
+- EV To Sales: 2.83
+- EV To Operating Cash Flow: 19.16
+- EV To Free Cash Flow: 50.53
+- EV To EBITDA: 18.21
+- Net Debt To EBITDA: 0.70
+- Graham Number: 36.08
+- Graham Net Net: -17.79
+- Earnings Yield: 0.02
+- Free Cash Flow Yield: 0.02
+- Tangible Asset Value: 171,399,000,000
+- Net Current Asset Value: -153,628,000,000
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 2.79
+- Tax Burden: 0.81
+- Interest Burden: 0.92
+- Return On Assets: 0.06
+- Operating Return On Assets: 0.07
+- Return On Tangible Assets: 0.06
+- Return On Equity: 0.15
+- Return On Invested Capital: 0.08
+- Return On Capital Employed: 0.10
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 1.05
+- Working Capital: 7,434,000,000
+- Invested Capital: 314,600,000,000
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 0.62
+- Capex To Depreciation: 1.08
+- Capex To Revenue: 0.09
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.10
+- Research And Development To Revenue: 0.15
+- Stock Based Compensation To Revenue: 0.04
+- Intangibles To Total Assets: 0.06
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 47,306,500,000
+- Average Payables: 82,290,500,000
+- Average Inventory: 33,861,500,000
+- Days Of Sales Outstanding: 33.18
+- Days Of Payables Outstanding: 101.79
+- Days Of Inventory Outstanding: 39.91
+- Operating Cycle: 73.09
+- Cash Conversion Cycle: -28.70
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2023_fy_2023_12_31_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: -30,007,000,000
+- Free Cash Flow To Firm: 12,911,292,715.41
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 855,876,000,000
+- Enterprise Value: 942,106,000,000
+- EV To Sales: 1.83
+- EV To Operating Cash Flow: 20.15
+- EV To Free Cash Flow: -55.77
+- EV To EBITDA: 24.56
+- Net Debt To EBITDA: 2.25
+- Graham Net Net: -19.40
+- Earnings Yield: -0.00
+- Free Cash Flow Yield: -0.02
+- Tangible Asset Value: 119,658,000,000
+- Net Current Asset Value: -169,841,000,000
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: -17.18
+- Tax Burden: 0.46
+- Interest Burden: 1.66
+- Return On Assets: -0.01
+- Operating Return On Assets: 0.03
+- Return On Tangible Assets: -0.01
+- Return On Equity: -0.02
+- Return On Invested Capital: 0.02
+- Return On Capital Employed: 0.04
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 0.94
+- Working Capital: -8,602,000,000
+- Invested Capital: 270,621,000,000
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 1.36
+- Capex To Depreciation: 1.52
+- Capex To Revenue: 0.12
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.11
+- Research And Development To Revenue: 0.14
+- Stock Based Compensation To Revenue: 0.04
+- Intangibles To Total Assets: 0.06
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 37,625,500,000
+- Average Payables: 79,132,000,000
+- Average Inventory: 33,522,500,000
+- Days Of Sales Outstanding: 30.08
+- Days Of Payables Outstanding: 100.59
+- Days Of Inventory Outstanding: 43.48
+- Operating Cycle: 73.56
+- Cash Conversion Cycle: -27.03
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2022_fy_2022_12_31_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: -103,123,000,000
+- Free Cash Flow To Firm: 4,556,233,372.62
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_valuation_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Valuation Metrics Metrics:
+- Market Cap: 1,687,206,400,000
+- Enterprise Value: 1,767,381,400,000
+- EV To Sales: 3.76
+- EV To Operating Cash Flow: 38.15
+- EV To Free Cash Flow: -120.02
+- EV To EBITDA: 23.76
+- Net Debt To EBITDA: 1.08
+- Graham Number: 31.83
+- Graham Net Net: -14.35
+- Earnings Yield: 0.02
+- Free Cash Flow Yield: -0.01
+- Tangible Asset Value: 117,767,000,000
+- Net Current Asset Value: -120,724,000,000
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_profitability_returns
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability & Returns
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Profitability & Returns Metrics:
+- Income Quality: 1.39
+- Tax Burden: 0.87
+- Interest Burden: 0.95
+- Return On Assets: 0.08
+- Operating Return On Assets: 0.07
+- Return On Tangible Assets: 0.08
+- Return On Equity: 0.24
+- Return On Invested Capital: 0.08
+- Return On Capital Employed: 0.09
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_liquidity_working_capital
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity & Working Capital
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Liquidity & Working Capital Metrics:
+- Current Ratio: 1.14
+- Working Capital: 19,314,000,000
+- Invested Capital: 256,155,000,000
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_capital_expenditure_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Capital Expenditure Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Capital Expenditure Metrics Metrics:
+- Capex To Operating Cash Flow: 1.32
+- Capex To Depreciation: 1.78
+- Capex To Revenue: 0.13
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_expense_ratios
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Expense Ratios
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Expense Ratios Metrics:
+- Sales General And Administrative To Revenue: 0.09
+- Research And Development To Revenue: 0.12
+- Stock Based Compensation To Revenue: 0.03
+- Intangibles To Total Assets: 0.05
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_efficiency_cash_conversion_cycle
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Cash Conversion Cycle
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Efficiency & Cash Conversion Cycle Metrics:
+- Average Receivables: 28,716,500,000
+- Average Payables: 75,601,500,000
+- Average Inventory: 28,217,500,000
+- Days Of Sales Outstanding: 25.55
+- Days Of Payables Outstanding: 105.43
+- Days Of Inventory Outstanding: 43.74
+- Operating Cycle: 69.30
+- Cash Conversion Cycle: -36.13
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: amzn_key_metrics_annual_2021_fy_2021_12_31_free_cash_flow_metrics
+SOURCE FILE: key_metrics_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: key_metrics
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Free Cash Flow Metrics
+================================================================================
+
+Source File: key_metrics_clean.xlsx
+Statement Type: key_metrics
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: key_metrics
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Free Cash Flow Metrics Metrics:
+- Free Cash Flow To Equity: -94,901,000,000
+- Free Cash Flow To Firm: -4,643,648,014.68
+

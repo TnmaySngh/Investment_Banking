@@ -1,0 +1,2535 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 716,924,000,000
+- Cost Of Revenue: 356,414,000,000
+- Gross Profit: 360,510,000,000
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 108,521,000,000
+- General And Administrative Expenses: 11,172,000,000
+- Selling And Marketing Expenses: 47,129,000,000
+- Selling General And Administrative Expenses: 58,301,000,000
+- Other Expenses: 113,713,000,000
+- Operating Expenses: 280,535,000,000
+- Cost And Expenses: 636,949,000,000
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 65,756,000,000
+- Ebitda: 165,341,000,000
+- Ebit: 99,585,000,000
+- Operating Income: 79,975,000,000
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,107,000,000
+- Interest Income: 4,381,000,000
+- Interest Expense: 2,274,000,000
+- Non Operating Income Excluding Interest: -19,610,000,000
+- Total Other Income Expenses Net: 16,782,000,000
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 96,757,000,000
+- Income Tax Expense: 19,087,000,000
+- Net Income From Continuing Operations: 77,670,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 77,670,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 77,670,000,000
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: amzn_annual_2_025_fy_2025_12_31_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 7.29
+- Eps Diluted: 7.17
+- Weighted Average Shs Out: 10,656,000,000
+- Weighted Average Shs Out Dil: 10,827,000,000
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 637,959,000,000
+- Cost Of Revenue: 326,288,000,000
+- Gross Profit: 311,671,000,000
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 88,544,000,000
+- General And Administrative Expenses: 11,359,000,000
+- Selling And Marketing Expenses: 43,907,000,000
+- Selling General And Administrative Expenses: 55,266,000,000
+- Other Expenses: 99,268,000,000
+- Operating Expenses: 243,078,000,000
+- Cost And Expenses: 569,366,000,000
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 52,795,000,000
+- Ebitda: 123,815,000,000
+- Ebit: 71,020,000,000
+- Operating Income: 68,593,000,000
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,271,000,000
+- Interest Income: 4,677,000,000
+- Interest Expense: 2,406,000,000
+- Non Operating Income Excluding Interest: -2,427,000,000
+- Total Other Income Expenses Net: -80,000,000
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 68,513,000,000
+- Income Tax Expense: 9,265,000,000
+- Net Income From Continuing Operations: 59,248,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 59,248,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 59,248,000,000
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: amzn_annual_2_024_fy_2024_12_31_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 5.66
+- Eps Diluted: 5.53
+- Weighted Average Shs Out: 10,473,000,000
+- Weighted Average Shs Out Dil: 10,721,000,000
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 574,785,000,000
+- Cost Of Revenue: 304,739,000,000
+- Gross Profit: 270,046,000,000
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 85,622,000,000
+- General And Administrative Expenses: 11,816,000,000
+- Selling And Marketing Expenses: 44,370,000,000
+- Selling General And Administrative Expenses: 56,186,000,000
+- Other Expenses: 91,386,000,000
+- Operating Expenses: 233,194,000,000
+- Cost And Expenses: 537,933,000,000
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 48,663,000,000
+- Ebitda: 89,402,000,000
+- Ebit: 40,739,000,000
+- Operating Income: 36,852,000,000
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: -233,000,000
+- Interest Income: 2,949,000,000
+- Interest Expense: 3,182,000,000
+- Non Operating Income Excluding Interest: -3,887,000,000
+- Total Other Income Expenses Net: 693,000,000
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 37,545,000,000
+- Income Tax Expense: 7,120,000,000
+- Net Income From Continuing Operations: 30,425,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 30,425,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 30,425,000,000
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: amzn_annual_2_023_fy_2023_12_31_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2023-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2024-02-02
+Accepted Date: 2024-02-01 18:48:30
+Fiscal Year: 2,023
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 2.95
+- Eps Diluted: 2.90
+- Weighted Average Shs Out: 10,304,000,000
+- Weighted Average Shs Out Dil: 10,492,000,000
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 513,983,000,000
+- Cost Of Revenue: 288,831,000,000
+- Gross Profit: 225,152,000,000
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 73,213,000,000
+- General And Administrative Expenses: 11,891,000,000
+- Selling And Marketing Expenses: 42,238,000,000
+- Selling General And Administrative Expenses: 54,129,000,000
+- Other Expenses: 85,562,000,000
+- Operating Expenses: 212,904,000,000
+- Cost And Expenses: 501,735,000,000
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 41,921,000,000
+- Ebitda: 38,352,000,000
+- Ebit: -3,569,000,000
+- Operating Income: 12,248,000,000
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: -1,378,000,000
+- Interest Income: 989,000,000
+- Interest Expense: 2,367,000,000
+- Non Operating Income Excluding Interest: 15,817,000,000
+- Total Other Income Expenses Net: -18,187,000,000
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: -5,939,000,000
+- Income Tax Expense: -3,217,000,000
+- Net Income From Continuing Operations: -2,722,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: -2,722,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: -2,722,000,000
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: amzn_annual_2_022_fy_2022_12_31_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2022-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2023-02-03
+Accepted Date: 2023-02-02 18:27:34
+Fiscal Year: 2,022
+Period: FY
+
+Per Share Data Metrics:
+- Eps: -0.27
+- Eps Diluted: -0.27
+- Weighted Average Shs Out: 10,189,000,000
+- Weighted Average Shs Out Dil: 10,189,000,000
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Revenue and Gross Profit Metrics:
+- Revenue: 469,822,000,000
+- Cost Of Revenue: 272,344,000,000
+- Gross Profit: 197,478,000,000
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_operating_expenses
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 56,052,000,000
+- General And Administrative Expenses: 8,823,000,000
+- Selling And Marketing Expenses: 32,551,000,000
+- Selling General And Administrative Expenses: 41,374,000,000
+- Other Expenses: 75,173,000,000
+- Operating Expenses: 172,599,000,000
+- Cost And Expenses: 444,943,000,000
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_operating_profitability
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 34,433,000,000
+- Ebitda: 74,393,000,000
+- Ebit: 39,960,000,000
+- Operating Income: 24,879,000,000
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: -1,361,000,000
+- Interest Income: 448,000,000
+- Interest Expense: 1,809,000,000
+- Non Operating Income Excluding Interest: -15,081,000,000
+- Total Other Income Expenses Net: 13,276,000,000
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_tax_and_net_income
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Tax and Net Income Metrics:
+- Income Before Tax: 38,155,000,000
+- Income Tax Expense: 4,791,000,000
+- Net Income From Continuing Operations: 33,364,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 33,364,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 33,364,000,000
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: amzn_annual_2_021_fy_2021_12_31_per_share_data
+SOURCE FILE: income_statement_annual_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: annual
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_annual_clean.xlsx
+Statement Type: annual
+Company Symbol: AMZN
+Financial Statement: income_statement_annual
+Report Date: 2021-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2022-02-04
+Accepted Date: 2022-02-03 18:46:51
+Fiscal Year: 2,021
+Period: FY
+
+Per Share Data Metrics:
+- Eps: 3.30
+- Eps Diluted: 3.24
+- Weighted Average Shs Out: 10,120,000,000
+- Weighted Average Shs Out Dil: 10,300,000,000
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Revenue and Gross Profit Metrics:
+- Revenue: 213,386,000,000
+- Cost Of Revenue: 109,959,000,000
+- Gross Profit: 103,427,000,000
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 29,399,000,000
+- General And Administrative Expenses: 2,704,000,000
+- Selling And Marketing Expenses: 14,264,000,000
+- Selling General And Administrative Expenses: 16,968,000,000
+- Other Expenses: 32,083,000,000
+- Operating Expenses: 78,450,000,000
+- Cost And Expenses: 188,409,000,000
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 19,471,000,000
+- Ebitda: 46,755,000,000
+- Ebit: 27,284,000,000
+- Operating Income: 24,977,000,000
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 451,000,000
+- Interest Income: 1,130,000,000
+- Interest Expense: 679,000,000
+- Non Operating Income Excluding Interest: -2,307,000,000
+- Total Other Income Expenses Net: 1,161,000,000
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Tax and Net Income Metrics:
+- Income Before Tax: 26,138,000,000
+- Income Tax Expense: 4,946,000,000
+- Net Income From Continuing Operations: 21,192,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 21,192,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 21,192,000,000
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q4_2025_12_31_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Per Share Data Metrics:
+- Eps: 1.98
+- Eps Diluted: 1.95
+- Weighted Average Shs Out: 10,709,000,000
+- Weighted Average Shs Out Dil: 10,863,000,000
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Revenue and Gross Profit Metrics:
+- Revenue: 180,169,000,000
+- Cost Of Revenue: 88,670,000,000
+- Gross Profit: 91,499,000,000
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 28,962,000,000
+- General And Administrative Expenses: 2,875,000,000
+- Selling And Marketing Expenses: 11,686,000,000
+- Selling General And Administrative Expenses: 14,561,000,000
+- Other Expenses: 30,554,000,000
+- Operating Expenses: 74,077,000,000
+- Cost And Expenses: 162,747,000,000
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 16,796,000,000
+- Ebitda: 45,504,000,000
+- Ebit: 28,708,000,000
+- Operating Income: 17,422,000,000
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 562,000,000
+- Interest Income: 1,100,000,000
+- Interest Expense: 538,000,000
+- Non Operating Income Excluding Interest: -11,286,000,000
+- Total Other Income Expenses Net: 10,675,000,000
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Tax and Net Income Metrics:
+- Income Before Tax: 28,097,000,000
+- Income Tax Expense: 6,910,000,000
+- Net Income From Continuing Operations: 21,187,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 21,187,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 21,187,000,000
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q3_2025_09_30_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Per Share Data Metrics:
+- Eps: 1.98
+- Eps Diluted: 1.95
+- Weighted Average Shs Out: 10,674,000,000
+- Weighted Average Shs Out Dil: 10,845,000,000
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Revenue and Gross Profit Metrics:
+- Revenue: 167,702,000,000
+- Cost Of Revenue: 80,809,000,000
+- Gross Profit: 86,893,000,000
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 27,166,000,000
+- General And Administrative Expenses: 2,965,000,000
+- Selling And Marketing Expenses: 11,416,000,000
+- Selling General And Administrative Expenses: 14,381,000,000
+- Other Expenses: 26,175,000,000
+- Operating Expenses: 67,722,000,000
+- Cost And Expenses: 148,531,000,000
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 15,227,000,000
+- Ebitda: 36,600,000,000
+- Ebit: 21,373,000,000
+- Operating Income: 19,171,000,000
+
+CHUNK NUMBER: 46
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 569,000,000
+- Interest Income: 1,085,000,000
+- Interest Expense: 516,000,000
+- Non Operating Income Excluding Interest: -2,202,000,000
+- Total Other Income Expenses Net: 1,671,000,000
+
+CHUNK NUMBER: 47
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Tax and Net Income Metrics:
+- Income Before Tax: 20,842,000,000
+- Income Tax Expense: 2,678,000,000
+- Net Income From Continuing Operations: 18,164,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 18,164,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 18,164,000,000
+
+CHUNK NUMBER: 48
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q2_2025_06_30_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Per Share Data Metrics:
+- Eps: 1.71
+- Eps Diluted: 1.68
+- Weighted Average Shs Out: 10,637,000,000
+- Weighted Average Shs Out Dil: 10,806,000,000
+
+CHUNK NUMBER: 49
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Revenue and Gross Profit Metrics:
+- Revenue: 155,667,000,000
+- Cost Of Revenue: 76,976,000,000
+- Gross Profit: 78,691,000,000
+
+CHUNK NUMBER: 50
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 22,994,000,000
+- General And Administrative Expenses: 2,628,000,000
+- Selling And Marketing Expenses: 9,763,000,000
+- Selling General And Administrative Expenses: 12,391,000,000
+- Other Expenses: 24,901,000,000
+- Operating Expenses: 60,286,000,000
+- Cost And Expenses: 137,262,000,000
+
+CHUNK NUMBER: 51
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 14,262,000,000
+- Ebitda: 36,482,000,000
+- Ebit: 22,220,000,000
+- Operating Income: 18,405,000,000
+
+CHUNK NUMBER: 52
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 525,000,000
+- Interest Income: 1,066,000,000
+- Interest Expense: 541,000,000
+- Non Operating Income Excluding Interest: -3,815,000,000
+- Total Other Income Expenses Net: 3,275,000,000
+
+CHUNK NUMBER: 53
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Tax and Net Income Metrics:
+- Income Before Tax: 21,680,000,000
+- Income Tax Expense: 4,553,000,000
+- Net Income From Continuing Operations: 17,127,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 17,127,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 17,127,000,000
+
+CHUNK NUMBER: 54
+================================================================================
+CHUNK ID: amzn_quarterly_2_025_q1_2025_03_31_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Per Share Data Metrics:
+- Eps: 1.62
+- Eps Diluted: 1.59
+- Weighted Average Shs Out: 10,603,000,000
+- Weighted Average Shs Out Dil: 10,793,000,000
+
+CHUNK NUMBER: 55
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Revenue and Gross Profit Metrics:
+- Revenue: 187,792,000,000
+- Cost Of Revenue: 98,893,000,000
+- Gross Profit: 88,899,000,000
+
+CHUNK NUMBER: 56
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_operating_expenses
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 23,571,000,000
+- General And Administrative Expenses: 2,863,000,000
+- Selling And Marketing Expenses: 13,124,000,000
+- Selling General And Administrative Expenses: 15,987,000,000
+- Other Expenses: 28,138,000,000
+- Operating Expenses: 67,696,000,000
+- Cost And Expenses: 166,589,000,000
+
+CHUNK NUMBER: 57
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_operating_profitability
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 15,631,000,000
+- Ebitda: 38,550,000,000
+- Ebit: 22,919,000,000
+- Operating Income: 21,203,000,000
+
+CHUNK NUMBER: 58
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 678,000,000
+- Interest Income: 1,248,000,000
+- Interest Expense: 570,000,000
+- Non Operating Income Excluding Interest: -1,716,000,000
+- Total Other Income Expenses Net: 1,126,000,000
+
+CHUNK NUMBER: 59
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_tax_and_net_income
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Tax and Net Income Metrics:
+- Income Before Tax: 22,329,000,000
+- Income Tax Expense: 2,325,000,000
+- Net Income From Continuing Operations: 20,004,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 20,004,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 20,004,000,000
+
+CHUNK NUMBER: 60
+================================================================================
+CHUNK ID: amzn_quarterly_2_024_q4_2024_12_31_per_share_data
+SOURCE FILE: income_statement_quarterly_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: quarterly
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_quarterly_clean.xlsx
+Statement Type: quarterly
+Company Symbol: AMZN
+Financial Statement: income_statement_quarterly
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Per Share Data Metrics:
+- Eps: 1.90
+- Eps Diluted: 1.86
+- Weighted Average Shs Out: 10,552,000,000
+- Weighted Average Shs Out Dil: 10,771,000,000
+
+CHUNK NUMBER: 61
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Revenue and Gross Profit Metrics:
+- Revenue: 716,924,000,000
+- Cost Of Revenue: 356,414,000,000
+- Gross Profit: 360,510,000,000
+
+CHUNK NUMBER: 62
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 108,521,000,000
+- General And Administrative Expenses: 11,172,000,000
+- Selling And Marketing Expenses: 47,129,000,000
+- Selling General And Administrative Expenses: 58,301,000,000
+- Other Expenses: 113,713,000,000
+- Operating Expenses: 280,535,000,000
+- Cost And Expenses: 636,949,000,000
+
+CHUNK NUMBER: 63
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 65,756,000,000
+- Ebitda: 165,341,000,000
+- Ebit: 99,585,000,000
+- Operating Income: 79,975,000,000
+
+CHUNK NUMBER: 64
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,107,000,000
+- Interest Income: 4,381,000,000
+- Interest Expense: 2,274,000,000
+- Non Operating Income Excluding Interest: -19,610,000,000
+- Total Other Income Expenses Net: 16,782,000,000
+
+CHUNK NUMBER: 65
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Tax and Net Income Metrics:
+- Income Before Tax: 96,757,000,000
+- Income Tax Expense: 19,087,000,000
+- Net Income From Continuing Operations: 77,670,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 77,670,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 77,670,000,000
+
+CHUNK NUMBER: 66
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q4_2025_12_31_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2026-02-06
+Accepted Date: 2026-02-05 18:44:31
+Fiscal Year: 2,025
+Period: Q4
+
+Per Share Data Metrics:
+- Eps: 7.29
+- Eps Diluted: 7.17
+- Weighted Average Shs Out: 10,709,000,000
+- Weighted Average Shs Out Dil: 10,863,000,000
+
+CHUNK NUMBER: 67
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Revenue and Gross Profit Metrics:
+- Revenue: 691,330,000,000
+- Cost Of Revenue: 345,348,000,000
+- Gross Profit: 345,982,000,000
+
+CHUNK NUMBER: 68
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 102,693,000,000
+- General And Administrative Expenses: 11,331,000,000
+- Selling And Marketing Expenses: 45,989,000,000
+- Selling General And Administrative Expenses: 57,320,000,000
+- Other Expenses: 109,768,000,000
+- Operating Expenses: 269,781,000,000
+- Cost And Expenses: 615,129,000,000
+
+CHUNK NUMBER: 69
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 61,916,000,000
+- Ebitda: 157,136,000,000
+- Ebit: 95,220,000,000
+- Operating Income: 76,201,000,000
+
+CHUNK NUMBER: 70
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,334,000,000
+- Interest Income: 4,499,000,000
+- Interest Expense: 2,165,000,000
+- Non Operating Income Excluding Interest: -19,019,000,000
+- Total Other Income Expenses Net: 16,747,000,000
+
+CHUNK NUMBER: 71
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Tax and Net Income Metrics:
+- Income Before Tax: 92,948,000,000
+- Income Tax Expense: 16,466,000,000
+- Net Income From Continuing Operations: 76,482,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 76,482,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 76,482,000,000
+
+CHUNK NUMBER: 72
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q3_2025_09_30_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-09-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-10-31
+Accepted Date: 2025-10-30 18:18:21
+Fiscal Year: 2,025
+Period: Q3
+
+Per Share Data Metrics:
+- Eps: 7.21
+- Eps Diluted: 7.08
+- Weighted Average Shs Out: 10,674,000,000
+- Weighted Average Shs Out Dil: 10,845,000,000
+
+CHUNK NUMBER: 73
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Revenue and Gross Profit Metrics:
+- Revenue: 670,038,000,000
+- Cost Of Revenue: 337,655,000,000
+- Gross Profit: 332,383,000,000
+
+CHUNK NUMBER: 74
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 95,976,000,000
+- General And Administrative Expenses: 11,169,000,000
+- Selling And Marketing Expenses: 44,912,000,000
+- Selling General And Administrative Expenses: 56,081,000,000
+- Other Expenses: 104,136,000,000
+- Operating Expenses: 256,193,000,000
+- Cost And Expenses: 593,848,000,000
+
+CHUNK NUMBER: 75
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 58,562,000,000
+- Ebitda: 143,714,000,000
+- Ebit: 85,152,000,000
+- Operating Income: 76,190,000,000
+
+CHUNK NUMBER: 76
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,425,000,000
+- Interest Income: 4,655,000,000
+- Interest Expense: 2,230,000,000
+- Non Operating Income Excluding Interest: -8,962,000,000
+- Total Other Income Expenses Net: 6,695,000,000
+
+CHUNK NUMBER: 77
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Tax and Net Income Metrics:
+- Income Before Tax: 82,885,000,000
+- Income Tax Expense: 12,262,000,000
+- Net Income From Continuing Operations: 70,623,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 70,623,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 70,623,000,000
+
+CHUNK NUMBER: 78
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q2_2025_06_30_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-06-30
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-08-01
+Accepted Date: 2025-07-31 18:13:08
+Fiscal Year: 2,025
+Period: Q2
+
+Per Share Data Metrics:
+- Eps: 6.69
+- Eps Diluted: 6.56
+- Weighted Average Shs Out: 10,637,000,000
+- Weighted Average Shs Out Dil: 10,806,000,000
+
+CHUNK NUMBER: 79
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Revenue and Gross Profit Metrics:
+- Revenue: 650,313,000,000
+- Cost Of Revenue: 330,631,000,000
+- Gross Profit: 319,682,000,000
+
+CHUNK NUMBER: 80
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 91,114,000,000
+- General And Administrative Expenses: 11,245,000,000
+- Selling And Marketing Expenses: 44,008,000,000
+- Selling General And Administrative Expenses: 55,253,000,000
+- Other Expenses: 101,624,000,000
+- Operating Expenses: 247,991,000,000
+- Cost And Expenses: 578,622,000,000
+
+CHUNK NUMBER: 81
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 55,373,000,000
+- Ebitda: 134,986,000,000
+- Ebit: 79,613,000,000
+- Operating Income: 71,691,000,000
+
+CHUNK NUMBER: 82
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,447,000,000
+- Interest Income: 4,750,000,000
+- Interest Expense: 2,303,000,000
+- Non Operating Income Excluding Interest: -7,922,000,000
+- Total Other Income Expenses Net: 5,604,000,000
+
+CHUNK NUMBER: 83
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Tax and Net Income Metrics:
+- Income Before Tax: 77,295,000,000
+- Income Tax Expense: 11,351,000,000
+- Net Income From Continuing Operations: 65,944,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 65,944,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 65,944,000,000
+
+CHUNK NUMBER: 84
+================================================================================
+CHUNK ID: amzn_ttm_2_025_q1_2025_03_31_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2025-03-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-05-02
+Accepted Date: 2025-05-01 18:14:53
+Fiscal Year: 2,025
+Period: Q1
+
+Per Share Data Metrics:
+- Eps: 6.27
+- Eps Diluted: 6.14
+- Weighted Average Shs Out: 10,603,000,000
+- Weighted Average Shs Out Dil: 10,793,000,000
+
+CHUNK NUMBER: 85
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_revenue_and_gross_profit
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Revenue and Gross Profit
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Revenue and Gross Profit Metrics:
+- Revenue: 637,959,000,000
+- Cost Of Revenue: 326,288,000,000
+- Gross Profit: 311,671,000,000
+
+CHUNK NUMBER: 86
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_operating_expenses
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Expenses
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Operating Expenses Metrics:
+- Research And Development Expenses: 88,544,000,000
+- General And Administrative Expenses: 11,359,000,000
+- Selling And Marketing Expenses: 43,907,000,000
+- Selling General And Administrative Expenses: 55,266,000,000
+- Other Expenses: 99,268,000,000
+- Operating Expenses: 243,078,000,000
+- Cost And Expenses: 569,366,000,000
+
+CHUNK NUMBER: 87
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_operating_profitability
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Operating Profitability
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Operating Profitability Metrics:
+- Depreciation And Amortization: 52,795,000,000
+- Ebitda: 123,815,000,000
+- Ebit: 71,020,000,000
+- Operating Income: 68,593,000,000
+
+CHUNK NUMBER: 88
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_non_operating_income_and_expense
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Non-Operating Income and Expense
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Non-Operating Income and Expense Metrics:
+- Net Interest Income: 2,271,000,000
+- Interest Income: 4,677,000,000
+- Interest Expense: 2,406,000,000
+- Non Operating Income Excluding Interest: -2,427,000,000
+- Total Other Income Expenses Net: -80,000,000
+
+CHUNK NUMBER: 89
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_tax_and_net_income
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Tax and Net Income
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Tax and Net Income Metrics:
+- Income Before Tax: 68,513,000,000
+- Income Tax Expense: 9,265,000,000
+- Net Income From Continuing Operations: 59,248,000,000
+- Net Income From Discontinued Operations: 0
+- Other Adjustments To Net Income: 0
+- Net Income: 59,248,000,000
+- Net Income Deductions: 0
+- Bottom Line Net Income: 59,248,000,000
+
+CHUNK NUMBER: 90
+================================================================================
+CHUNK ID: amzn_ttm_2_024_q4_2024_12_31_per_share_data
+SOURCE FILE: income_statement_ttm_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ttm
+FINANCIAL SECTION: Per Share Data
+================================================================================
+
+Source File: income_statement_ttm_clean.xlsx
+Statement Type: ttm
+Company Symbol: AMZN
+Financial Statement: income_statement_ttm
+Report Date: 2024-12-31
+Reported Currency: USD
+CIK: 1,018,724
+Filing Date: 2025-02-07
+Accepted Date: 2025-02-06 18:40:29
+Fiscal Year: 2,024
+Period: Q4
+
+Per Share Data Metrics:
+- Eps: 5.65
+- Eps Diluted: 5.53
+- Weighted Average Shs Out: 10,552,000,000
+- Weighted Average Shs Out Dil: 10,771,000,000
+

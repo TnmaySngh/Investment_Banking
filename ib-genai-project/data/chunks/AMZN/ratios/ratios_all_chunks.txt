@@ -1,0 +1,1285 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.50
+- Ebit Margin: 0.14
+- Ebitda Margin: 0.23
+- Operating Profit Margin: 0.11
+- Pretax Profit Margin: 0.13
+- Continuous Operations Profit Margin: 0.11
+- Net Profit Margin: 0.11
+- Bottom Line Profit Margin: 0.11
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 10.59
+- Payables Turnover: 2.92
+- Inventory Turnover: 9.30
+- Fixed Asset Turnover: 1.62
+- Asset Turnover: 0.88
+- Working Capital Turnover Ratio: 63.69
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 1.05
+- Quick Ratio: 0.88
+- Solvency Ratio: 0.35
+- Cash Ratio: 0.40
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 31.67
+- Price To Earnings Growth Ratio: 1.10
+- Forward Price To Earnings Growth Ratio: 1.10
+- Price To Book Ratio: 5.98
+- Price To Sales Ratio: 3.43
+- Price To Free Cash Flow Ratio: 319.64
+- Price To Operating Cash Flow Ratio: 17.63
+- Price To Fair Value: 5.98
+- Enterprise Value Multiple: 15.28
+- Debt To Market Cap: 0.03
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.19
+- Debt To Equity Ratio: 0.37
+- Debt To Capital Ratio: 0.27
+- Long Term Debt To Capital Ratio: 0.14
+- Financial Leverage Ratio: 1.99
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.64
+- Operating Cash Flow Sales Ratio: 0.19
+- Free Cash Flow Operating Cash Flow Ratio: 0.06
+- Debt Service Coverage Ratio: 64.32
+- Interest Coverage Ratio: 35.17
+- Short Term Operating Cash Flow Coverage Ratio: 0
+- Operating Cash Flow Coverage Ratio: 0.91
+- Capital Expenditure Coverage Ratio: 1.06
+- Dividend Paid And Capex Coverage Ratio: 1.06
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0
+- Dividend Yield: 0
+- Dividend Yield Percentage: 0
+- Dividend Per Share: 0
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 67.28
+- Net Income Per Share: 7.29
+- Interest Debt Per Share: 14.57
+- Cash Per Share: 11.55
+- Book Value Per Share: 38.58
+- Tangible Book Value Per Share: 35.53
+- Shareholders Equity Per Share: 38.58
+- Operating Cash Flow Per Share: 13.09
+- Capex Per Share: 12.37
+- Free Cash Flow Per Share: 0.72
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: amzn_ratios_annual_2025_fy_2025_12_31_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 2
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2025-12-31
+Reported Currency: USD
+Fiscal Year: 2025
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.80
+- EBT Per EBIT: 1.21
+- Effective Tax Rate: 0.20
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.49
+- Ebit Margin: 0.11
+- Ebitda Margin: 0.19
+- Operating Profit Margin: 0.11
+- Pretax Profit Margin: 0.11
+- Continuous Operations Profit Margin: 0.09
+- Net Profit Margin: 0.09
+- Bottom Line Profit Margin: 0.09
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 11.50
+- Payables Turnover: 3.46
+- Inventory Turnover: 9.54
+- Fixed Asset Turnover: 1.94
+- Asset Turnover: 1.02
+- Working Capital Turnover Ratio: 67.62
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 1.06
+- Quick Ratio: 0.87
+- Solvency Ratio: 0.33
+- Cash Ratio: 0.44
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 38.78
+- Price To Earnings Growth Ratio: 0.42
+- Forward Price To Earnings Growth Ratio: 0.42
+- Price To Book Ratio: 8.03
+- Price To Sales Ratio: 3.60
+- Price To Free Cash Flow Ratio: 69.88
+- Price To Operating Cash Flow Ratio: 19.83
+- Price To Fair Value: 8.03
+- Enterprise Value Multiple: 18.98
+- Debt To Market Cap: 0.02
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.21
+- Debt To Equity Ratio: 0.46
+- Debt To Capital Ratio: 0.31
+- Long Term Debt To Capital Ratio: 0.16
+- Financial Leverage Ratio: 2.19
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.65
+- Operating Cash Flow Sales Ratio: 0.18
+- Free Cash Flow Operating Cash Flow Ratio: 0.28
+- Debt Service Coverage Ratio: 47.61
+- Interest Coverage Ratio: 28.51
+- Short Term Operating Cash Flow Coverage Ratio: 0
+- Operating Cash Flow Coverage Ratio: 0.89
+- Capital Expenditure Coverage Ratio: 1.40
+- Dividend Paid And Capex Coverage Ratio: 1.40
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0
+- Dividend Yield: 0
+- Dividend Yield Percentage: 0
+- Dividend Per Share: 0
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 60.91
+- Net Income Per Share: 5.66
+- Interest Debt Per Share: 12.73
+- Cash Per Share: 9.66
+- Book Value Per Share: 27.31
+- Tangible Book Value Per Share: 24.28
+- Shareholders Equity Per Share: 27.31
+- Operating Cash Flow Per Share: 11.06
+- Capex Per Share: 7.93
+- Free Cash Flow Per Share: 3.14
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: amzn_ratios_annual_2024_fy_2024_12_31_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 3
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2024-12-31
+Reported Currency: USD
+Fiscal Year: 2024
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.86
+- EBT Per EBIT: 1.00
+- Effective Tax Rate: 0.14
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.47
+- Ebit Margin: 0.07
+- Ebitda Margin: 0.16
+- Operating Profit Margin: 0.06
+- Pretax Profit Margin: 0.07
+- Continuous Operations Profit Margin: 0.05
+- Net Profit Margin: 0.05
+- Bottom Line Profit Margin: 0.05
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 11.00
+- Payables Turnover: 3.59
+- Inventory Turnover: 9.15
+- Fixed Asset Turnover: 2.08
+- Asset Turnover: 1.09
+- Working Capital Turnover Ratio: -984.22
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 1.05
+- Quick Ratio: 0.84
+- Solvency Ratio: 0.24
+- Cash Ratio: 0.44
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 51.46
+- Price To Earnings Growth Ratio: -0.04
+- Forward Price To Earnings Growth Ratio: -0.04
+- Price To Book Ratio: 7.76
+- Price To Sales Ratio: 2.72
+- Price To Free Cash Flow Ratio: 48.60
+- Price To Operating Cash Flow Ratio: 18.43
+- Price To Fair Value: 7.76
+- Enterprise Value Multiple: 18.21
+- Debt To Market Cap: 0.04
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.26
+- Debt To Equity Ratio: 0.67
+- Debt To Capital Ratio: 0.40
+- Long Term Debt To Capital Ratio: 0.22
+- Financial Leverage Ratio: 2.61
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.52
+- Operating Cash Flow Sales Ratio: 0.15
+- Free Cash Flow Operating Cash Flow Ratio: 0.38
+- Debt Service Coverage Ratio: 25.86
+- Interest Coverage Ratio: 11.58
+- Short Term Operating Cash Flow Coverage Ratio: 0
+- Operating Cash Flow Coverage Ratio: 0.63
+- Capital Expenditure Coverage Ratio: 1.61
+- Dividend Paid And Capex Coverage Ratio: 1.61
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0
+- Dividend Yield: 0
+- Dividend Yield Percentage: 0
+- Dividend Per Share: 0
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 55.78
+- Net Income Per Share: 2.95
+- Interest Debt Per Share: 13.47
+- Cash Per Share: 8.42
+- Book Value Per Share: 19.59
+- Tangible Book Value Per Share: 16.63
+- Shareholders Equity Per Share: 19.59
+- Operating Cash Flow Per Share: 8.24
+- Capex Per Share: 5.12
+- Free Cash Flow Per Share: 3.13
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: amzn_ratios_annual_2023_fy_2023_12_31_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 4
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2023-12-31
+Reported Currency: USD
+Fiscal Year: 2023
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.81
+- EBT Per EBIT: 1.02
+- Effective Tax Rate: 0.19
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.44
+- Ebit Margin: -0.01
+- Ebitda Margin: 0.07
+- Operating Profit Margin: 0.02
+- Pretax Profit Margin: -0.01
+- Continuous Operations Profit Margin: -0.01
+- Net Profit Margin: -0.01
+- Bottom Line Profit Margin: -0.01
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 12.13
+- Payables Turnover: 3.63
+- Inventory Turnover: 8.40
+- Fixed Asset Turnover: 2.03
+- Asset Turnover: 1.11
+- Working Capital Turnover Ratio: 95.96
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 0.94
+- Quick Ratio: 0.72
+- Solvency Ratio: 0.12
+- Cash Ratio: 0.35
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: -314.43
+- Price To Earnings Growth Ratio: 2.91
+- Forward Price To Earnings Growth Ratio: 2.91
+- Price To Book Ratio: 5.86
+- Price To Sales Ratio: 1.67
+- Price To Free Cash Flow Ratio: -50.66
+- Price To Operating Cash Flow Ratio: 18.31
+- Price To Fair Value: 5.86
+- Enterprise Value Multiple: 24.56
+- Debt To Market Cap: 0.08
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.30
+- Debt To Equity Ratio: 0.96
+- Debt To Capital Ratio: 0.49
+- Long Term Debt To Capital Ratio: 0.31
+- Financial Leverage Ratio: 3.17
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.30
+- Operating Cash Flow Sales Ratio: 0.09
+- Free Cash Flow Operating Cash Flow Ratio: -0.36
+- Debt Service Coverage Ratio: 17.56
+- Interest Coverage Ratio: 5.17
+- Short Term Operating Cash Flow Coverage Ratio: 0
+- Operating Cash Flow Coverage Ratio: 0.33
+- Capital Expenditure Coverage Ratio: 0.73
+- Dividend Paid And Capex Coverage Ratio: 0.73
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0
+- Dividend Yield: 0
+- Dividend Yield Percentage: 0
+- Dividend Per Share: 0
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 50.44
+- Net Income Per Share: -0.27
+- Interest Debt Per Share: 13.98
+- Cash Per Share: 6.87
+- Book Value Per Share: 14.33
+- Tangible Book Value Per Share: 11.74
+- Shareholders Equity Per Share: 14.33
+- Operating Cash Flow Per Share: 4.59
+- Capex Per Share: 6.25
+- Free Cash Flow Per Share: -1.66
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: amzn_ratios_annual_2022_fy_2022_12_31_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 5
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2022-12-31
+Reported Currency: USD
+Fiscal Year: 2022
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.46
+- EBT Per EBIT: -0.48
+- Effective Tax Rate: 0.54
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_profitability_margins
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Profitability Margins
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Profitability Margins Metrics:
+- Gross Profit Margin: 0.42
+- Ebit Margin: 0.09
+- Ebitda Margin: 0.16
+- Operating Profit Margin: 0.05
+- Pretax Profit Margin: 0.08
+- Continuous Operations Profit Margin: 0.07
+- Net Profit Margin: 0.07
+- Bottom Line Profit Margin: 0.07
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_efficiency_turnover_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Efficiency & Turnover Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Efficiency & Turnover Ratios Metrics:
+- Receivables Turnover: 14.28
+- Payables Turnover: 3.46
+- Inventory Turnover: 8.34
+- Fixed Asset Turnover: 2.17
+- Asset Turnover: 1.12
+- Working Capital Turnover Ratio: 36.62
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_liquidity_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Liquidity Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Liquidity Ratios Metrics:
+- Current Ratio: 1.14
+- Quick Ratio: 0.91
+- Solvency Ratio: 0.24
+- Cash Ratio: 0.25
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_valuation_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Valuation Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Valuation Ratios Metrics:
+- Price To Earnings Ratio: 50.57
+- Price To Earnings Growth Ratio: 0.92
+- Forward Price To Earnings Growth Ratio: 0.92
+- Price To Book Ratio: 12.20
+- Price To Sales Ratio: 3.59
+- Price To Free Cash Flow Ratio: -114.57
+- Price To Operating Cash Flow Ratio: 36.42
+- Price To Fair Value: 12.20
+- Enterprise Value Multiple: 23.76
+- Debt To Market Cap: 0.03
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_leverage_solvency_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Leverage & Solvency Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Leverage & Solvency Ratios Metrics:
+- Debt To Assets Ratio: 0.28
+- Debt To Equity Ratio: 0.84
+- Debt To Capital Ratio: 0.46
+- Long Term Debt To Capital Ratio: 0.26
+- Financial Leverage Ratio: 3.04
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_cash_flow_coverage_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Cash Flow Coverage Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Cash Flow Coverage Ratios Metrics:
+- Operating Cash Flow Ratio: 0.33
+- Operating Cash Flow Sales Ratio: 0.10
+- Free Cash Flow Operating Cash Flow Ratio: -0.32
+- Debt Service Coverage Ratio: 38.48
+- Interest Coverage Ratio: 13.75
+- Short Term Operating Cash Flow Coverage Ratio: 0
+- Operating Cash Flow Coverage Ratio: 0.40
+- Capital Expenditure Coverage Ratio: 0.76
+- Dividend Paid And Capex Coverage Ratio: 0.76
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_dividend_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Dividend Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Dividend Ratios Metrics:
+- Dividend Payout Ratio: 0
+- Dividend Yield: 0
+- Dividend Yield Percentage: 0
+- Dividend Per Share: 0
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_per_share_metrics
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Per Share Metrics
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Per Share Metrics Metrics:
+- Revenue Per Share: 46.43
+- Net Income Per Share: 3.30
+- Interest Debt Per Share: 11.68
+- Cash Per Share: 9.49
+- Book Value Per Share: 13.66
+- Tangible Book Value Per Share: 11.64
+- Shareholders Equity Per Share: 13.66
+- Operating Cash Flow Per Share: 4.58
+- Capex Per Share: 6.03
+- Free Cash Flow Per Share: -1.46
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: amzn_ratios_annual_2021_fy_2021_12_31_tax_other_ratios
+SOURCE FILE: ratios_clean.xlsx
+SOURCE ROW: 6
+STATEMENT TYPE: ratios
+STATEMENT PERIOD: annual
+FINANCIAL SECTION: Tax & Other Ratios
+================================================================================
+
+Source File: ratios_clean.xlsx
+Statement Type: ratios
+Statement Period: annual
+Company Symbol: AMZN
+Financial Statement: ratios
+Report Date: 2021-12-31
+Reported Currency: USD
+Fiscal Year: 2021
+Period: FY
+
+Tax & Other Ratios Metrics:
+- Net Income Per EBT: 0.87
+- EBT Per EBIT: 1.53
+- Effective Tax Rate: 0.13
+

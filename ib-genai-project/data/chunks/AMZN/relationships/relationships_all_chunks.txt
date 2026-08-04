@@ -1,0 +1,1258 @@
+CHUNK NUMBER: 1
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 161,580,000,000 + 258,969,000,000 = 420,549,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 420,549,000,000.0000
+Computed value: 420,549,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 2
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 282,304,000,000 + 138,245,000,000 = 420,549,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 420,549,000,000.0000
+Computed value: 420,549,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 3
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 161,580,000,000 / 142,266,000,000 = 1.1358
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 1.1400
+Computed value: 1.1358
+Difference: 0.37%
+Verdict: CLOSE
+
+CHUNK NUMBER: 4
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 282,304,000,000 / 138,245,000,000 = 2.0421
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 0.8400
+Computed value: 2.0421
+Difference: 143.10%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 5
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 197,478,000,000 / 469,822,000,000 = 0.4203
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4200
+Computed value: 0.4203
+Difference: 0.08%
+Verdict: MATCH
+
+CHUNK NUMBER: 6
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 33,364,000,000 / 469,822,000,000 = 0.0710
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.0700
+Computed value: 0.0710
+Difference: 1.45%
+Verdict: CLOSE
+
+CHUNK NUMBER: 7
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 33,364,000,000 / 138,245,000,000 = 0.2413
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 0.2400
+Computed value: 0.2413
+Difference: 0.56%
+Verdict: CLOSE
+
+CHUNK NUMBER: 8
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 1,687,206,400,000 + 80,175,000,000 = 1,767,381,400,000
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 1,767,381,400,000.0000
+Computed value: 1,767,381,400,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 9
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 80,175,000,000 / 74,393,000,000 = 1.0777
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 1.0800
+Computed value: 1.0777
+Difference: 0.21%
+Verdict: CLOSE
+
+CHUNK NUMBER: 10
+================================================================================
+CHUNK ID: amzn_relationship_annual_2021_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2021
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 138,245,000,000 - 15,371,000,000 - 5,107,000,000 = 117,767,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 117,767,000,000.0000
+Computed value: 117,767,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 11
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 146,791,000,000 + 315,884,000,000 = 462,675,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 462,675,000,000.0000
+Computed value: 462,675,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 12
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 316,632,000,000 + 146,043,000,000 = 462,675,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 462,675,000,000.0000
+Computed value: 462,675,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 13
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 146,791,000,000 / 155,393,000,000 = 0.9446
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 0.9400
+Computed value: 0.9446
+Difference: 0.49%
+Verdict: CLOSE
+
+CHUNK NUMBER: 14
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 316,632,000,000 / 146,043,000,000 = 2.1681
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 0.9600
+Computed value: 2.1681
+Difference: 125.84%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 15
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 225,152,000,000 / 513,983,000,000 = 0.4381
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4400
+Computed value: 0.4381
+Difference: 0.44%
+Verdict: CLOSE
+
+CHUNK NUMBER: 16
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: -2,722,000,000 / 513,983,000,000 = -0.0053
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): -0.0100
+Computed value: -0.0053
+Difference: 47.04%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 17
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: -2,722,000,000 / 146,043,000,000 = -0.0186
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): -0.0200
+Computed value: -0.0186
+Difference: 6.81%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 18
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 855,876,000,000 + 86,230,000,000 = 942,106,000,000
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 942,106,000,000.0000
+Computed value: 942,106,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 19
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 86,230,000,000 / 38,352,000,000 = 2.2484
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 2.2500
+Computed value: 2.2484
+Difference: 0.07%
+Verdict: MATCH
+
+CHUNK NUMBER: 20
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 146,043,000,000 - 20,288,000,000 - 6,097,000,000 = 119,658,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 119,658,000,000.0000
+Computed value: 119,658,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 21
+================================================================================
+CHUNK ID: amzn_relationship_annual_2022_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2022
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (513,983,000,000 - 469,822,000,000) / 469,822,000,000 = 0.0940
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.0900
+Computed value: 0.0940
+Difference: 4.44%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 22
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 172,351,000,000 + 355,503,000,000 = 527,854,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 527,854,000,000.0000
+Computed value: 527,854,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 23
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 325,979,000,000 + 201,875,000,000 = 527,854,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 527,854,000,000.0000
+Computed value: 527,854,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 24
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 172,351,000,000 / 164,917,000,000 = 1.0451
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 1.0500
+Computed value: 1.0451
+Difference: 0.47%
+Verdict: CLOSE
+
+CHUNK NUMBER: 25
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 325,979,000,000 / 201,875,000,000 = 1.6148
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 0.6700
+Computed value: 1.6148
+Difference: 141.01%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 26
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 270,046,000,000 / 574,785,000,000 = 0.4698
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4700
+Computed value: 0.4698
+Difference: 0.04%
+Verdict: MATCH
+
+CHUNK NUMBER: 27
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 30,425,000,000 / 574,785,000,000 = 0.0529
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.0500
+Computed value: 0.0529
+Difference: 5.87%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 28
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 30,425,000,000 / 201,875,000,000 = 0.1507
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 0.1500
+Computed value: 0.1507
+Difference: 0.47%
+Verdict: CLOSE
+
+CHUNK NUMBER: 29
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 1,565,589,760,000 + 62,224,000,000 = 1,627,813,760,000
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 1,627,813,760,000.0000
+Computed value: 1,627,813,760,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 30
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 62,224,000,000 / 89,402,000,000 = 0.6960
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.7000
+Computed value: 0.6960
+Difference: 0.57%
+Verdict: CLOSE
+
+CHUNK NUMBER: 31
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 201,875,000,000 - 22,789,000,000 - 7,687,000,000 = 171,399,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 171,399,000,000.0000
+Computed value: 171,399,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 32
+================================================================================
+CHUNK ID: amzn_relationship_annual_2023_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2023
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (574,785,000,000 - 513,983,000,000) / 513,983,000,000 = 0.1183
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.1200
+Computed value: 0.1183
+Difference: 1.42%
+Verdict: CLOSE
+
+CHUNK NUMBER: 33
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 190,867,000,000 + 434,027,000,000 = 624,894,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 624,894,000,000.0000
+Computed value: 624,894,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 34
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 338,924,000,000 + 285,970,000,000 = 624,894,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 624,894,000,000.0000
+Computed value: 624,894,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 35
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 190,867,000,000 / 179,431,000,000 = 1.0637
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 1.0600
+Computed value: 1.0637
+Difference: 0.35%
+Verdict: CLOSE
+
+CHUNK NUMBER: 36
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 338,924,000,000 / 285,970,000,000 = 1.1852
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 0.4600
+Computed value: 1.1852
+Difference: 157.65%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 37
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 311,671,000,000 / 637,959,000,000 = 0.4885
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.4900
+Computed value: 0.4885
+Difference: 0.30%
+Verdict: CLOSE
+
+CHUNK NUMBER: 38
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 59,248,000,000 / 637,959,000,000 = 0.0929
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.0900
+Computed value: 0.0929
+Difference: 3.19%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 39
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 59,248,000,000 / 285,970,000,000 = 0.2072
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 0.2100
+Computed value: 0.2072
+Difference: 1.34%
+Verdict: CLOSE
+
+CHUNK NUMBER: 40
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 2,297,671,470,000 + 52,121,000,000 = 2,349,792,470,000
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 2,349,792,470,000.0000
+Computed value: 2,349,792,470,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 41
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 52,121,000,000 / 123,815,000,000 = 0.4210
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.4200
+Computed value: 0.4210
+Difference: 0.23%
+Verdict: CLOSE
+
+CHUNK NUMBER: 42
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 285,970,000,000 - 23,074,000,000 - 8,602,000,000 = 254,294,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 254,294,000,000.0000
+Computed value: 254,294,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 43
+================================================================================
+CHUNK ID: amzn_relationship_annual_2024_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (637,959,000,000 - 574,785,000,000) / 574,785,000,000 = 0.1099
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.1100
+Computed value: 0.1099
+Difference: 0.08%
+Verdict: MATCH
+
+CHUNK NUMBER: 44
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2024_q4_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: Q4
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 190,867,000,000 + 434,027,000,000 = 624,894,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 624,894,000,000.0000
+Computed value: 624,894,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 45
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2024_q4_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: Q4
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 338,924,000,000 + 285,970,000,000 = 624,894,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 624,894,000,000.0000
+Computed value: 624,894,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 46
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2024_q4_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: Q4
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 190,867,000,000 + 434,027,000,000 = 624,894,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 624,894,000,000.0000
+Computed value: 624,894,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 47
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2024_q4_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2024
+PERIOD: Q4
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 338,924,000,000 + 285,970,000,000 = 624,894,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 624,894,000,000.0000
+Computed value: 624,894,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 48
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 229,083,000,000 + 588,959,000,000 = 818,042,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 818,042,000,000.0000
+Computed value: 818,042,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 49
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 406,977,000,000 + 411,065,000,000 = 818,042,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 818,042,000,000.0000
+Computed value: 818,042,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 50
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_current_ratio_total_current_assets_total_current_liabilities
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Current Ratio = Total Current Assets / Total Current Liabilities
+Formula applied: 229,083,000,000 / 218,005,000,000 = 1.0508
+Reported value (source: ratios / Liquidity Ratios / Current Ratio): 1.0500
+Computed value: 1.0508
+Difference: 0.08%
+Verdict: MATCH
+
+CHUNK NUMBER: 51
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_debt_to_equity_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Debt-to-Equity = Total Liabilities / Total Equity
+Formula applied: 406,977,000,000 / 411,065,000,000 = 0.9901
+Reported value (source: ratios / Leverage & Solvency Ratios / Debt To Equity Ratio): 0.3700
+Computed value: 0.9901
+Difference: 167.58%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 52
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_gross_profit_margin_gross_profit_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Gross Profit Margin = Gross Profit / Revenue
+Formula applied: 360,510,000,000 / 716,924,000,000 = 0.5029
+Reported value (source: ratios / Profitability Margins / Gross Profit Margin): 0.5000
+Computed value: 0.5029
+Difference: 0.57%
+Verdict: CLOSE
+
+CHUNK NUMBER: 53
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_net_profit_margin_net_income_revenue
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Profit Margin = Net Income / Revenue
+Formula applied: 77,670,000,000 / 716,924,000,000 = 0.1083
+Reported value (source: ratios / Profitability Margins / Net Profit Margin): 0.1100
+Computed value: 0.1083
+Difference: 1.51%
+Verdict: CLOSE
+
+CHUNK NUMBER: 54
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_return_on_equity_net_income_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Return on Equity = Net Income / Total Equity
+Formula applied: 77,670,000,000 / 411,065,000,000 = 0.1889
+Reported value (source: key_metrics / Profitability & Returns / Return On Equity): 0.1900
+Computed value: 0.1889
+Difference: 0.55%
+Verdict: CLOSE
+
+CHUNK NUMBER: 55
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_enterprise_value_market_cap_net_debt
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Enterprise Value = Market Cap + Net Debt
+Formula applied: 2,459,617,920,000 + 66,177,000,000 = 2,525,794,920,000
+Reported value (source: key_metrics / Valuation Metrics / Enterprise Value): 2,525,794,920,000.0000
+Computed value: 2,525,794,920,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 56
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_net_debt_ebitda
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Net Debt / EBITDA
+Formula applied: 66,177,000,000 / 165,341,000,000 = 0.4002
+Reported value (source: key_metrics / Valuation Metrics / Net Debt To EBITDA): 0.4000
+Computed value: 0.4002
+Difference: 0.06%
+Verdict: MATCH
+
+CHUNK NUMBER: 57
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_tangible_asset_value_total_equity_goodwill_intangible_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Tangible Asset Value = Total Equity - Goodwill - Intangible Assets
+Formula applied: 411,065,000,000 - 23,273,000,000 - 9,197,000,000 = 378,595,000,000
+Reported value (source: key_metrics / Valuation Metrics / Tangible Asset Value): 378,595,000,000.0000
+Computed value: 378,595,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 58
+================================================================================
+CHUNK ID: amzn_relationship_annual_2025_fy_revenue_growth_revenue_this_year_revenue_prior_year_revenue_prior_year
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: FY
+STATEMENT GROUP: annual
+================================================================================
+
+Relationship: Revenue Growth = (Revenue this year - Revenue prior year) / Revenue prior year
+Formula applied: (716,924,000,000 - 637,959,000,000) / 637,959,000,000 = 0.1238
+Reported value (source: growth / Income Statement Growth / Revenue Growth): 0.1200
+Computed value: 0.1238
+Difference: 3.15%
+Verdict: MISMATCH
+
+CHUNK NUMBER: 59
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q1_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 184,645,000,000 + 458,611,000,000 = 643,256,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 643,256,000,000.0000
+Computed value: 643,256,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 60
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q1_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 337,389,000,000 + 305,867,000,000 = 643,256,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 643,256,000,000.0000
+Computed value: 643,256,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 61
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q1_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 184,645,000,000 + 458,611,000,000 = 643,256,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 643,256,000,000.0000
+Computed value: 643,256,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 62
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q1_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q1
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 337,389,000,000 + 305,867,000,000 = 643,256,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 643,256,000,000.0000
+Computed value: 643,256,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 63
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q2_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 191,420,000,000 + 490,750,000,000 = 682,170,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 682,170,000,000.0000
+Computed value: 682,170,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 64
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q2_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 348,395,000,000 + 333,775,000,000 = 682,170,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 682,170,000,000.0000
+Computed value: 682,170,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 65
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q2_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 191,420,000,000 + 490,750,000,000 = 682,170,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 682,170,000,000.0000
+Computed value: 682,170,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 66
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q2_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q2
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 348,395,000,000 + 333,775,000,000 = 682,170,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 682,170,000,000.0000
+Computed value: 682,170,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 67
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q3_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 196,866,000,000 + 531,055,000,000 = 727,921,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 727,921,000,000.0000
+Computed value: 727,921,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 68
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q3_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 358,290,000,000 + 369,631,000,000 = 727,921,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 727,921,000,000.0000
+Computed value: 727,921,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 69
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q3_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 196,866,000,000 + 531,055,000,000 = 727,921,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 727,921,000,000.0000
+Computed value: 727,921,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 70
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q3_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q3
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 358,290,000,000 + 369,631,000,000 = 727,921,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 727,921,000,000.0000
+Computed value: 727,921,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 71
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q4_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 229,083,000,000 + 588,959,000,000 = 818,042,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 818,042,000,000.0000
+Computed value: 818,042,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 72
+================================================================================
+CHUNK ID: amzn_relationship_quarterly_2025_q4_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: quarterly
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 406,977,000,000 + 411,065,000,000 = 818,042,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 818,042,000,000.0000
+Computed value: 818,042,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 73
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q4_total_assets_total_current_assets_total_non_current_assets
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Current Assets + Total Non-Current Assets
+Formula applied: 229,083,000,000 + 588,959,000,000 = 818,042,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 818,042,000,000.0000
+Computed value: 818,042,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
+CHUNK NUMBER: 74
+================================================================================
+CHUNK ID: amzn_relationship_ttm_2025_q4_total_assets_total_liabilities_total_equity
+RELATIONSHIP TYPE: Cross-Statement Consistency Check
+COMPANY SYMBOL: AMZN
+FISCAL YEAR: 2025
+PERIOD: Q4
+STATEMENT GROUP: ttm
+================================================================================
+
+Relationship: Total Assets = Total Liabilities + Total Equity
+Formula applied: 406,977,000,000 + 411,065,000,000 = 818,042,000,000
+Reported value (source: balance_sheet / Non-Current Assets / Total Assets): 818,042,000,000.0000
+Computed value: 818,042,000,000.0000
+Difference: 0.00%
+Verdict: MATCH
+
